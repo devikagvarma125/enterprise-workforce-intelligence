@@ -1,0 +1,43 @@
+dataset,check_name,issue_count,severity,status
+attrition,Missing employee_id,0,Error,Pass
+attrition,Invalid exit_reason,0,Warning,Pass
+attrition,Invalid attrition_type,0,Error,Pass
+employees,Missing employee_id,0,Error,Pass
+employees,Duplicate employee_id,0,Error,Pass
+employees,Future hire_date,0,Error,Pass
+employees,Invalid department,0,Error,Pass
+employees,Invalid location,0,Error,Pass
+employees,Invalid work_mode,0,Error,Pass
+employees,Invalid employment_type,0,Warning,Pass
+employees,Invalid employee_status,0,Error,Pass
+employees,manager_id not found in employees,0,Warning,Pass
+payroll,Missing employee_id,0,Error,Pass
+payroll,Employee ID not found in employee master,0,Error,Pass
+payroll,Annual salary less than or equal to zero,0,Error,Pass
+attendance,Missing employee_id,0,Error,Pass
+attendance,Employee ID not found in employee master,0,Error,Pass
+attendance,Working days less than or equal to zero,0,Error,Pass
+attendance,Present plus absent days greater than working days,0,Error,Pass
+leave,Missing employee_id,0,Error,Pass
+leave,Employee ID not found in employee master,0,Error,Pass
+leave,leave_end_date before leave_start_date,0,Error,Pass
+leave,Invalid leave_type,0,Warning,Pass
+leave,Invalid leave_status,0,Warning,Pass
+recruitment,Invalid recruitment_source,0,Warning,Pass
+recruitment,Invalid status,0,Error,Pass
+recruitment,application_date after hire_date,0,Error,Pass
+recruitment,hired_employee_id not found in employee master,0,Warning,Pass
+training,Missing employee_id,0,Error,Pass
+training,Employee ID not found in employee master,0,Error,Pass
+training,completion_date before assigned_date,0,Error,Pass
+training,Invalid course_category,0,Warning,Pass
+training,Invalid completion_status,0,Warning,Pass
+performance,Missing employee_id,0,Error,Pass
+performance,Employee ID not found in employee master,0,Error,Pass
+performance,performance_rating outside 1 to 5,0,Error,Pass
+performance,potential_rating outside 1 to 5,0,Error,Pass
+performance,Invalid review_period,0,Warning,Pass
+security_mapping,Missing user_email,0,Error,Pass
+security_mapping,Invalid email format,0,Error,Pass
+security_mapping,Invalid access_type,0,Error,Pass
+attrition,Employee ID not found in employee master,0,Error,Pass

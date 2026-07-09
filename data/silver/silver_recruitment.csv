@@ -1,0 +1,744 @@
+candidate_id,requisition_id,department,job_role,location,recruitment_source,application_date,interview_date,offer_date,hire_date,status,hired_employee_id,time_to_hire_days,ingestion_timestamp,source_file_name,source_system,pipeline_run_id
+CAND000001,REQ4783,HR,HR Advisor,Edinburgh,Campus,2025-04-05,2025-04-24,2025-05-03,2025-05-02,Hired,EMP0010,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000002,REQ6642,Finance,Accounts Assistant,Birmingham,LinkedIn,2024-02-07,2024-02-18,2024-02-22,2024-04-02,Hired,EMP0011,55,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000003,REQ8022,HR,HR Advisor,Leeds,Job Board,2025-02-01,2025-02-10,2025-02-15,2025-03-01,Hired,EMP0015,28,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000004,REQ4455,Customer Support,Customer Support Advisor,Bristol,Campus,2024-03-07,2024-03-27,2024-04-05,2024-04-09,Hired,EMP0016,33,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000005,REQ4687,Operations,Operations Assistant,Bristol,Referral,2024-01-24,2024-02-01,2024-02-09,2024-03-15,Hired,EMP0023,51,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000006,REQ5338,Operations,Operations Director,Birmingham,Company Website,2025-02-03,2025-02-22,2025-03-01,2025-04-01,Hired,EMP0024,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000007,REQ6362,Marketing,Marketing Assistant,Birmingham,Referral,2026-02-07,2026-02-14,2026-02-17,2026-04-15,Hired,EMP0028,67,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000008,REQ3765,Customer Support,Customer Support Specialist,Manchester,Job Board,2025-05-29,2025-06-10,2025-06-15,2025-07-23,Hired,EMP0031,55,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000009,REQ2397,Finance,Accounts Assistant,Leeds,Referral,2025-12-22,2025-12-27,2026-01-09,2026-02-14,Hired,EMP0033,54,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000010,REQ9490,Legal,Legal Assistant,London,Job Board,2025-03-04,2025-03-23,2025-04-02,2025-05-16,Hired,EMP0043,73,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000011,REQ9613,IT,Junior Software Developer,London,Job Board,2025-05-07,2025-05-24,2025-05-29,2025-05-30,Hired,EMP0048,23,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000012,REQ9445,Customer Support,Senior Support Specialist,Edinburgh,Job Board,2025-10-13,2025-10-27,2025-10-31,2025-11-03,Hired,EMP0054,21,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000013,REQ6178,IT,Senior Data Engineer,Manchester,Job Board,2024-10-26,2024-11-03,2024-11-14,2024-11-13,Hired,EMP0057,18,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000014,REQ3172,Sales,Senior Account Executive,Bristol,Agency,2024-04-10,2024-04-20,2024-04-25,2024-06-10,Hired,EMP0058,61,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000015,REQ4787,Sales,Sales Executive,Manchester,Job Board,2024-03-19,2024-04-07,2024-04-11,2024-05-06,Hired,EMP0060,48,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000016,REQ9702,Customer Support,Customer Support Advisor,London,Referral,2024-10-24,2024-11-12,2024-11-17,2024-12-14,Hired,EMP0066,51,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000017,REQ6289,IT,Junior Software Developer,London,Agency,2025-10-06,2025-10-23,2025-11-03,2025-11-02,Hired,EMP0072,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000018,REQ7214,Legal,Legal Assistant,Leeds,LinkedIn,2025-08-08,2025-08-21,2025-09-02,2025-09-24,Hired,EMP0073,47,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000019,REQ4758,Sales,Sales Executive,Edinburgh,Referral,2024-08-08,2024-08-28,2024-08-31,2024-09-28,Hired,EMP0074,51,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000020,REQ6724,Marketing,Marketing Assistant,Birmingham,Job Board,2025-12-26,2026-01-14,2026-01-24,2026-02-26,Hired,EMP0078,62,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000021,REQ7683,Customer Support,Customer Support Specialist,Birmingham,LinkedIn,2025-02-22,2025-03-03,2025-03-14,2025-04-20,Hired,EMP0082,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000022,REQ3253,Customer Support,Senior Support Specialist,London,LinkedIn,2025-05-15,2025-05-21,2025-06-02,2025-07-09,Hired,EMP0084,55,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000023,REQ7488,Sales,Sales Executive,London,Company Website,2024-10-24,2024-11-12,2024-11-17,2024-11-24,Hired,EMP0087,31,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000024,REQ7842,HR,HR Assistant,Bristol,LinkedIn,2025-01-27,2025-02-16,2025-02-19,2025-03-25,Hired,EMP0093,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000025,REQ6103,IT,Data Analyst,Birmingham,Agency,2025-05-12,2025-05-22,2025-06-02,2025-06-14,Hired,EMP0097,33,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000026,REQ3502,Customer Support,Customer Support Advisor,Birmingham,LinkedIn,2026-01-04,2026-01-25,2026-02-05,2026-03-13,Hired,EMP0098,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000027,REQ7593,Sales,Sales Development Representative,London,Job Board,2023-11-28,2023-12-10,2023-12-18,2024-02-01,Hired,EMP0099,65,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000028,REQ8182,Marketing,Marketing Executive,London,Job Board,2024-11-05,2024-11-22,2024-12-05,2024-12-02,Hired,EMP0103,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000029,REQ2201,IT,Senior Data Engineer,Manchester,Job Board,2025-03-08,2025-03-24,2025-03-28,2025-04-04,Hired,EMP0105,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000030,REQ9274,HR,HR Business Partner,Leeds,Referral,2025-07-08,2025-07-21,2025-07-31,2025-09-01,Hired,EMP0107,55,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000031,REQ8417,Customer Support,Customer Support Specialist,Birmingham,Job Board,2024-09-10,2024-09-29,2024-10-07,2024-11-16,Hired,EMP0112,67,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000032,REQ6977,Finance,Finance Analyst,Birmingham,Agency,2025-12-27,2026-01-01,2026-01-12,2026-01-18,Hired,EMP0114,22,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000033,REQ4940,Marketing,Marketing Manager,Manchester,Agency,2025-07-08,2025-07-27,2025-08-07,2025-09-03,Hired,EMP0116,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000034,REQ6089,Operations,Operations Manager,Birmingham,Job Board,2024-12-31,2025-01-21,2025-01-28,2025-02-08,Hired,EMP0119,39,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000035,REQ3016,Customer Support,Senior Support Specialist,London,LinkedIn,2024-09-01,2024-09-10,2024-09-17,2024-09-20,Hired,EMP0129,19,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000036,REQ7026,HR,HR Business Partner,Edinburgh,LinkedIn,2025-09-20,2025-10-07,2025-10-15,2025-10-09,Hired,EMP0131,19,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000037,REQ8353,HR,HR Advisor,Birmingham,Company Website,2025-12-12,2025-12-29,2026-01-04,2026-01-18,Hired,EMP0133,37,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000038,REQ3885,Customer Support,Senior Support Specialist,Edinburgh,Referral,2025-07-01,2025-07-08,2025-07-16,2025-09-10,Hired,EMP0137,71,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000039,REQ6201,IT,Data Analyst,Manchester,Campus,2024-05-29,2024-06-07,2024-06-16,2024-06-20,Hired,EMP0140,22,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000040,REQ8316,Legal,Legal Manager,London,LinkedIn,2025-01-10,2025-01-20,2025-01-27,2025-02-14,Hired,EMP0141,35,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000041,REQ6306,Sales,Senior Account Executive,Bristol,Agency,2025-01-06,2025-01-16,2025-01-27,2025-02-11,Hired,EMP0144,36,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000042,REQ8902,Customer Support,Customer Support Specialist,Bristol,LinkedIn,2024-10-24,2024-11-04,2024-11-09,2024-11-24,Hired,EMP0146,31,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000043,REQ9353,Sales,Sales Development Representative,Edinburgh,LinkedIn,2026-01-08,2026-01-16,2026-01-24,2026-02-26,Hired,EMP0151,49,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000044,REQ1443,Operations,Operations Analyst,Manchester,Campus,2024-08-24,2024-09-12,2024-09-17,2024-09-18,Hired,EMP0164,25,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000045,REQ4388,Sales,Sales Development Representative,London,Agency,2023-12-31,2024-01-12,2024-01-23,2024-02-03,Hired,EMP0168,34,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000046,REQ3069,Sales,Sales Development Representative,Leeds,Referral,2025-06-30,2025-07-06,2025-07-17,2025-08-25,Hired,EMP0177,56,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000047,REQ7065,Operations,Senior Operations Specialist,Birmingham,LinkedIn,2024-12-06,2024-12-11,2024-12-15,2024-12-26,Hired,EMP0182,20,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000048,REQ8215,Sales,Sales Executive,Manchester,Job Board,2024-10-06,2024-10-26,2024-11-03,2024-12-12,Hired,EMP0185,67,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000049,REQ1565,Customer Support,Customer Support Advisor,Edinburgh,Referral,2024-08-18,2024-08-27,2024-08-30,2024-10-23,Hired,EMP0186,66,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000050,REQ8816,Operations,Senior Operations Specialist,Edinburgh,LinkedIn,2024-11-14,2024-11-19,2024-11-26,2024-12-09,Hired,EMP0194,25,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000051,REQ5153,IT,Data Analyst,London,Referral,2026-02-24,2026-03-10,2026-03-19,2026-03-21,Hired,EMP0196,25,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000052,REQ7070,Operations,Senior Operations Specialist,Manchester,Referral,2025-11-04,2025-11-24,2025-12-05,2025-12-21,Hired,EMP0197,47,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000053,REQ7915,Customer Support,Senior Support Specialist,Edinburgh,LinkedIn,2025-04-11,2025-04-27,2025-05-01,2025-06-11,Hired,EMP0210,61,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000054,REQ7224,Finance,Finance Analyst,London,Agency,2025-05-22,2025-06-10,2025-06-13,2025-06-28,Hired,EMP0212,37,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000055,REQ6344,IT,Junior Software Developer,Bristol,Job Board,2024-05-31,2024-06-13,2024-06-21,2024-07-09,Hired,EMP0219,39,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000056,REQ2227,Sales,Sales Executive,Bristol,Referral,2025-09-27,2025-10-14,2025-10-22,2025-12-02,Hired,EMP0222,66,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000057,REQ6660,IT,Senior Data Engineer,Bristol,Job Board,2024-11-01,2024-11-13,2024-11-20,2024-12-28,Hired,EMP0223,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000058,REQ7720,Customer Support,Customer Support Manager,London,Referral,2024-09-17,2024-09-25,2024-10-03,2024-11-02,Hired,EMP0226,46,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000059,REQ2376,Finance,Finance Analyst,London,Agency,2024-02-23,2024-02-29,2024-03-05,2024-03-26,Hired,EMP0230,32,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000060,REQ1162,Sales,Senior Account Executive,London,Agency,2024-10-28,2024-11-08,2024-11-16,2024-12-07,Hired,EMP0234,40,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000061,REQ6007,Operations,Operations Assistant,London,Referral,2024-02-04,2024-02-13,2024-02-17,2024-04-08,Hired,EMP0247,64,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000062,REQ7246,Sales,Sales Development Representative,Birmingham,Job Board,2025-01-31,2025-02-12,2025-02-20,2025-02-21,Hired,EMP0259,21,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000063,REQ5570,Marketing,Marketing Assistant,Edinburgh,Agency,2026-01-18,2026-02-06,2026-02-14,2026-02-22,Hired,EMP0263,35,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000064,REQ2768,Customer Support,Senior Support Specialist,Birmingham,LinkedIn,2024-08-31,2024-09-16,2024-09-21,2024-10-15,Hired,EMP0268,45,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000065,REQ5814,Sales,Sales Executive,Birmingham,Referral,2025-07-04,2025-07-23,2025-08-02,2025-07-25,Hired,EMP0277,21,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000066,REQ5176,Sales,Sales Manager,Leeds,LinkedIn,2025-08-11,2025-08-18,2025-08-23,2025-08-29,Hired,EMP0279,18,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000067,REQ6405,Finance,Accounts Assistant,Bristol,Job Board,2023-12-02,2023-12-07,2023-12-12,2024-02-14,Hired,EMP0298,74,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000068,REQ9847,Finance,Finance Manager,Birmingham,LinkedIn,2024-02-10,2024-02-16,2024-02-25,2024-04-01,Hired,EMP0307,51,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000069,REQ5478,Finance,Accounts Assistant,Manchester,LinkedIn,2024-10-23,2024-10-30,2024-11-07,2024-12-30,Hired,EMP0313,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000070,REQ3990,Finance,Finance Manager,Bristol,LinkedIn,2025-07-25,2025-08-06,2025-08-09,2025-08-14,Hired,EMP0314,20,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000071,REQ2637,Customer Support,Customer Support Advisor,London,Job Board,2024-04-30,2024-05-10,2024-05-15,2024-06-19,Hired,EMP0317,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000072,REQ4591,Operations,Operations Analyst,Manchester,Company Website,2024-05-16,2024-06-01,2024-06-07,2024-07-27,Hired,EMP0322,72,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000073,REQ2123,Operations,Operations Manager,Edinburgh,Job Board,2024-04-28,2024-05-14,2024-05-27,2024-07-03,Hired,EMP0328,66,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000074,REQ6192,Customer Support,Customer Support Advisor,Manchester,Agency,2024-07-10,2024-07-25,2024-07-28,2024-09-10,Hired,EMP0348,62,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000075,REQ5284,Sales,Sales Development Representative,Leeds,Campus,2026-01-11,2026-01-27,2026-02-09,2026-02-19,Hired,EMP0349,39,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000076,REQ2493,Operations,Senior Operations Specialist,Leeds,LinkedIn,2025-11-04,2025-11-21,2025-11-28,2026-01-08,Hired,EMP0362,65,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000077,REQ3377,Finance,Finance Analyst,Birmingham,Job Board,2024-02-16,2024-03-01,2024-03-08,2024-03-20,Hired,EMP0363,33,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000078,REQ9621,Marketing,Marketing Assistant,London,Job Board,2024-06-01,2024-06-19,2024-06-28,2024-07-23,Hired,EMP0368,52,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000079,REQ1912,Legal,Senior Legal Counsel,Bristol,Agency,2023-12-27,2024-01-12,2024-01-20,2024-01-23,Hired,EMP0369,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000080,REQ8866,Operations,Operations Assistant,Birmingham,Job Board,2024-12-18,2024-12-25,2024-12-31,2025-02-06,Hired,EMP0371,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000081,REQ5686,Finance,Accounts Assistant,Leeds,Referral,2023-12-13,2023-12-31,2024-01-13,2024-02-21,Hired,EMP0372,70,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000082,REQ1226,Legal,Legal Assistant,London,Agency,2024-04-14,2024-04-24,2024-05-05,2024-06-11,Hired,EMP0373,58,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000083,REQ3427,Marketing,Marketing Executive,Manchester,Referral,2024-12-22,2024-12-29,2025-01-01,2025-02-09,Hired,EMP0381,49,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000084,REQ2557,Marketing,Marketing Assistant,Bristol,Job Board,2025-04-24,2025-05-08,2025-05-17,2025-05-31,Hired,EMP0382,37,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000085,REQ7647,Operations,Operations Manager,Edinburgh,LinkedIn,2024-07-06,2024-07-24,2024-08-04,2024-09-04,Hired,EMP0384,60,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000086,REQ6805,IT,Technology Director,Edinburgh,LinkedIn,2026-01-20,2026-02-04,2026-02-11,2026-03-13,Hired,EMP0396,52,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000087,REQ3459,Operations,Operations Assistant,Birmingham,LinkedIn,2025-08-25,2025-09-14,2025-09-20,2025-09-22,Hired,EMP0399,28,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000088,REQ8423,Finance,Accounts Assistant,Edinburgh,Referral,2025-01-12,2025-02-02,2025-02-06,2025-02-24,Hired,EMP0405,43,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000089,REQ6873,Sales,Sales Executive,London,LinkedIn,2025-04-19,2025-04-30,2025-05-12,2025-07-01,Hired,EMP0411,73,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000090,REQ1662,Legal,Legal Assistant,Birmingham,Job Board,2026-01-25,2026-02-09,2026-02-17,2026-03-10,Hired,EMP0412,44,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000091,REQ1613,Customer Support,Customer Support Specialist,London,LinkedIn,2024-06-10,2024-06-21,2024-07-03,2024-08-09,Hired,EMP0417,60,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000092,REQ3043,Operations,Operations Manager,Birmingham,Campus,2025-08-29,2025-09-09,2025-09-19,2025-10-06,Hired,EMP0420,38,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000093,REQ5465,Sales,Sales Development Representative,Edinburgh,Referral,2025-07-20,2025-08-09,2025-08-22,2025-08-19,Hired,EMP0429,30,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000094,REQ4052,IT,Junior Software Developer,London,Agency,2024-06-14,2024-06-19,2024-07-02,2024-07-14,Hired,EMP0435,30,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000095,REQ2426,Operations,Operations Manager,Manchester,LinkedIn,2025-10-22,2025-11-07,2025-11-13,2025-12-29,Hired,EMP0439,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000096,REQ7004,Operations,Operations Assistant,London,Campus,2024-09-02,2024-09-18,2024-09-29,2024-10-26,Hired,EMP0442,54,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000097,REQ8956,Customer Support,Customer Support Advisor,London,Referral,2025-12-06,2025-12-23,2026-01-03,2026-02-02,Hired,EMP0445,58,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000098,REQ4838,Operations,Senior Operations Specialist,London,Job Board,2024-12-07,2024-12-19,2024-12-24,2025-02-02,Hired,EMP0446,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000099,REQ9018,Finance,Senior Finance Analyst,Birmingham,Campus,2025-08-31,2025-09-12,2025-09-16,2025-09-25,Hired,EMP0449,25,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000100,REQ8842,Finance,Finance Analyst,London,Agency,2024-01-11,2024-01-25,2024-01-31,2024-02-14,Hired,EMP0455,34,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000101,REQ2738,Customer Support,Senior Support Specialist,Birmingham,LinkedIn,2024-08-29,2024-09-07,2024-09-16,2024-09-25,Hired,EMP0456,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000102,REQ7321,Sales,Senior Account Executive,Birmingham,Agency,2024-10-16,2024-10-31,2024-11-09,2024-12-23,Hired,EMP0458,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000103,REQ6665,Operations,Operations Analyst,London,Campus,2024-08-10,2024-08-24,2024-08-31,2024-09-05,Hired,EMP0459,26,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000104,REQ3768,Operations,Operations Manager,Bristol,LinkedIn,2025-09-21,2025-09-30,2025-10-08,2025-11-12,Hired,EMP0460,52,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000105,REQ3766,Finance,Finance Analyst,Leeds,Job Board,2024-04-01,2024-04-07,2024-04-16,2024-06-09,Hired,EMP0461,69,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000106,REQ7614,HR,HR Advisor,Edinburgh,Referral,2024-01-18,2024-01-23,2024-02-02,2024-02-20,Hired,EMP0466,33,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000107,REQ5996,Marketing,Marketing Manager,Bristol,LinkedIn,2025-01-13,2025-01-27,2025-02-07,2025-02-24,Hired,EMP0469,42,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000108,REQ9977,Sales,Sales Director,Bristol,Job Board,2024-06-18,2024-07-07,2024-07-19,2024-08-12,Hired,EMP0470,55,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000109,REQ6459,IT,IT Manager,Leeds,LinkedIn,2026-02-18,2026-03-07,2026-03-20,2026-04-13,Hired,EMP0472,54,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000110,REQ9708,Sales,Sales Executive,Birmingham,Job Board,2024-07-06,2024-07-27,2024-08-02,2024-08-20,Hired,EMP0473,45,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000111,REQ4555,Sales,Senior Account Executive,London,Job Board,2024-03-26,2024-04-15,2024-04-24,2024-04-17,Hired,EMP0481,22,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000112,REQ1136,Legal,Legal Manager,Birmingham,LinkedIn,2025-12-31,2026-01-05,2026-01-16,2026-02-07,Hired,EMP0491,38,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000113,REQ7124,IT,Data Analyst,London,LinkedIn,2025-02-11,2025-02-26,2025-03-02,2025-04-02,Hired,EMP0496,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000114,REQ6999,Sales,Sales Executive,Leeds,Campus,2025-05-26,2025-06-10,2025-06-15,2025-07-09,Hired,EMP0500,44,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000115,REQ3522,Operations,Operations Assistant,Manchester,Job Board,2025-11-03,2025-11-11,2025-11-20,2026-01-14,Hired,EMP0502,72,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000116,REQ7460,Operations,Operations Manager,Edinburgh,Campus,2025-12-09,2025-12-23,2026-01-04,2026-01-07,Hired,EMP0504,29,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000117,REQ8504,Marketing,Marketing Executive,Birmingham,LinkedIn,2025-04-10,2025-04-17,2025-04-22,2025-05-05,Hired,EMP0508,25,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000118,REQ3520,Marketing,Marketing Assistant,Birmingham,Company Website,2024-12-21,2025-01-06,2025-01-09,2025-02-06,Hired,EMP0511,47,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000119,REQ4847,IT,Junior Software Developer,London,Campus,2024-03-10,2024-03-18,2024-03-26,2024-05-23,Hired,EMP0522,74,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000120,REQ5729,IT,Senior Data Engineer,Leeds,Job Board,2025-03-24,2025-04-02,2025-04-15,2025-05-13,Hired,EMP0523,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000121,REQ5303,Finance,Finance Analyst,Birmingham,LinkedIn,2024-12-02,2024-12-14,2024-12-21,2025-02-07,Hired,EMP0526,67,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000122,REQ7804,Customer Support,Customer Support Manager,Manchester,Campus,2024-11-06,2024-11-18,2024-11-27,2025-01-11,Hired,EMP0527,66,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000123,REQ7823,HR,HR Assistant,Birmingham,Referral,2025-09-17,2025-09-29,2025-10-12,2025-11-06,Hired,EMP0531,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000124,REQ7566,Sales,Sales Executive,Leeds,LinkedIn,2025-06-29,2025-07-16,2025-07-23,2025-09-06,Hired,EMP0534,69,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000125,REQ3772,HR,HR Assistant,Manchester,LinkedIn,2024-03-10,2024-03-16,2024-03-19,2024-05-17,Hired,EMP0535,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000126,REQ3188,Customer Support,Customer Support Specialist,Edinburgh,Job Board,2025-03-01,2025-03-16,2025-03-22,2025-04-27,Hired,EMP0536,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000127,REQ3103,Operations,Senior Operations Specialist,Edinburgh,Job Board,2024-09-11,2024-09-25,2024-09-30,2024-10-26,Hired,EMP0539,45,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000128,REQ3707,Sales,Sales Executive,London,Job Board,2024-06-26,2024-07-01,2024-07-06,2024-08-15,Hired,EMP0541,50,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000129,REQ5266,Sales,Sales Manager,Edinburgh,Job Board,2026-01-21,2026-01-26,2026-01-31,2026-03-25,Hired,EMP0544,63,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000130,REQ1550,Marketing,Marketing Assistant,Manchester,LinkedIn,2025-12-12,2025-12-31,2026-01-07,2026-02-01,Hired,EMP0546,51,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000131,REQ3024,Marketing,Marketing Manager,Bristol,Referral,2024-01-08,2024-01-22,2024-01-25,2024-03-12,Hired,EMP0547,64,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000132,REQ9592,Finance,Finance Analyst,Leeds,Job Board,2025-06-28,2025-07-14,2025-07-17,2025-08-19,Hired,EMP0549,52,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000133,REQ3318,HR,HR Business Partner,Edinburgh,Referral,2024-09-03,2024-09-20,2024-09-27,2024-11-11,Hired,EMP0550,69,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000134,REQ9476,Finance,Accounts Assistant,Leeds,Referral,2025-10-28,2025-11-04,2025-11-10,2025-12-06,Hired,EMP0563,39,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000135,REQ7529,Customer Support,Senior Support Specialist,Birmingham,Agency,2025-11-30,2025-12-11,2025-12-15,2025-12-30,Hired,EMP0568,30,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000136,REQ9967,Operations,Operations Analyst,London,Campus,2023-11-16,2023-11-28,2023-12-08,2024-01-23,Hired,EMP0570,68,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000137,REQ4250,IT,IT Manager,Birmingham,Job Board,2025-04-27,2025-05-06,2025-05-14,2025-07-08,Hired,EMP0571,72,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000138,REQ2428,Operations,Operations Assistant,Leeds,LinkedIn,2025-07-29,2025-08-11,2025-08-23,2025-09-27,Hired,EMP0574,60,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000139,REQ3520,Customer Support,Customer Support Advisor,Birmingham,Job Board,2024-04-04,2024-04-22,2024-04-29,2024-06-17,Hired,EMP0578,74,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000140,REQ5008,Sales,Sales Executive,London,Job Board,2024-07-16,2024-07-26,2024-08-06,2024-09-20,Hired,EMP0581,66,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000141,REQ3345,Operations,Operations Manager,Birmingham,Agency,2024-12-31,2025-01-13,2025-01-21,2025-01-24,Hired,EMP0582,24,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000142,REQ4405,Operations,Operations Analyst,Birmingham,LinkedIn,2024-07-28,2024-08-12,2024-08-21,2024-08-24,Hired,EMP0594,27,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000143,REQ9883,HR,HR Business Partner,London,Agency,2025-10-21,2025-11-02,2025-11-13,2025-12-17,Hired,EMP0596,57,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000144,REQ9280,Legal,Legal Advisor,Birmingham,LinkedIn,2025-11-24,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000145,REQ6673,HR,HR Business Partner,London,LinkedIn,2024-11-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000146,REQ7780,Finance,Finance Analyst,Manchester,Referral,2026-01-12,2026-01-20,2026-01-26,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000147,REQ6431,HR,HR Business Partner,Manchester,Job Board,2026-05-30,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000148,REQ2280,Marketing,Marketing Manager,London,Campus,2024-01-18,2024-02-03,2024-02-07,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000149,REQ1592,Operations,Operations Analyst,Leeds,Job Board,2025-05-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000150,REQ1618,IT,Junior Software Developer,London,Job Board,2025-03-26,2025-04-16,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000151,REQ1921,IT,Data Analyst,Birmingham,Job Board,2026-05-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000152,REQ7535,Operations,Senior Operations Specialist,Bristol,Agency,2025-01-01,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000153,REQ6841,Operations,Senior Operations Specialist,Birmingham,Campus,2026-03-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000154,REQ2142,Sales,Senior Account Executive,Birmingham,Job Board,2024-11-06,2024-11-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000155,REQ3983,Customer Support,Customer Support Specialist,Edinburgh,Agency,2024-04-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000156,REQ5471,Finance,Accounts Assistant,Birmingham,Campus,2025-09-14,2025-09-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000157,REQ3880,HR,HR Business Partner,Edinburgh,Referral,2024-04-08,2024-04-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000158,REQ9525,Operations,Operations Analyst,London,Agency,2026-04-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000159,REQ3763,Sales,Sales Executive,Birmingham,Job Board,2025-05-24,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000160,REQ5214,Customer Support,Customer Support Manager,Bristol,Agency,2024-09-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000161,REQ3424,Sales,Sales Executive,Bristol,Agency,2024-06-22,2024-07-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000162,REQ7987,HR,HR Assistant,London,Job Board,2025-09-09,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000163,REQ2062,Customer Support,Senior Support Specialist,Edinburgh,LinkedIn,2026-03-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000164,REQ5065,Customer Support,Senior Support Specialist,London,Company Website,2026-04-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000165,REQ9126,IT,Data Analyst,Manchester,Job Board,2025-08-31,2025-09-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000166,REQ7677,Customer Support,Customer Support Specialist,Manchester,Campus,2024-03-09,2024-03-19,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000167,REQ8241,Sales,Sales Development Representative,Birmingham,LinkedIn,2025-10-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000168,REQ6672,Operations,Senior Operations Specialist,Birmingham,Job Board,2024-03-20,2024-04-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000169,REQ2994,Sales,Senior Account Executive,Manchester,Job Board,2024-04-17,2024-05-09,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000170,REQ7998,IT,IT Manager,London,LinkedIn,2025-07-25,2025-08-06,2025-08-18,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000171,REQ1981,IT,Junior Software Developer,London,Job Board,2024-03-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000172,REQ5785,Sales,Sales Executive,London,Company Website,2024-12-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000173,REQ4421,Finance,Senior Finance Analyst,London,Job Board,2024-06-21,2024-07-14,2024-07-22,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000174,REQ2795,Legal,Senior Legal Counsel,Birmingham,Job Board,2025-12-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000175,REQ4902,Sales,Sales Manager,Edinburgh,Job Board,2026-02-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000176,REQ8732,IT,Junior Software Developer,London,LinkedIn,2024-02-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000177,REQ1515,Legal,Legal Advisor,London,Job Board,2024-05-22,2024-05-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000178,REQ2563,IT,Senior Data Engineer,Bristol,LinkedIn,2024-07-26,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000179,REQ8228,Operations,Senior Operations Specialist,Birmingham,Referral,2026-03-14,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000180,REQ6123,Operations,Operations Analyst,Birmingham,Job Board,2026-04-24,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000181,REQ5194,Operations,Senior Operations Specialist,Manchester,Job Board,2025-07-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000182,REQ2823,Operations,Operations Manager,Leeds,LinkedIn,2026-02-23,2026-03-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000183,REQ3422,Finance,Finance Manager,London,Agency,2025-09-26,2025-10-06,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000184,REQ7213,Sales,Sales Manager,Bristol,Company Website,2024-10-04,2024-10-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000185,REQ8380,IT,Senior Data Engineer,London,LinkedIn,2026-04-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000186,REQ5910,Sales,Sales Executive,Edinburgh,Job Board,2025-09-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000187,REQ2988,Operations,Operations Analyst,London,LinkedIn,2025-10-29,2025-11-06,2025-11-11,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000188,REQ1513,Operations,Operations Analyst,Leeds,Job Board,2024-06-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000189,REQ9014,Customer Support,Senior Support Specialist,Edinburgh,Company Website,2024-10-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000190,REQ3173,Sales,Sales Executive,London,LinkedIn,2024-02-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000191,REQ8423,Customer Support,Customer Support Specialist,Birmingham,LinkedIn,2025-10-16,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000192,REQ1726,IT,Junior Software Developer,Bristol,Referral,2026-04-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000193,REQ5679,Sales,Sales Executive,Birmingham,Agency,2025-03-25,2025-03-31,2025-04-10,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000194,REQ3277,Operations,Operations Analyst,Birmingham,Job Board,2024-09-11,2024-09-25,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000195,REQ7884,Operations,Operations Analyst,Manchester,Agency,2025-07-08,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000196,REQ3690,Operations,Senior Operations Specialist,Bristol,LinkedIn,2026-04-05,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000197,REQ3019,Customer Support,Senior Support Specialist,Birmingham,Referral,2025-10-15,2025-10-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000198,REQ2454,Finance,Accounts Assistant,Bristol,Job Board,2025-03-09,2025-03-28,2025-04-05,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000199,REQ3390,Legal,Legal Advisor,Bristol,Job Board,2025-02-06,2025-02-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000200,REQ6561,IT,Junior Software Developer,Leeds,Job Board,2024-11-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000201,REQ4826,Customer Support,Customer Support Specialist,Bristol,Job Board,2025-09-08,2025-09-20,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000202,REQ3338,Finance,Accounts Assistant,Bristol,Referral,2025-08-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000203,REQ6232,Sales,Sales Executive,Edinburgh,LinkedIn,2025-03-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000204,REQ9267,Marketing,Senior Marketing Specialist,Manchester,LinkedIn,2025-01-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000205,REQ3010,Marketing,Marketing Assistant,London,Referral,2024-06-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000206,REQ8160,Sales,Sales Director,Leeds,Job Board,2026-02-17,2026-02-23,2026-03-03,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000207,REQ8208,Operations,Operations Analyst,Leeds,Job Board,2025-02-05,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000208,REQ8594,Customer Support,Customer Support Specialist,Bristol,LinkedIn,2024-01-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000209,REQ7807,Customer Support,Customer Support Specialist,London,Campus,2025-10-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000210,REQ4244,Customer Support,Senior Support Specialist,Bristol,Company Website,2025-04-27,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000211,REQ7414,Legal,Legal Advisor,Leeds,Job Board,2025-03-17,2025-04-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000212,REQ5580,Operations,Operations Analyst,London,Company Website,2024-02-18,2024-03-09,2024-03-15,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000213,REQ2194,Sales,Sales Development Representative,London,Agency,2025-07-02,2025-07-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000214,REQ4155,Sales,Sales Executive,Manchester,LinkedIn,2024-01-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000215,REQ8356,Marketing,Marketing Manager,Birmingham,Job Board,2025-11-21,2025-12-01,2025-12-08,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000216,REQ4357,Customer Support,Customer Support Specialist,Manchester,Job Board,2026-03-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000217,REQ1586,HR,HR Advisor,London,Company Website,2026-01-19,2026-02-03,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000218,REQ5093,Marketing,Senior Marketing Specialist,London,LinkedIn,2025-07-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000219,REQ7273,Operations,Operations Analyst,Bristol,LinkedIn,2025-12-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000220,REQ2448,Legal,Legal Director,Leeds,Company Website,2025-05-25,2025-06-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000221,REQ4180,Operations,Operations Assistant,Manchester,LinkedIn,2026-02-18,2026-03-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000222,REQ9844,Sales,Sales Executive,Edinburgh,Job Board,2025-07-05,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000223,REQ5686,Operations,Senior Operations Specialist,Birmingham,Referral,2026-01-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000224,REQ4452,HR,HR Business Partner,London,Agency,2025-11-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000225,REQ7901,IT,IT Manager,Bristol,Referral,2025-12-28,2026-01-19,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000226,REQ2403,Customer Support,Customer Support Advisor,Edinburgh,Referral,2024-12-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000227,REQ2574,Sales,Sales Executive,Manchester,Company Website,2024-09-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000228,REQ6865,HR,HR Manager,London,Job Board,2024-04-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000229,REQ8963,Finance,Accounts Assistant,Birmingham,Agency,2026-05-29,2026-06-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000230,REQ7724,Sales,Sales Executive,Leeds,LinkedIn,2025-09-24,2025-10-07,2025-10-13,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000231,REQ8575,Customer Support,Senior Support Specialist,Edinburgh,Job Board,2025-03-28,2025-04-06,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000232,REQ3297,IT,Senior Data Engineer,Edinburgh,Agency,2024-06-16,2024-06-23,2024-06-29,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000233,REQ7187,Operations,Operations Director,London,Campus,2024-09-16,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000234,REQ1872,Marketing,Marketing Assistant,Edinburgh,LinkedIn,2025-07-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000235,REQ1257,Marketing,Marketing Assistant,Manchester,Job Board,2024-10-22,2024-11-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000236,REQ1698,Finance,Finance Manager,London,Job Board,2024-08-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000237,REQ8240,IT,Data Analyst,London,Referral,2025-07-26,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000238,REQ3217,Sales,Sales Executive,London,Agency,2025-01-10,2025-01-29,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000239,REQ3433,Sales,Sales Development Representative,Birmingham,Referral,2025-06-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000240,REQ1027,Sales,Sales Development Representative,Manchester,Job Board,2024-09-08,2024-09-23,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000241,REQ2127,Finance,Finance Analyst,Bristol,LinkedIn,2025-12-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000242,REQ4820,Customer Support,Customer Support Manager,London,LinkedIn,2026-02-02,2026-02-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000243,REQ1548,Sales,Senior Account Executive,Bristol,LinkedIn,2025-03-24,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000244,REQ5860,Customer Support,Senior Support Specialist,Manchester,Referral,2025-05-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000245,REQ8333,Finance,Senior Finance Analyst,Birmingham,Company Website,2024-03-05,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000246,REQ6108,Sales,Sales Executive,Manchester,Job Board,2024-12-02,2024-12-11,2024-12-21,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000247,REQ2304,Sales,Sales Executive,London,Referral,2024-05-18,2024-05-24,2024-06-01,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000248,REQ1845,HR,HR Advisor,Bristol,Agency,2026-02-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000249,REQ1430,Customer Support,Customer Support Manager,London,Job Board,2025-05-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000250,REQ2487,Operations,Operations Analyst,Birmingham,Company Website,2024-10-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000251,REQ1072,Sales,Senior Account Executive,London,Job Board,2024-10-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000252,REQ8731,Sales,Senior Account Executive,London,Agency,2025-08-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000253,REQ2662,Sales,Senior Account Executive,London,Company Website,2025-07-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000254,REQ2496,HR,HR Assistant,Manchester,Company Website,2024-07-19,2024-07-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000255,REQ6567,Customer Support,Customer Support Specialist,London,LinkedIn,2024-10-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000256,REQ3257,Sales,Sales Executive,Manchester,Company Website,2024-04-07,2024-04-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000257,REQ2305,Operations,Operations Assistant,London,Campus,2025-11-05,2025-11-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000258,REQ3036,Customer Support,Customer Support Advisor,Birmingham,Job Board,2025-02-17,2025-02-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000259,REQ6077,Operations,Operations Analyst,Edinburgh,Agency,2024-09-02,2024-09-19,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000260,REQ8000,Sales,Sales Development Representative,London,Referral,2024-07-13,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000261,REQ8983,IT,Junior Software Developer,Birmingham,LinkedIn,2024-10-31,2024-11-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000262,REQ1025,IT,Data Analyst,Manchester,Company Website,2025-08-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000263,REQ5252,Legal,Legal Advisor,Leeds,Agency,2024-01-11,2024-01-25,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000264,REQ2800,Operations,Senior Operations Specialist,Birmingham,Company Website,2024-09-09,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000265,REQ1238,Customer Support,Customer Support Specialist,London,LinkedIn,2025-05-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000266,REQ6834,Finance,Finance Analyst,Birmingham,LinkedIn,2024-08-15,2024-08-28,2024-09-03,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000267,REQ4331,Operations,Senior Operations Specialist,Bristol,Job Board,2024-10-04,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000268,REQ8916,Legal,Legal Advisor,London,Referral,2025-03-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000269,REQ2377,Legal,Legal Assistant,Bristol,Referral,2024-07-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000270,REQ2994,IT,Senior Data Engineer,Birmingham,Campus,2025-12-19,2025-12-27,2026-01-05,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000271,REQ7892,Sales,Sales Manager,London,Company Website,2026-03-16,2026-03-31,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000272,REQ5694,Customer Support,Customer Support Advisor,Birmingham,Referral,2025-07-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000273,REQ5470,Customer Support,Senior Support Specialist,London,Referral,2025-12-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000274,REQ7337,IT,Junior Software Developer,Birmingham,Job Board,2024-11-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000275,REQ3144,Finance,Finance Analyst,London,LinkedIn,2025-08-20,2025-09-01,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000276,REQ7885,Customer Support,Senior Support Specialist,Edinburgh,LinkedIn,2025-06-01,2025-06-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000277,REQ9174,Sales,Sales Executive,Leeds,Job Board,2024-08-14,2024-08-23,2024-08-29,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000278,REQ8467,Operations,Operations Analyst,Edinburgh,Campus,2025-08-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000279,REQ4473,Finance,Finance Analyst,Edinburgh,LinkedIn,2025-12-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000280,REQ1868,Sales,Sales Executive,Manchester,LinkedIn,2025-03-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000281,REQ8861,Sales,Sales Executive,Manchester,LinkedIn,2026-04-17,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000282,REQ9440,Finance,Finance Manager,London,Campus,2026-02-24,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000283,REQ9792,HR,HR Advisor,Birmingham,Agency,2024-03-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000284,REQ9512,Sales,Senior Account Executive,Manchester,Job Board,2025-07-01,2025-07-19,2025-07-28,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000285,REQ4214,Finance,Accounts Assistant,London,Referral,2026-03-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000286,REQ3130,HR,HR Advisor,London,LinkedIn,2024-11-19,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000287,REQ3986,Operations,Operations Assistant,Manchester,Job Board,2024-01-15,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000288,REQ1614,Operations,Operations Assistant,London,Agency,2026-05-05,2026-05-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000289,REQ4298,Customer Support,Senior Support Specialist,London,Referral,2025-01-16,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000290,REQ2252,Operations,Operations Analyst,Manchester,LinkedIn,2025-06-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000291,REQ8743,Sales,Sales Executive,Manchester,Job Board,2025-03-21,2025-04-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000292,REQ7653,Customer Support,Customer Support Advisor,Manchester,Referral,2025-12-14,2026-01-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000293,REQ6765,Operations,Operations Assistant,London,LinkedIn,2025-02-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000294,REQ7265,Marketing,Marketing Manager,Birmingham,Agency,2025-06-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000295,REQ8422,Operations,Operations Assistant,London,Job Board,2026-02-02,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000296,REQ7564,IT,Data Analyst,London,Agency,2024-12-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000297,REQ6828,Marketing,Marketing Assistant,London,Referral,2024-04-23,2024-05-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000298,REQ7386,Operations,Operations Assistant,Edinburgh,Job Board,2024-09-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000299,REQ7650,Marketing,Marketing Executive,Leeds,Agency,2024-10-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000300,REQ8753,IT,Junior Software Developer,Manchester,Referral,2026-04-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000301,REQ4652,HR,HR Manager,London,Job Board,2024-04-02,2024-04-15,2024-04-19,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000302,REQ4797,Operations,Operations Analyst,Edinburgh,Job Board,2024-04-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000303,REQ3287,IT,Junior Software Developer,Edinburgh,Company Website,2024-09-03,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000304,REQ4931,Customer Support,Senior Support Specialist,London,Agency,2026-03-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000305,REQ1374,Finance,Senior Finance Analyst,Bristol,Company Website,2026-03-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000306,REQ6520,IT,Senior Data Engineer,London,LinkedIn,2025-04-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000307,REQ8762,Finance,Senior Finance Analyst,Leeds,Job Board,2024-03-04,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000308,REQ8068,IT,Data Analyst,Manchester,Campus,2026-02-23,2026-03-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000309,REQ1354,Operations,Operations Assistant,London,Campus,2025-11-02,2025-11-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000310,REQ3811,Sales,Sales Executive,Edinburgh,Company Website,2024-09-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000311,REQ1600,Marketing,Marketing Executive,Leeds,LinkedIn,2025-10-06,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000312,REQ1331,HR,HR Advisor,Edinburgh,Job Board,2024-12-20,2024-12-27,2025-01-05,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000313,REQ1219,IT,Data Analyst,Birmingham,Referral,2025-12-01,2025-12-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000314,REQ6232,Operations,Operations Assistant,Leeds,Job Board,2026-03-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000315,REQ8011,IT,Junior Software Developer,Manchester,LinkedIn,2026-03-29,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000316,REQ7998,Legal,Legal Assistant,London,Company Website,2024-06-30,2024-07-05,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000317,REQ6274,Operations,Operations Analyst,London,Referral,2024-03-17,2024-03-29,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000318,REQ2507,Operations,Senior Operations Specialist,Leeds,Agency,2025-01-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000319,REQ2195,Finance,Accounts Assistant,London,Company Website,2025-06-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000320,REQ7627,Finance,Finance Analyst,Manchester,LinkedIn,2024-11-11,2024-11-28,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000321,REQ4277,Finance,Accounts Assistant,Manchester,Referral,2026-05-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000322,REQ3624,Sales,Sales Development Representative,Birmingham,Job Board,2025-01-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000323,REQ7537,Operations,Senior Operations Specialist,London,Agency,2024-09-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000324,REQ1706,Legal,Senior Legal Counsel,Manchester,Agency,2025-04-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000325,REQ3597,IT,Data Analyst,Leeds,Referral,2024-07-27,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000326,REQ5372,Operations,Operations Analyst,London,LinkedIn,2024-04-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000327,REQ7299,IT,Data Analyst,Birmingham,Referral,2024-06-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000328,REQ3052,Customer Support,Customer Support Specialist,Edinburgh,LinkedIn,2025-10-12,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000329,REQ2892,Customer Support,Customer Support Manager,Bristol,Company Website,2024-02-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000330,REQ1457,HR,HR Assistant,London,Referral,2025-07-13,2025-08-03,2025-08-07,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000331,REQ7654,Marketing,Marketing Executive,Bristol,Job Board,2025-06-29,2025-07-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000332,REQ9654,Operations,Operations Analyst,London,LinkedIn,2024-11-23,2024-12-15,2024-12-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000333,REQ9639,IT,Senior Data Engineer,Birmingham,LinkedIn,2025-01-28,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000334,REQ8354,Operations,Operations Analyst,London,Agency,2025-02-05,2025-02-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000335,REQ9654,HR,HR Assistant,Manchester,Campus,2024-11-05,2024-11-17,2024-11-28,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000336,REQ6500,Customer Support,Customer Support Advisor,Birmingham,Company Website,2024-06-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000337,REQ4656,Legal,Legal Advisor,Edinburgh,Agency,2024-02-17,2024-02-24,2024-02-27,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000338,REQ9968,Customer Support,Customer Support Advisor,Birmingham,Referral,2025-09-13,2025-10-06,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000339,REQ1299,Sales,Senior Account Executive,Edinburgh,LinkedIn,2025-04-16,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000340,REQ5322,Operations,Operations Manager,Edinburgh,Job Board,2024-01-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000341,REQ3219,Operations,Operations Assistant,Birmingham,Agency,2024-02-01,2024-02-22,2024-02-27,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000342,REQ3007,Marketing,Marketing Assistant,London,Job Board,2025-01-20,2025-02-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000343,REQ4663,Operations,Operations Analyst,Bristol,Agency,2024-09-12,2024-09-28,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000344,REQ7606,Sales,Sales Executive,Edinburgh,Job Board,2026-06-07,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000345,REQ9826,Customer Support,Senior Support Specialist,Manchester,Job Board,2025-12-23,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000346,REQ4203,HR,HR Business Partner,Leeds,Job Board,2024-09-11,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000347,REQ8185,IT,Data Analyst,Birmingham,Job Board,2024-04-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000348,REQ8222,HR,HR Advisor,Manchester,Campus,2024-10-17,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000349,REQ3579,Marketing,Senior Marketing Specialist,Birmingham,LinkedIn,2025-02-16,2025-03-09,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000350,REQ1180,Sales,Sales Manager,Birmingham,Referral,2025-02-10,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000351,REQ7386,Marketing,Marketing Assistant,Edinburgh,Referral,2024-02-04,2024-02-11,2024-02-18,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000352,REQ7039,Operations,Senior Operations Specialist,London,LinkedIn,2025-06-09,2025-06-20,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000353,REQ4117,HR,HR Manager,London,Job Board,2025-07-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000354,REQ6056,Legal,Legal Advisor,Birmingham,Company Website,2024-04-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000355,REQ9951,Finance,Senior Finance Analyst,Birmingham,Job Board,2024-01-05,2024-01-29,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000356,REQ8267,Operations,Operations Assistant,Manchester,Campus,2025-02-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000357,REQ9105,Sales,Sales Development Representative,London,Job Board,2024-04-22,2024-05-03,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000358,REQ6687,IT,Junior Software Developer,Manchester,Company Website,2024-08-16,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000359,REQ5273,Operations,Senior Operations Specialist,Birmingham,Referral,2024-02-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000360,REQ1919,Sales,Senior Account Executive,Bristol,Job Board,2026-04-21,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000361,REQ2968,IT,Data Analyst,Edinburgh,Job Board,2024-01-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000362,REQ9538,Sales,Senior Account Executive,London,Agency,2025-01-10,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000363,REQ4449,Operations,Operations Analyst,Manchester,Referral,2024-06-29,2024-07-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000364,REQ1977,Finance,Finance Analyst,Manchester,Agency,2025-06-21,2025-07-09,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000365,REQ7435,HR,HR Advisor,Leeds,Referral,2025-03-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000366,REQ1916,IT,Data Analyst,Birmingham,Job Board,2024-01-14,2024-01-30,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000367,REQ3572,Operations,Operations Assistant,Bristol,Referral,2025-11-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000368,REQ9384,IT,Junior Software Developer,Birmingham,Job Board,2024-09-18,2024-10-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000369,REQ1862,Finance,Finance Analyst,Manchester,LinkedIn,2026-05-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000370,REQ3972,Sales,Sales Executive,Manchester,Agency,2024-04-27,2024-05-11,2024-05-15,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000371,REQ4028,Sales,Senior Account Executive,London,LinkedIn,2025-08-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000372,REQ5418,Sales,Sales Executive,London,Job Board,2025-07-08,2025-07-14,2025-07-20,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000373,REQ9827,Customer Support,Customer Support Manager,Birmingham,Referral,2024-06-12,2024-07-05,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000374,REQ6887,Legal,Senior Legal Counsel,London,Referral,2024-11-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000375,REQ8439,Marketing,Marketing Executive,London,Referral,2024-10-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000376,REQ6448,IT,Senior Data Engineer,London,Company Website,2026-03-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000377,REQ8512,Customer Support,Customer Support Specialist,London,Job Board,2024-01-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000378,REQ8956,Marketing,Marketing Assistant,Leeds,Company Website,2025-12-24,2026-01-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000379,REQ7938,Customer Support,Customer Support Specialist,Birmingham,Job Board,2025-07-03,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000380,REQ5018,Operations,Operations Manager,Birmingham,Company Website,2024-02-06,2024-02-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000381,REQ1803,IT,Senior Data Engineer,Manchester,LinkedIn,2024-05-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000382,REQ4606,Finance,Accounts Assistant,London,Job Board,2025-09-25,2025-09-30,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000383,REQ3588,Marketing,Marketing Executive,Edinburgh,Agency,2025-08-05,2025-08-29,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000384,REQ6480,Operations,Operations Analyst,London,Job Board,2024-08-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000385,REQ1029,Legal,Legal Advisor,Birmingham,Company Website,2024-09-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000386,REQ9706,Finance,Accounts Assistant,Manchester,Job Board,2024-04-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000387,REQ4372,Operations,Operations Assistant,London,Job Board,2025-04-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000388,REQ8108,Finance,Senior Finance Analyst,London,LinkedIn,2025-05-01,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000389,REQ6248,IT,Data Analyst,Birmingham,Agency,2024-06-13,2024-06-20,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000390,REQ6486,Finance,Finance Manager,Edinburgh,LinkedIn,2025-01-20,2025-02-03,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000391,REQ7713,IT,Junior Software Developer,London,Job Board,2024-10-06,2024-10-19,2024-10-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000392,REQ3462,Customer Support,Customer Support Advisor,London,LinkedIn,2026-05-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000393,REQ7936,Marketing,Marketing Assistant,London,Referral,2025-07-02,2025-07-10,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000394,REQ1739,Finance,Finance Manager,Birmingham,Job Board,2026-04-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000395,REQ2844,Sales,Sales Development Representative,Bristol,Campus,2024-10-31,2024-11-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000396,REQ3776,Marketing,Marketing Executive,Birmingham,Agency,2024-03-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000397,REQ8256,Operations,Operations Assistant,London,Company Website,2024-08-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000398,REQ6697,Sales,Sales Manager,London,LinkedIn,2025-08-02,2025-08-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000399,REQ2335,Customer Support,Customer Experience Director,Bristol,Job Board,2026-04-27,2026-05-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000400,REQ4422,Operations,Operations Analyst,Manchester,Agency,2024-07-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000401,REQ5829,Marketing,Marketing Assistant,London,Job Board,2025-11-01,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000402,REQ3111,IT,Senior Data Engineer,Bristol,Job Board,2025-06-13,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000403,REQ9694,Customer Support,Customer Support Specialist,Manchester,Referral,2025-06-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000404,REQ4300,Marketing,Marketing Assistant,Birmingham,LinkedIn,2026-04-09,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000405,REQ4180,Finance,Finance Analyst,Manchester,Company Website,2026-06-30,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000406,REQ1422,Operations,Operations Assistant,Bristol,LinkedIn,2025-01-08,2025-01-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000407,REQ7219,Finance,Finance Analyst,Leeds,LinkedIn,2026-05-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000408,REQ7256,Sales,Sales Executive,London,Company Website,2025-01-20,2025-02-03,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000409,REQ9770,IT,Junior Software Developer,Birmingham,Campus,2025-07-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000410,REQ6890,Operations,Operations Analyst,Edinburgh,LinkedIn,2025-05-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000411,REQ1782,Marketing,Marketing Assistant,Birmingham,LinkedIn,2024-02-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000412,REQ1722,Finance,Finance Analyst,Leeds,LinkedIn,2025-03-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000413,REQ2276,IT,Data Analyst,Leeds,Agency,2025-07-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000414,REQ1717,Sales,Sales Manager,Leeds,LinkedIn,2026-06-03,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000415,REQ5936,Sales,Sales Development Representative,Edinburgh,LinkedIn,2024-03-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000416,REQ4336,HR,HR Business Partner,London,Agency,2025-09-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000417,REQ7134,Operations,Operations Assistant,Manchester,Campus,2024-05-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000418,REQ8050,Operations,Operations Analyst,Edinburgh,Referral,2025-11-24,2025-11-30,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000419,REQ6267,Operations,Operations Assistant,Bristol,LinkedIn,2024-06-18,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000420,REQ7012,Finance,Finance Analyst,Edinburgh,Agency,2025-09-19,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000421,REQ9722,IT,Junior Software Developer,Manchester,LinkedIn,2025-01-03,2025-01-25,2025-01-29,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000422,REQ4046,HR,HR Assistant,Birmingham,Job Board,2025-01-11,2025-01-23,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000423,REQ9580,Customer Support,Customer Support Specialist,Birmingham,Job Board,2024-09-09,2024-09-19,2024-10-02,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000424,REQ9406,Operations,Operations Analyst,Manchester,Campus,2024-01-02,2024-01-19,2024-01-27,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000425,REQ1714,HR,HR Assistant,London,LinkedIn,2025-07-24,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000426,REQ7139,IT,Senior Data Engineer,Manchester,Job Board,2025-03-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000427,REQ6006,Legal,Senior Legal Counsel,Bristol,Job Board,2026-05-02,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000428,REQ6736,IT,Data Analyst,Manchester,Company Website,2026-06-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000429,REQ9564,Customer Support,Customer Support Specialist,Manchester,LinkedIn,2026-04-22,2026-04-30,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000430,REQ6777,Customer Support,Customer Support Specialist,London,LinkedIn,2025-08-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000431,REQ7458,Customer Support,Customer Support Specialist,London,Job Board,2024-05-02,2024-05-07,2024-05-10,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000432,REQ3612,IT,Technology Director,London,Referral,2024-10-17,2024-11-07,2024-11-14,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000433,REQ9041,IT,Senior Data Engineer,London,LinkedIn,2025-11-26,2025-12-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000434,REQ3249,Customer Support,Senior Support Specialist,London,Job Board,2024-04-10,2024-04-16,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000435,REQ3293,Finance,Accounts Assistant,Bristol,LinkedIn,2025-07-14,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000436,REQ7319,Sales,Sales Executive,Edinburgh,Referral,2025-01-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000437,REQ7341,Marketing,Senior Marketing Specialist,Birmingham,Referral,2026-05-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000438,REQ2042,Finance,Finance Analyst,London,Referral,2026-02-06,2026-02-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000439,REQ9269,HR,HR Assistant,Manchester,Job Board,2026-03-01,2026-03-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000440,REQ4218,Operations,Operations Assistant,Birmingham,Job Board,2024-09-27,2024-10-18,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000441,REQ9133,Finance,Finance Analyst,Manchester,Job Board,2024-06-02,2024-06-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000442,REQ1477,Legal,Senior Legal Counsel,Edinburgh,Referral,2024-10-11,2024-10-17,2024-10-28,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000443,REQ5063,Operations,Senior Operations Specialist,London,LinkedIn,2026-05-03,2026-05-15,2026-05-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000444,REQ1774,Legal,Legal Manager,London,Job Board,2024-05-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000445,REQ8042,Sales,Sales Development Representative,Birmingham,Referral,2024-04-11,2024-05-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000446,REQ6048,Customer Support,Customer Support Advisor,Manchester,Agency,2025-08-12,2025-08-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000447,REQ6652,IT,Data Analyst,Manchester,Job Board,2025-11-19,2025-12-11,2025-12-16,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000448,REQ4410,Operations,Senior Operations Specialist,London,Referral,2024-12-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000449,REQ1325,Customer Support,Customer Support Specialist,Manchester,LinkedIn,2025-08-05,2025-08-11,2025-08-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000450,REQ3139,IT,IT Manager,London,Job Board,2024-10-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000451,REQ6471,IT,Senior Data Engineer,Birmingham,Job Board,2025-08-24,2025-09-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000452,REQ3701,Sales,Sales Executive,Manchester,Campus,2026-01-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000453,REQ6346,Operations,Senior Operations Specialist,Manchester,LinkedIn,2026-05-02,2026-05-15,2026-05-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000454,REQ2950,IT,Senior Data Engineer,Birmingham,LinkedIn,2024-07-22,2024-08-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000455,REQ9516,Customer Support,Customer Support Specialist,London,LinkedIn,2026-05-01,2026-05-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000456,REQ4039,Operations,Senior Operations Specialist,London,Job Board,2026-06-09,2026-07-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000457,REQ6586,HR,HR Business Partner,Leeds,Job Board,2026-05-20,2026-05-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000458,REQ8067,IT,Junior Software Developer,London,Referral,2024-06-24,2024-07-04,2024-07-14,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000459,REQ9942,Sales,Senior Account Executive,Edinburgh,Company Website,2026-01-26,2026-02-19,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000460,REQ1223,Operations,Operations Assistant,Birmingham,LinkedIn,2025-08-10,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000461,REQ5713,Customer Support,Senior Support Specialist,London,LinkedIn,2026-02-01,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000462,REQ1696,Customer Support,Customer Support Specialist,Edinburgh,LinkedIn,2025-07-08,2025-07-18,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000463,REQ6046,Finance,Finance Analyst,London,Company Website,2026-04-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000464,REQ3695,Sales,Sales Development Representative,Manchester,Referral,2025-04-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000465,REQ4189,Marketing,Marketing Assistant,Birmingham,Company Website,2025-02-06,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000466,REQ6134,HR,HR Advisor,London,Job Board,2025-09-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000467,REQ6562,IT,Data Analyst,Manchester,Campus,2026-01-04,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000468,REQ5132,IT,Data Analyst,Birmingham,LinkedIn,2025-06-22,2025-07-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000469,REQ5398,Customer Support,Customer Support Specialist,Leeds,Job Board,2026-05-04,2026-05-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000470,REQ8426,IT,IT Manager,Bristol,Referral,2025-12-26,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000471,REQ3959,Customer Support,Senior Support Specialist,Birmingham,Referral,2026-03-20,2026-04-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000472,REQ8509,Marketing,Marketing Assistant,Bristol,Job Board,2024-08-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000473,REQ5687,Finance,Finance Analyst,Birmingham,Referral,2025-08-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000474,REQ6385,HR,HR Director,Bristol,Job Board,2024-01-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000475,REQ9664,Finance,Senior Finance Analyst,Leeds,LinkedIn,2025-01-25,2025-02-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000476,REQ1331,Finance,Accounts Assistant,London,Referral,2026-01-19,2026-02-07,2026-02-16,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000477,REQ4439,Operations,Operations Assistant,Birmingham,Agency,2024-02-19,2024-02-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000478,REQ9741,Marketing,Marketing Assistant,London,Agency,2024-01-06,2024-01-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000479,REQ6393,Marketing,Marketing Assistant,Leeds,LinkedIn,2025-08-05,2025-08-15,2025-08-27,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000480,REQ3262,Sales,Sales Manager,Manchester,Referral,2024-11-19,2024-12-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000481,REQ8032,Marketing,Marketing Executive,Manchester,Company Website,2026-03-05,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000482,REQ6171,IT,Data Analyst,Birmingham,Job Board,2026-02-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000483,REQ9007,Finance,Accounts Assistant,Manchester,Job Board,2025-01-02,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000484,REQ1273,Operations,Operations Assistant,London,LinkedIn,2025-10-15,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000485,REQ4653,Sales,Sales Manager,London,Referral,2026-05-05,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000486,REQ4364,Customer Support,Customer Support Manager,Edinburgh,LinkedIn,2025-11-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000487,REQ9945,Customer Support,Customer Support Advisor,Birmingham,LinkedIn,2024-07-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000488,REQ3453,Operations,Operations Analyst,Manchester,Agency,2025-09-02,2025-09-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000489,REQ1014,Customer Support,Customer Support Specialist,London,Job Board,2026-01-04,2026-01-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000490,REQ6542,Finance,Finance Analyst,London,LinkedIn,2024-04-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000491,REQ2971,IT,Senior Data Engineer,Manchester,Campus,2026-03-15,2026-03-31,2026-04-06,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000492,REQ1016,IT,Senior Data Engineer,Manchester,Referral,2024-02-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000493,REQ6090,Finance,Senior Finance Analyst,Birmingham,Job Board,2025-04-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000494,REQ2577,HR,HR Advisor,Manchester,Job Board,2024-02-23,2024-03-16,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000495,REQ6423,Customer Support,Senior Support Specialist,London,Referral,2025-02-24,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000496,REQ2867,Sales,Sales Manager,Birmingham,LinkedIn,2025-03-27,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000497,REQ1674,Marketing,Senior Marketing Specialist,London,Company Website,2026-06-12,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000498,REQ1562,Customer Support,Senior Support Specialist,London,Agency,2024-09-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000499,REQ8281,Sales,Sales Executive,Edinburgh,Job Board,2025-07-13,2025-07-18,2025-07-25,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000500,REQ3122,Marketing,Senior Marketing Specialist,Edinburgh,LinkedIn,2026-01-11,2026-01-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000501,REQ5162,Legal,Senior Legal Counsel,Leeds,LinkedIn,2025-01-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000502,REQ9555,Finance,Finance Manager,London,Agency,2024-08-13,2024-08-28,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000503,REQ1257,IT,Data Analyst,Bristol,Campus,2024-07-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000504,REQ1125,Customer Support,Customer Support Advisor,Leeds,Referral,2024-11-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000505,REQ3843,HR,HR Assistant,Edinburgh,Job Board,2025-10-08,2025-10-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000506,REQ6825,IT,Senior Data Engineer,Manchester,Referral,2025-09-24,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000507,REQ9105,Operations,Operations Assistant,Manchester,Company Website,2026-04-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000508,REQ7342,Marketing,Marketing Assistant,Edinburgh,Agency,2025-01-30,2025-02-20,2025-02-24,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000509,REQ7308,Operations,Senior Operations Specialist,Bristol,Company Website,2024-10-06,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000510,REQ9238,Sales,Sales Director,London,Job Board,2025-04-15,2025-05-05,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000511,REQ2721,Marketing,Marketing Manager,Birmingham,LinkedIn,2025-05-31,2025-06-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000512,REQ9546,HR,HR Assistant,Edinburgh,Job Board,2025-08-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000513,REQ1554,HR,HR Assistant,Birmingham,Referral,2024-02-18,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000514,REQ3742,Customer Support,Senior Support Specialist,London,LinkedIn,2026-06-03,2026-06-17,2026-06-21,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000515,REQ9471,Operations,Senior Operations Specialist,Manchester,Referral,2025-12-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000516,REQ4613,IT,IT Manager,Manchester,Campus,2025-06-26,2025-07-19,2025-07-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000517,REQ1479,Customer Support,Customer Support Specialist,Bristol,Agency,2024-10-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000518,REQ6808,Operations,Senior Operations Specialist,London,LinkedIn,2024-01-27,2024-02-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000519,REQ5796,IT,Junior Software Developer,Leeds,LinkedIn,2026-02-07,2026-02-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000520,REQ4505,Operations,Operations Manager,London,Job Board,2025-09-07,2025-09-15,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000521,REQ7631,HR,HR Advisor,Leeds,Job Board,2025-07-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000522,REQ4400,Marketing,Marketing Executive,London,Job Board,2024-07-01,2024-07-10,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000523,REQ4776,IT,Senior Data Engineer,Manchester,LinkedIn,2024-09-17,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000524,REQ6322,Customer Support,Senior Support Specialist,Bristol,Job Board,2026-03-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000525,REQ8574,Operations,Operations Manager,Edinburgh,Job Board,2026-04-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000526,REQ7394,Customer Support,Customer Support Specialist,London,Company Website,2025-03-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000527,REQ8883,IT,Senior Data Engineer,London,Campus,2025-07-31,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000528,REQ2634,Customer Support,Senior Support Specialist,Edinburgh,Agency,2025-11-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000529,REQ3228,Finance,Accounts Assistant,London,Agency,2024-04-12,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000530,REQ8558,Marketing,Senior Marketing Specialist,London,Company Website,2026-01-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000531,REQ9554,Operations,Operations Analyst,London,LinkedIn,2025-09-10,2025-09-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000532,REQ3876,Sales,Sales Executive,Manchester,LinkedIn,2025-08-28,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000533,REQ4748,Sales,Sales Executive,Birmingham,Job Board,2024-11-20,2024-12-09,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000534,REQ8949,Sales,Sales Development Representative,Birmingham,LinkedIn,2024-08-15,2024-08-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000535,REQ4001,HR,HR Assistant,Manchester,Referral,2025-05-24,2025-06-01,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000536,REQ2177,Legal,Legal Assistant,Manchester,Referral,2024-10-10,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000537,REQ8799,Marketing,Marketing Executive,Birmingham,Referral,2025-02-19,2025-03-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000538,REQ7885,Sales,Sales Executive,Edinburgh,Referral,2024-01-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000539,REQ9748,Customer Support,Customer Support Specialist,Edinburgh,LinkedIn,2025-10-04,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000540,REQ8874,Sales,Senior Account Executive,London,LinkedIn,2026-04-04,2026-04-21,2026-04-28,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000541,REQ7871,Sales,Sales Development Representative,London,Campus,2024-01-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000542,REQ4648,Legal,Legal Advisor,Birmingham,Agency,2024-04-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000543,REQ8462,Operations,Operations Assistant,Birmingham,Company Website,2026-04-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000544,REQ1282,HR,HR Business Partner,London,Job Board,2025-03-09,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000545,REQ1650,Sales,Senior Account Executive,Edinburgh,Referral,2024-10-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000546,REQ7986,Sales,Sales Development Representative,Birmingham,Job Board,2024-12-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000547,REQ5182,Operations,Operations Analyst,Manchester,Company Website,2025-11-02,2025-11-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000548,REQ3252,Operations,Senior Operations Specialist,London,Job Board,2026-03-16,2026-03-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000549,REQ5967,Sales,Sales Executive,Bristol,Job Board,2025-11-11,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000550,REQ2169,Sales,Sales Manager,Bristol,LinkedIn,2024-12-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000551,REQ3498,IT,Data Analyst,London,Referral,2024-04-07,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000552,REQ8690,Customer Support,Senior Support Specialist,Leeds,Agency,2026-01-05,2026-01-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000553,REQ5943,Customer Support,Customer Support Advisor,Birmingham,Referral,2024-04-08,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000554,REQ3750,IT,Senior Data Engineer,Manchester,LinkedIn,2024-05-30,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000555,REQ2630,Finance,Senior Finance Analyst,Manchester,Job Board,2024-11-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000556,REQ1141,Operations,Senior Operations Specialist,Leeds,Company Website,2026-04-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000557,REQ2129,Sales,Sales Executive,Manchester,Referral,2024-12-10,2024-12-23,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000558,REQ5379,IT,Data Analyst,London,Job Board,2025-06-13,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000559,REQ7867,Operations,Operations Manager,Birmingham,Agency,2025-01-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000560,REQ2747,Legal,Senior Legal Counsel,London,Job Board,2024-02-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000561,REQ6996,IT,Data Analyst,Manchester,LinkedIn,2026-03-29,2026-04-06,2026-04-14,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000562,REQ4215,Customer Support,Senior Support Specialist,Manchester,LinkedIn,2025-09-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000563,REQ4179,Customer Support,Customer Support Specialist,Manchester,Referral,2024-06-29,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000564,REQ6668,Marketing,Marketing Executive,Edinburgh,LinkedIn,2024-02-08,2024-02-22,2024-03-01,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000565,REQ5568,Customer Support,Customer Support Specialist,London,Job Board,2025-12-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000566,REQ8078,IT,Senior Data Engineer,Manchester,Referral,2024-07-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000567,REQ6820,Customer Support,Customer Support Specialist,Manchester,LinkedIn,2024-02-14,2024-03-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000568,REQ4338,IT,Senior Data Engineer,Leeds,Referral,2025-11-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000569,REQ4719,Customer Support,Customer Support Advisor,London,Job Board,2025-01-02,2025-01-11,2025-01-20,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000570,REQ8946,HR,HR Manager,London,Company Website,2024-02-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000571,REQ5574,Operations,Operations Assistant,Bristol,Referral,2026-04-21,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000572,REQ3508,Sales,Sales Director,Manchester,Agency,2026-04-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000573,REQ1993,Legal,Legal Advisor,London,LinkedIn,2024-03-24,2024-03-31,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000574,REQ4156,Sales,Sales Development Representative,Edinburgh,Job Board,2024-04-03,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000575,REQ7028,Operations,Operations Assistant,Edinburgh,Company Website,2025-07-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000576,REQ6561,Operations,Operations Analyst,Manchester,LinkedIn,2025-04-14,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000577,REQ5424,Operations,Operations Assistant,Leeds,Company Website,2026-04-17,2026-05-03,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000578,REQ2250,Customer Support,Customer Support Manager,Leeds,Job Board,2026-03-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000579,REQ7939,Sales,Sales Development Representative,Manchester,Job Board,2025-04-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000580,REQ8859,Finance,Senior Finance Analyst,Leeds,Job Board,2026-01-30,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000581,REQ1506,Legal,Legal Director,London,LinkedIn,2025-09-04,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000582,REQ9526,Finance,Senior Finance Analyst,London,Referral,2026-01-24,2026-02-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000583,REQ8763,Finance,Finance Analyst,Edinburgh,Job Board,2025-11-15,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000584,REQ7121,HR,HR Manager,Manchester,Job Board,2025-02-02,2025-02-07,2025-02-14,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000585,REQ6851,Operations,Operations Analyst,Bristol,LinkedIn,2026-03-01,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000586,REQ9587,Finance,Senior Finance Analyst,Manchester,Agency,2024-02-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000587,REQ1107,Sales,Sales Manager,London,Agency,2025-11-30,2025-12-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000588,REQ2602,Finance,Finance Analyst,London,Agency,2024-03-19,2024-04-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000589,REQ2770,Operations,Senior Operations Specialist,Manchester,Company Website,2026-04-09,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000590,REQ1975,Finance,Senior Finance Analyst,Leeds,Referral,2025-02-03,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000591,REQ9051,Operations,Operations Analyst,Birmingham,LinkedIn,2024-07-29,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000592,REQ1278,Operations,Operations Assistant,Edinburgh,LinkedIn,2024-10-03,2024-10-12,2024-10-21,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000593,REQ1533,Sales,Sales Executive,Manchester,LinkedIn,2024-07-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000594,REQ6842,Sales,Sales Development Representative,Manchester,Referral,2025-08-02,2025-08-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000595,REQ5738,Sales,Sales Development Representative,Manchester,LinkedIn,2025-06-24,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000596,REQ2089,Operations,Operations Analyst,Bristol,LinkedIn,2026-06-21,2026-06-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000597,REQ9993,Finance,Finance Manager,Edinburgh,Job Board,2025-10-31,2025-11-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000598,REQ5010,Sales,Senior Account Executive,Birmingham,Job Board,2026-06-13,2026-06-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000599,REQ7265,Operations,Operations Manager,Edinburgh,Agency,2024-12-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000600,REQ7450,Marketing,Senior Marketing Specialist,Manchester,Job Board,2025-07-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000601,REQ9150,Marketing,Marketing Assistant,Bristol,Agency,2025-12-08,2025-12-18,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000602,REQ7316,Marketing,Marketing Assistant,Birmingham,Job Board,2025-09-26,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000603,REQ4595,Customer Support,Customer Support Specialist,Birmingham,Agency,2026-06-15,2026-07-02,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000604,REQ9637,Operations,Operations Analyst,Birmingham,LinkedIn,2025-06-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000605,REQ9715,Sales,Sales Development Representative,London,Campus,2024-10-19,2024-11-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000606,REQ2810,Customer Support,Customer Support Specialist,Manchester,Job Board,2025-02-03,2025-02-25,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000607,REQ6946,Finance,Accounts Assistant,London,Job Board,2025-03-16,2025-03-31,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000608,REQ6502,Legal,Legal Advisor,Leeds,Job Board,2026-01-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000609,REQ2988,IT,Junior Software Developer,Manchester,LinkedIn,2024-04-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000610,REQ2659,IT,Junior Software Developer,Manchester,LinkedIn,2026-01-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000611,REQ3453,Customer Support,Customer Support Specialist,Edinburgh,LinkedIn,2025-10-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000612,REQ4681,Customer Support,Customer Support Specialist,London,LinkedIn,2024-12-21,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000613,REQ6251,Customer Support,Customer Support Specialist,Bristol,Job Board,2025-12-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000614,REQ8335,Finance,Finance Analyst,London,LinkedIn,2025-02-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000615,REQ1036,Operations,Operations Manager,Leeds,LinkedIn,2024-02-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000616,REQ7207,Customer Support,Senior Support Specialist,Birmingham,Job Board,2025-06-23,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000617,REQ6573,Operations,Operations Assistant,London,Agency,2026-01-29,2026-02-10,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000618,REQ7941,Legal,Senior Legal Counsel,Manchester,Campus,2024-02-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000619,REQ5088,IT,Data Analyst,London,Job Board,2026-02-28,2026-03-16,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000620,REQ1228,Sales,Sales Development Representative,London,Job Board,2025-08-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000621,REQ4192,HR,HR Business Partner,Manchester,LinkedIn,2024-12-28,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000622,REQ3432,Customer Support,Senior Support Specialist,Manchester,LinkedIn,2024-12-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000623,REQ1033,Operations,Operations Manager,Birmingham,LinkedIn,2024-08-09,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000624,REQ3539,Marketing,Marketing Executive,Manchester,Referral,2024-06-25,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000625,REQ8027,Finance,Finance Analyst,Manchester,Referral,2024-02-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000626,REQ9348,IT,Junior Software Developer,London,Job Board,2026-05-18,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000627,REQ6718,Sales,Senior Account Executive,Bristol,Job Board,2024-05-03,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000628,REQ8317,HR,HR Advisor,London,LinkedIn,2025-06-06,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000629,REQ5809,Customer Support,Customer Support Manager,Leeds,LinkedIn,2024-03-11,2024-03-24,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000630,REQ3746,Operations,Operations Manager,Birmingham,Company Website,2026-06-13,2026-06-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000631,REQ4936,Operations,Senior Operations Specialist,Bristol,LinkedIn,2024-02-20,2024-02-29,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000632,REQ6864,Sales,Sales Manager,Manchester,LinkedIn,2024-03-06,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000633,REQ8172,Marketing,Marketing Executive,London,Job Board,2026-04-13,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000634,REQ5974,IT,Data Analyst,Bristol,Campus,2026-03-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000635,REQ3843,Marketing,Marketing Executive,Birmingham,LinkedIn,2024-10-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000636,REQ4188,Legal,Legal Advisor,Birmingham,Agency,2025-08-26,2025-09-10,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000637,REQ1353,Sales,Sales Manager,Birmingham,LinkedIn,2025-11-05,2025-11-20,2025-12-01,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000638,REQ2421,Sales,Senior Account Executive,London,LinkedIn,2026-02-26,2026-03-18,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000639,REQ6223,IT,Junior Software Developer,Manchester,Campus,2025-08-04,2025-08-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000640,REQ5638,Sales,Sales Executive,Manchester,Referral,2025-10-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000641,REQ1926,IT,Junior Software Developer,London,Referral,2025-03-05,2025-03-18,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000642,REQ7390,Sales,Sales Manager,Edinburgh,Referral,2024-04-28,2024-05-06,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000643,REQ3278,Sales,Sales Manager,Birmingham,Referral,2024-10-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000644,REQ6233,Operations,Operations Analyst,Manchester,Job Board,2024-12-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000645,REQ6070,Marketing,Marketing Executive,Birmingham,Job Board,2026-02-25,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000646,REQ5261,Operations,Senior Operations Specialist,Birmingham,LinkedIn,2024-12-07,2024-12-27,2025-01-02,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000647,REQ7033,Operations,Operations Assistant,Manchester,Referral,2025-06-01,2025-06-14,2025-06-25,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000648,REQ8016,Operations,Operations Analyst,Birmingham,LinkedIn,2026-06-29,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000649,REQ3658,Sales,Sales Development Representative,Leeds,Job Board,2024-08-19,2024-08-28,2024-09-10,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000650,REQ3808,IT,Data Analyst,Edinburgh,Job Board,2024-01-08,2024-01-31,2024-02-04,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000651,REQ7598,Sales,Sales Executive,Leeds,Agency,2025-02-04,2025-02-15,2025-02-25,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000652,REQ8825,Operations,Operations Analyst,London,Referral,2024-11-25,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000653,REQ5000,IT,Senior Data Engineer,Leeds,Agency,2025-05-04,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000654,REQ2357,Customer Support,Senior Support Specialist,Birmingham,Referral,2026-03-31,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000655,REQ2976,Operations,Senior Operations Specialist,Birmingham,Campus,2025-09-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000656,REQ8812,Finance,Accounts Assistant,Manchester,Job Board,2026-03-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000657,REQ8016,Sales,Sales Development Representative,Bristol,Job Board,2026-02-05,2026-03-01,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000658,REQ5108,Customer Support,Customer Support Advisor,London,LinkedIn,2025-06-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000659,REQ4004,Marketing,Marketing Executive,Manchester,LinkedIn,2025-09-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000660,REQ8242,Customer Support,Customer Support Specialist,London,Agency,2026-01-02,2026-01-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000661,REQ9520,Marketing,Marketing Executive,Birmingham,Agency,2025-01-29,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000662,REQ9036,Customer Support,Customer Support Advisor,London,Job Board,2025-11-18,2025-12-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000663,REQ1232,Finance,Senior Finance Analyst,Birmingham,Campus,2026-05-20,2026-06-06,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000664,REQ8889,IT,Junior Software Developer,Leeds,Referral,2025-10-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000665,REQ4754,Legal,Legal Advisor,London,LinkedIn,2024-10-09,2024-11-01,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000666,REQ5469,Marketing,Senior Marketing Specialist,Bristol,Company Website,2025-03-20,2025-04-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000667,REQ9238,IT,Junior Software Developer,London,Company Website,2024-09-13,2024-10-07,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000668,REQ5341,Operations,Senior Operations Specialist,Manchester,LinkedIn,2024-10-12,2024-11-05,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000669,REQ7612,Customer Support,Customer Support Specialist,London,Referral,2026-01-18,2026-01-28,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000670,REQ7989,IT,Junior Software Developer,London,Job Board,2024-12-07,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000671,REQ7491,IT,Data Analyst,London,Agency,2025-03-14,2025-03-21,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000672,REQ6671,IT,Junior Software Developer,Birmingham,LinkedIn,2025-06-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000673,REQ7470,Sales,Senior Account Executive,Leeds,Agency,2025-03-22,2025-04-05,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000674,REQ8205,IT,IT Manager,London,Job Board,2025-01-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000675,REQ6343,Sales,Sales Executive,Edinburgh,Campus,2024-11-01,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000676,REQ3413,Operations,Operations Assistant,Birmingham,Agency,2024-11-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000677,REQ7550,Operations,Operations Director,Birmingham,Agency,2025-03-26,2025-03-31,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000678,REQ6311,Operations,Operations Analyst,London,Company Website,2024-03-25,2024-04-17,2024-04-29,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000679,REQ6913,Customer Support,Customer Support Manager,London,LinkedIn,2025-02-14,2025-02-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000680,REQ8373,Operations,Senior Operations Specialist,Manchester,Job Board,2024-08-01,2024-08-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000681,REQ4361,Sales,Sales Executive,Manchester,Job Board,2025-03-06,2025-03-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000682,REQ4159,Sales,Sales Executive,London,LinkedIn,2025-10-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000683,REQ1519,Operations,Senior Operations Specialist,Leeds,Referral,2025-05-11,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000684,REQ9849,Finance,Accounts Assistant,Bristol,Job Board,2024-02-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000685,REQ7677,Finance,Senior Finance Analyst,Edinburgh,Job Board,2024-03-18,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000686,REQ7683,Operations,Operations Manager,London,LinkedIn,2025-09-17,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000687,REQ3804,Operations,Operations Assistant,Bristol,Job Board,2026-04-06,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000688,REQ3339,Sales,Senior Account Executive,London,Referral,2025-08-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000689,REQ2009,Operations,Operations Assistant,London,LinkedIn,2025-04-01,2025-04-24,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000690,REQ4920,Customer Support,Customer Support Manager,Manchester,Job Board,2025-04-28,2025-05-11,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000691,REQ8033,Customer Support,Customer Support Advisor,London,Referral,2026-06-01,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000692,REQ3894,Customer Support,Customer Support Manager,London,Referral,2024-05-01,2024-05-14,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000693,REQ7161,HR,HR Assistant,London,Campus,2026-04-27,2026-05-10,2026-05-14,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000694,REQ3925,Marketing,Marketing Director,Birmingham,Company Website,2024-01-14,2024-01-28,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000695,REQ7507,Customer Support,Customer Support Advisor,Bristol,LinkedIn,2025-02-05,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000696,REQ4970,Sales,Sales Executive,London,Job Board,2024-07-07,2024-07-27,2024-08-09,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000697,REQ4472,Operations,Senior Operations Specialist,Edinburgh,Job Board,2024-03-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000698,REQ4188,IT,Junior Software Developer,Leeds,LinkedIn,2026-05-31,2026-06-12,2026-06-15,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000699,REQ3559,Sales,Sales Executive,Leeds,Agency,2024-04-20,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000700,REQ8877,Sales,Sales Director,Edinburgh,LinkedIn,2025-10-14,2025-10-27,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000701,REQ3443,Customer Support,Customer Support Specialist,Leeds,Referral,2025-08-21,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000702,REQ4684,Operations,Operations Director,London,Referral,2025-09-22,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000703,REQ5458,Finance,Finance Analyst,Birmingham,LinkedIn,2025-10-05,2025-10-25,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000704,REQ4246,IT,Senior Data Engineer,Bristol,Job Board,2025-05-04,2025-05-09,2025-05-15,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000705,REQ1503,IT,Data Analyst,Edinburgh,Company Website,2024-05-17,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000706,REQ3166,Sales,Sales Development Representative,London,Job Board,2026-02-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000707,REQ1075,Operations,Operations Assistant,London,Referral,2024-02-03,2024-02-13,2024-02-23,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000708,REQ5651,Sales,Sales Executive,Birmingham,Job Board,2025-06-15,2025-06-26,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000709,REQ1746,Sales,Sales Development Representative,London,Company Website,2024-09-27,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000710,REQ9574,IT,IT Manager,London,Job Board,2024-07-24,2024-07-30,2024-08-12,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000711,REQ8810,Marketing,Marketing Assistant,Bristol,Agency,2026-02-13,2026-02-19,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000712,REQ6672,Marketing,Marketing Executive,Edinburgh,Referral,2024-10-15,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000713,REQ8426,IT,Data Analyst,London,Referral,2024-04-15,2024-04-22,2024-04-28,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000714,REQ9178,IT,Data Analyst,Birmingham,Company Website,2024-08-12,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000715,REQ2765,Sales,Sales Executive,London,Referral,2025-08-20,2025-08-25,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000716,REQ7388,IT,Senior Data Engineer,London,Company Website,2024-02-07,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000717,REQ7299,Sales,Sales Manager,Bristol,Agency,2024-05-16,2024-05-23,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000718,REQ4318,Operations,Operations Assistant,London,LinkedIn,2026-05-11,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000719,REQ5061,Sales,Sales Executive,Leeds,Campus,2025-11-16,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000720,REQ6901,Sales,Sales Development Representative,Manchester,LinkedIn,2025-08-28,2025-09-03,2025-09-10,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000721,REQ1771,Customer Support,Customer Support Specialist,London,LinkedIn,2025-12-14,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000722,REQ2142,Finance,Finance Analyst,London,Company Website,2025-07-21,2025-08-08,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000723,REQ4502,IT,Data Analyst,Leeds,Agency,2025-03-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000724,REQ9204,Sales,Sales Manager,London,LinkedIn,2026-01-14,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000725,REQ2758,Operations,Operations Manager,Birmingham,Referral,2026-06-22,2026-07-04,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000726,REQ3104,Marketing,Marketing Assistant,Birmingham,LinkedIn,2024-09-10,2024-09-22,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000727,REQ4314,Marketing,Marketing Assistant,Leeds,LinkedIn,2025-10-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000728,REQ7676,Sales,Sales Development Representative,Leeds,Company Website,2026-04-25,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000729,REQ5694,IT,Data Analyst,Leeds,LinkedIn,2024-07-24,2024-07-31,2024-08-04,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000730,REQ1467,Marketing,Marketing Assistant,Birmingham,Job Board,2025-03-26,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000731,REQ1659,Operations,Operations Manager,Bristol,Job Board,2026-02-17,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000732,REQ3341,Operations,Operations Analyst,London,Company Website,2024-04-05,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000733,REQ1320,Operations,Operations Manager,London,Referral,2025-09-08,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000734,REQ1722,HR,HR Business Partner,London,Job Board,2024-09-23,2024-10-17,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000735,REQ5265,Operations,Operations Assistant,London,Company Website,2026-02-26,2026-03-09,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000736,REQ5242,Customer Support,Customer Support Advisor,Manchester,Company Website,2026-06-10,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000737,REQ6408,Operations,Operations Manager,Leeds,Campus,2024-03-31,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000738,REQ2027,Operations,Operations Assistant,Bristol,Job Board,2024-04-28,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000739,REQ4959,IT,Senior Data Engineer,London,Referral,2024-05-04,2024-05-13,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000740,REQ6741,Sales,Sales Executive,Edinburgh,Job Board,2025-08-05,,,,Applied,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000741,REQ2463,Operations,Operations Assistant,Manchester,LinkedIn,2025-05-19,,,,Rejected,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000742,REQ3660,Customer Support,Customer Support Specialist,Leeds,Referral,2024-11-17,2024-12-02,2024-12-11,,Offered,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+CAND000743,REQ5930,Finance,Finance Analyst,Birmingham,Referral,2024-08-27,2024-09-12,,,Interviewed,,,2026-07-09 14:28:10 UTC,recruitment.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
