@@ -1,0 +1,18 @@
+user_email,user_name,access_type,department,location,role_description
+hr.director@abcglobal.com,HR Director,ALL,ALL,ALL,HR Director
+hr.businesspartner@abcglobal.com,HR Business Partner,ALL,ALL,ALL,HR Business Partner
+manager.hr@abcglobal.com,HR Manager,DEPARTMENT,HR,ALL,Department Manager
+manager.finance@abcglobal.com,Finance Manager,DEPARTMENT,Finance,ALL,Department Manager
+manager.sales@abcglobal.com,Sales Manager,DEPARTMENT,Sales,ALL,Department Manager
+manager.marketing@abcglobal.com,Marketing Manager,DEPARTMENT,Marketing,ALL,Department Manager
+manager.it@abcglobal.com,IT Manager,DEPARTMENT,IT,ALL,Department Manager
+manager.operations@abcglobal.com,Operations Manager,DEPARTMENT,Operations,ALL,Department Manager
+manager.customersupport@abcglobal.com,Customer Support Manager,DEPARTMENT,Customer Support,ALL,Department Manager
+manager.legal@abcglobal.com,Legal Manager,DEPARTMENT,Legal,ALL,Department Manager
+manager.london@abcglobal.com,London Location Manager,LOCATION,ALL,London,Location Manager
+manager.manchester@abcglobal.com,Manchester Location Manager,LOCATION,ALL,Manchester,Location Manager
+manager.birmingham@abcglobal.com,Birmingham Location Manager,LOCATION,ALL,Birmingham,Location Manager
+manager.leeds@abcglobal.com,Leeds Location Manager,LOCATION,ALL,Leeds,Location Manager
+manager.bristol@abcglobal.com,Bristol Location Manager,LOCATION,ALL,Bristol,Location Manager
+manager.edinburgh@abcglobal.com,Edinburgh Location Manager,LOCATION,ALL,Edinburgh,Location Manager
+viewer.sales.london@abcglobal.com,Sales London Viewer,RESTRICTED,Sales,London,Restricted Viewer
