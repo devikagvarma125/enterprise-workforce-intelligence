@@ -1,0 +1,18 @@
+table_name,check_name,issue_count,status
+fact_payroll,Missing employee_key,0,Pass
+fact_payroll,Missing pay_period_key,0,Pass
+fact_attendance,Missing employee_key,0,Pass
+fact_attendance,Missing attendance_month_key,0,Pass
+fact_leave,Missing employee_key,0,Pass
+fact_leave,Missing leave_start_date_key,0,Pass
+fact_leave,Missing leave_end_date_key,0,Pass
+fact_recruitment,Missing department_key,0,Pass
+fact_recruitment,Missing job_role_key,0,Pass
+fact_recruitment,Missing location_key,0,Pass
+fact_training,Missing employee_key,0,Pass
+fact_training,Missing assigned_date_key,0,Pass
+fact_performance,Missing employee_key,0,Pass
+fact_attrition,Missing employee_key,0,Pass
+fact_attrition,Missing exit_date_key,0,Pass
+dim_employee,Duplicate employee_id,0,Pass
+dim_date,Duplicate date_key,0,Pass

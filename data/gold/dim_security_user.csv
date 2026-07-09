@@ -1,0 +1,18 @@
+security_user_key,user_email,user_name,access_type,department,location,role_description
+1,hr.businesspartner@abcglobal.com,HR Business Partner,ALL,ALL,ALL,HR Business Partner
+2,hr.director@abcglobal.com,HR Director,ALL,ALL,ALL,HR Director
+3,manager.customersupport@abcglobal.com,Customer Support Manager,DEPARTMENT,Customer Support,ALL,Department Manager
+4,manager.finance@abcglobal.com,Finance Manager,DEPARTMENT,Finance,ALL,Department Manager
+5,manager.hr@abcglobal.com,HR Manager,DEPARTMENT,HR,ALL,Department Manager
+6,manager.it@abcglobal.com,IT Manager,DEPARTMENT,IT,ALL,Department Manager
+7,manager.legal@abcglobal.com,Legal Manager,DEPARTMENT,Legal,ALL,Department Manager
+8,manager.marketing@abcglobal.com,Marketing Manager,DEPARTMENT,Marketing,ALL,Department Manager
+9,manager.operations@abcglobal.com,Operations Manager,DEPARTMENT,Operations,ALL,Department Manager
+10,manager.sales@abcglobal.com,Sales Manager,DEPARTMENT,Sales,ALL,Department Manager
+11,manager.birmingham@abcglobal.com,Birmingham Location Manager,LOCATION,ALL,Birmingham,Location Manager
+12,manager.bristol@abcglobal.com,Bristol Location Manager,LOCATION,ALL,Bristol,Location Manager
+13,manager.edinburgh@abcglobal.com,Edinburgh Location Manager,LOCATION,ALL,Edinburgh,Location Manager
+14,manager.leeds@abcglobal.com,Leeds Location Manager,LOCATION,ALL,Leeds,Location Manager
+15,manager.london@abcglobal.com,London Location Manager,LOCATION,ALL,London,Location Manager
+16,manager.manchester@abcglobal.com,Manchester Location Manager,LOCATION,ALL,Manchester,Location Manager
+17,viewer.sales.london@abcglobal.com,Sales London Viewer,RESTRICTED,Sales,London,Restricted Viewer

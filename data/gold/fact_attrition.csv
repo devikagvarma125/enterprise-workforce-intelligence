@@ -1,0 +1,84 @@
+attrition_key,attrition_id,employee_key,exit_date_key,exit_reason,attrition_type,attrition_flag,regrettable_attrition_flag,notice_period_days
+1,EXT000001,9,20240210,Personal Reasons,Voluntary,1,0,0
+2,EXT000002,18,20240425,Termination,Involuntary,1,0,30
+3,EXT000003,29,20260218,Better Opportunity,Voluntary,1,1,30
+4,EXT000004,48,20251226,Better Opportunity,Voluntary,1,0,30
+5,EXT000005,50,20240722,Resignation,Voluntary,1,0,60
+6,EXT000006,52,20250709,Better Opportunity,Voluntary,1,1,30
+7,EXT000007,56,20240614,Relocation,Voluntary,1,0,60
+8,EXT000008,67,20240214,Resignation,Voluntary,1,1,30
+9,EXT000009,69,20241105,Termination,Involuntary,1,0,30
+10,EXT000010,71,20250630,Retirement,Voluntary,1,0,30
+11,EXT000011,72,20260523,Better Opportunity,Voluntary,1,1,30
+12,EXT000012,76,20241108,Better Opportunity,Voluntary,1,1,30
+13,EXT000013,102,20260624,Better Opportunity,Voluntary,1,0,30
+14,EXT000014,124,20241114,Resignation,Voluntary,1,1,90
+15,EXT000015,130,20250207,Personal Reasons,Voluntary,1,0,30
+16,EXT000016,153,20260623,Better Opportunity,Voluntary,1,1,30
+17,EXT000017,155,20260613,Better Opportunity,Voluntary,1,1,60
+18,EXT000018,164,20251024,Better Opportunity,Voluntary,1,0,30
+19,EXT000019,174,20260417,Better Opportunity,Voluntary,1,1,30
+20,EXT000020,188,20250104,Better Opportunity,Voluntary,1,1,60
+21,EXT000021,190,20250401,Resignation,Voluntary,1,1,30
+22,EXT000022,191,20241222,Better Opportunity,Voluntary,1,1,30
+23,EXT000023,200,20250830,Termination,Involuntary,1,0,60
+24,EXT000024,216,20250821,Better Opportunity,Voluntary,1,1,30
+25,EXT000025,219,20251215,Resignation,Voluntary,1,1,0
+26,EXT000026,227,20240420,Resignation,Voluntary,1,1,60
+27,EXT000027,243,20260518,Better Opportunity,Voluntary,1,1,30
+28,EXT000028,245,20250814,Retirement,Voluntary,1,0,30
+29,EXT000029,247,20241019,Better Opportunity,Voluntary,1,1,60
+30,EXT000030,251,20250522,Better Opportunity,Voluntary,1,1,30
+31,EXT000031,260,20240503,Relocation,Voluntary,1,0,30
+32,EXT000032,270,20240307,Termination,Involuntary,1,0,30
+33,EXT000033,273,20260605,Termination,Involuntary,1,0,30
+34,EXT000034,279,20260421,Retirement,Voluntary,1,0,30
+35,EXT000035,281,20251220,Better Opportunity,Voluntary,1,0,14
+36,EXT000036,289,20250218,Resignation,Voluntary,1,0,0
+37,EXT000037,299,20250807,Better Opportunity,Voluntary,1,1,60
+38,EXT000038,313,20260514,Termination,Involuntary,1,0,0
+39,EXT000039,315,20240405,Resignation,Voluntary,1,1,30
+40,EXT000040,319,20250107,Resignation,Voluntary,1,1,30
+41,EXT000041,324,20240926,Resignation,Voluntary,1,1,30
+42,EXT000042,328,20260407,Termination,Involuntary,1,0,90
+43,EXT000043,332,20250320,Better Opportunity,Voluntary,1,1,0
+44,EXT000044,354,20240314,Termination,Involuntary,1,0,30
+45,EXT000045,355,20240508,Termination,Involuntary,1,0,30
+46,EXT000046,356,20240514,Other,Voluntary,1,0,14
+47,EXT000047,359,20251103,Resignation,Voluntary,1,1,30
+48,EXT000048,376,20241214,Resignation,Voluntary,1,1,30
+49,EXT000049,378,20240226,Better Opportunity,Voluntary,1,1,30
+50,EXT000050,381,20260316,Resignation,Voluntary,1,0,30
+51,EXT000051,390,20250406,Personal Reasons,Voluntary,1,0,30
+52,EXT000052,391,20240722,Retirement,Voluntary,1,0,60
+53,EXT000053,399,20260422,Resignation,Voluntary,1,0,30
+54,EXT000054,416,20260416,Resignation,Voluntary,1,1,0
+55,EXT000055,417,20260427,Other,Voluntary,1,0,30
+56,EXT000056,418,20251124,Relocation,Voluntary,1,0,14
+57,EXT000057,419,20250115,Better Opportunity,Voluntary,1,0,30
+58,EXT000058,421,20260405,Better Opportunity,Voluntary,1,1,30
+59,EXT000059,429,20260315,Resignation,Voluntary,1,1,30
+60,EXT000060,430,20250407,Resignation,Voluntary,1,0,30
+61,EXT000061,431,20240217,Termination,Involuntary,1,0,60
+62,EXT000062,435,20250331,Better Opportunity,Voluntary,1,1,30
+63,EXT000063,442,20260501,Better Opportunity,Voluntary,1,1,30
+64,EXT000064,459,20260607,Better Opportunity,Voluntary,1,1,14
+65,EXT000065,462,20250722,Resignation,Voluntary,1,1,14
+66,EXT000066,497,20250218,Better Opportunity,Voluntary,1,0,30
+67,EXT000067,499,20260319,Other,Voluntary,1,0,0
+68,EXT000068,510,20250414,Resignation,Voluntary,1,0,30
+69,EXT000069,511,20260309,Personal Reasons,Voluntary,1,0,30
+70,EXT000070,523,20260613,Better Opportunity,Voluntary,1,1,30
+71,EXT000071,530,20240709,Termination,Involuntary,1,0,30
+72,EXT000072,534,20260508,Personal Reasons,Voluntary,1,0,60
+73,EXT000073,535,20251205,Relocation,Voluntary,1,0,60
+74,EXT000074,536,20251210,Better Opportunity,Voluntary,1,1,30
+75,EXT000075,537,20250520,Termination,Involuntary,1,0,30
+76,EXT000076,555,20260302,Resignation,Voluntary,1,1,14
+77,EXT000077,560,20251018,Resignation,Voluntary,1,0,30
+78,EXT000078,579,20250623,Retirement,Voluntary,1,0,90
+79,EXT000079,585,20260612,Termination,Involuntary,1,0,30
+80,EXT000080,586,20240803,Personal Reasons,Voluntary,1,0,30
+81,EXT000081,593,20240423,Resignation,Voluntary,1,1,30
+82,EXT000082,596,20260630,Termination,Involuntary,1,0,90
+83,EXT000083,597,20260103,Resignation,Voluntary,1,1,90

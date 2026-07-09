@@ -1,0 +1,41 @@
+job_role_key,job_role,job_level,job_family
+1,Marketing Director,Director,Commercial
+2,Sales Director,Director,Commercial
+3,Marketing Assistant,Junior,Commercial
+4,Sales Development Representative,Junior,Commercial
+5,Marketing Manager,Manager,Commercial
+6,Sales Manager,Manager,Commercial
+7,Marketing Executive,Mid,Commercial
+8,Sales Executive,Mid,Commercial
+9,Senior Account Executive,Senior,Commercial
+10,Senior Marketing Specialist,Senior,Commercial
+11,Legal Assistant,Junior,Corporate
+12,Legal Manager,Manager,Corporate
+13,Legal Advisor,Mid,Corporate
+14,Senior Legal Counsel,Senior,Corporate
+15,Legal Director,Unknown,Corporate
+16,Customer Experience Director,Director,Customer Operations
+17,Customer Support Advisor,Junior,Customer Operations
+18,Customer Support Manager,Manager,Customer Operations
+19,Customer Support Specialist,Mid,Customer Operations
+20,Senior Support Specialist,Senior,Customer Operations
+21,Finance Director,Director,Finance
+22,Accounts Assistant,Junior,Finance
+23,Finance Manager,Manager,Finance
+24,Finance Analyst,Mid,Finance
+25,Senior Finance Analyst,Senior,Finance
+26,Operations Director,Director,Operations
+27,Operations Assistant,Junior,Operations
+28,Operations Manager,Manager,Operations
+29,Operations Analyst,Mid,Operations
+30,Senior Operations Specialist,Senior,Operations
+31,HR Assistant,Junior,People
+32,HR Manager,Manager,People
+33,HR Advisor,Mid,People
+34,HR Business Partner,Senior,People
+35,HR Director,Unknown,People
+36,Technology Director,Director,Technology
+37,Junior Software Developer,Junior,Technology
+38,IT Manager,Manager,Technology
+39,Data Analyst,Mid,Technology
+40,Senior Data Engineer,Senior,Technology

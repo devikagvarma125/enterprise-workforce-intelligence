@@ -1,0 +1,84 @@
+manager_key,manager_id,manager_name,manager_department
+1,EMP0002,Lily White,Sales
+2,EMP0006,Maya Taylor,Legal
+3,EMP0020,Luca Lewis,Sales
+4,EMP0024,Amelia Wilson,Operations
+5,EMP0032,George Davies,IT
+6,EMP0036,Priya Hall,Marketing
+7,EMP0051,Rohan Thomas,Finance
+8,EMP0063,Sophia Thomas,Customer Support
+9,EMP0091,Rohan Jackson,Marketing
+10,EMP0109,George Martin,IT
+11,EMP0113,Aarav Lewis,IT
+12,EMP0116,Diya Taylor,Marketing
+13,EMP0119,Diya Lewis,Operations
+14,EMP0128,Sophia Green,Operations
+15,EMP0136,Muhammad Taylor,Customer Support
+16,EMP0141,Oliver Singh,Legal
+17,EMP0165,Muhammad Khan,HR
+18,EMP0169,Noah Taylor,Finance
+19,EMP0179,Noah Walker,Customer Support
+20,EMP0205,Freya Wright,Finance
+21,EMP0206,Grace Jackson,Finance
+22,EMP0215,Noah Jackson,IT
+23,EMP0218,Diya Harris,IT
+24,EMP0226,Ella Jones,Customer Support
+25,EMP0275,Muhammad King,Customer Support
+26,EMP0276,Leo White,Marketing
+27,EMP0279,Ishaan Clark,Sales
+28,EMP0283,Olivia Smith,Operations
+29,EMP0286,Oliver Khan,Customer Support
+30,EMP0287,Jack Walker,IT
+31,EMP0307,Muhammad Williams,Finance
+32,EMP0309,Muhammad Williams,Operations
+33,EMP0314,Arthur Scott,Finance
+34,EMP0319,Isla Lewis,Finance
+35,EMP0328,Lily Khan,Operations
+36,EMP0329,Amelia Hall,Customer Support
+37,EMP0330,Freya Shah,Marketing
+38,EMP0333,Sophia Jackson,Finance
+39,EMP0338,Ethan Jackson,Legal
+40,EMP0341,Luca Clark,Sales
+41,EMP0351,Ishaan Martin,Finance
+42,EMP0353,Amelia Khan,IT
+43,EMP0357,Archie Johnson,Sales
+44,EMP0360,Jack Harris,Operations
+45,EMP0361,Oscar Khan,Sales
+46,EMP0374,Priya Singh,Finance
+47,EMP0384,Mia Taylor,Operations
+48,EMP0393,Arthur King,Operations
+49,EMP0396,Leo Hall,IT
+50,EMP0400,Noah Roberts,Sales
+51,EMP0416,Aarav Shah,Customer Support
+52,EMP0420,Amelia Thompson,Operations
+53,EMP0421,Isla Roberts,Sales
+54,EMP0433,Arthur Hall,Marketing
+55,EMP0438,Archie Williams,Customer Support
+56,EMP0439,Grace Davies,Operations
+57,EMP0452,Freya Jackson,Sales
+58,EMP0457,Priya Shah,Operations
+59,EMP0460,Isla Shah,Operations
+60,EMP0462,Ella Wilson,Marketing
+61,EMP0463,Archie Williams,Operations
+62,EMP0469,Rohan Brown,Marketing
+63,EMP0470,Priya Hall,Sales
+64,EMP0471,Noah Khan,Marketing
+65,EMP0472,Jack Shah,IT
+66,EMP0479,Archie Shah,Operations
+67,EMP0484,Sophia Jones,Customer Support
+68,EMP0489,Mia Scott,Sales
+69,EMP0491,Diya Khan,Legal
+70,EMP0495,Ishaan Young,Customer Support
+71,EMP0504,George Martin,Operations
+72,EMP0512,Sophia Smith,Marketing
+73,EMP0527,Isla Davies,Customer Support
+74,EMP0528,Oliver Williams,HR
+75,EMP0530,Leo Wright,Legal
+76,EMP0544,Ishaan Patel,Sales
+77,EMP0547,Aarav Thomas,Marketing
+78,EMP0556,Aarav Harris,Operations
+79,EMP0571,Anaya Wright,IT
+80,EMP0582,Noah Walker,Operations
+81,EMP0590,George Martin,IT
+82,EMP0599,Diya Walker,IT
+83,EMP0600,Jack Jones,HR

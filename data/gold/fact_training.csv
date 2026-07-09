@@ -1,0 +1,1544 @@
+training_key,training_id,employee_key,assigned_date_key,completion_date_key,course_name,course_category,completion_status,completion_flag,training_hours,training_score
+1,TRN000001,1,20240703,,First Line Manager Training,Leadership,Overdue,0,14.8,
+2,TRN000002,1,20250805,20250901,Budget Management,Finance,Completed,1,15.0,88.4
+3,TRN000005,2,20241208,20241216,Presentation Skills,Soft Skills,Completed,1,1.7,60.3
+4,TRN000003,2,20250130,20250223,Power BI Fundamentals,Technical,Completed,1,13.7,81.8
+5,TRN000004,2,20250424,,Stakeholder Management,Soft Skills,Not Started,0,7.0,
+6,TRN000007,3,20240624,20240710,Workplace Health and Safety,Compliance,Completed,1,2.9,65.2
+7,TRN000009,3,20240821,20240925,Leading High Performing Teams,Leadership,Completed,1,4.5,72.3
+8,TRN000008,3,20250815,,Stakeholder Management,Soft Skills,In Progress,0,3.9,
+9,TRN000006,3,20251205,20251222,Cloud Data Fundamentals,Technical,Completed,1,2.1,81.1
+10,TRN000010,4,20240118,,Power BI Fundamentals,Technical,Not Started,0,5.6,
+11,TRN000012,4,20250419,20250517,Budget Management,Finance,Completed,1,13.4,71.8
+12,TRN000011,4,20260402,20260417,Data Protection Training,Compliance,Completed,1,12.4,84.9
+13,TRN000013,5,20250919,,Information Security Awareness,Compliance,In Progress,0,4.3,
+14,TRN000016,6,20240309,,Budget Management,Finance,Overdue,0,12.8,
+15,TRN000015,6,20241205,20241222,Employee Relations Essentials,HR,Completed,1,9.1,78.4
+16,TRN000014,6,20250615,,SQL for Analysts,Technical,Not Started,0,2.0,
+17,TRN000017,6,20250930,20251027,Inclusive Hiring,HR,Completed,1,12.4,79.1
+18,TRN000018,6,20260320,20260330,Presentation Skills,Soft Skills,Completed,1,9.9,86.2
+19,TRN000019,7,20240205,,Communication Skills,Soft Skills,Overdue,0,1.1,
+20,TRN000020,7,20240906,,Coaching Skills,Leadership,In Progress,0,1.3,
+21,TRN000021,7,20250926,20251012,First Line Manager Training,Leadership,Completed,1,2.2,81.2
+22,TRN000024,8,20240322,,Python for Data Analysis,Technical,Overdue,0,7.1,
+23,TRN000022,8,20240816,20240823,Employee Relations Essentials,HR,Completed,1,14.7,71.9
+24,TRN000026,8,20240928,20241103,SQL for Analysts,Technical,Completed,1,14.4,81.9
+25,TRN000023,8,20250314,20250403,Inclusive Hiring,HR,Completed,1,9.9,87.0
+26,TRN000025,8,20251121,,Budget Management,Finance,Not Started,0,11.0,
+27,TRN000028,9,20240125,,Coaching Skills,Leadership,In Progress,0,3.0,
+28,TRN000029,9,20240127,20240210,Workplace Health and Safety,Compliance,Completed,1,8.7,45.0
+29,TRN000030,9,20240128,20240203,SQL for Analysts,Technical,Completed,1,3.9,78.8
+30,TRN000027,9,20240209,20240210,Cloud Data Fundamentals,Technical,Completed,1,10.2,55.9
+31,TRN000031,10,20250817,20250830,SQL for Analysts,Technical,Completed,1,5.6,94.0
+32,TRN000032,10,20260602,20260616,Inclusive Hiring,HR,Completed,1,15.7,63.6
+33,TRN000033,11,20260110,20260112,Communication Skills,Soft Skills,Completed,1,4.2,75.2
+34,TRN000034,11,20260319,20260323,Communication Skills,Soft Skills,Completed,1,9.8,73.7
+35,TRN000036,12,20250228,,Stakeholder Management,Soft Skills,In Progress,0,2.3,
+36,TRN000035,12,20250519,20250616,Python for Data Analysis,Technical,Completed,1,12.8,78.4
+37,TRN000038,13,20250312,20250414,Employee Relations Essentials,HR,Completed,1,3.8,80.2
+38,TRN000037,13,20251222,,Data Protection Training,Compliance,Not Started,0,14.2,
+39,TRN000039,13,20260401,20260422,Inclusive Hiring,HR,Completed,1,7.8,67.3
+40,TRN000040,14,20241025,20241031,Stakeholder Management,Soft Skills,Completed,1,1.2,74.5
+41,TRN000041,14,20250924,,Budget Management,Finance,Not Started,0,11.6,
+42,TRN000042,14,20260604,,Coaching Skills,Leadership,Not Started,0,3.7,
+43,TRN000044,15,20250316,20250325,Data Protection Training,Compliance,Completed,1,7.7,95.1
+44,TRN000043,15,20250718,,Data Protection Training,Compliance,In Progress,0,2.8,
+45,TRN000046,16,20240510,,Communication Skills,Soft Skills,In Progress,0,2.8,
+46,TRN000047,16,20241204,,Presentation Skills,Soft Skills,Not Started,0,15.6,
+47,TRN000045,16,20260612,,Leading High Performing Teams,Leadership,In Progress,0,7.1,
+48,TRN000049,17,20250201,20250204,Power BI Fundamentals,Technical,Completed,1,8.2,91.0
+49,TRN000048,17,20250329,,Communication Skills,Soft Skills,In Progress,0,10.2,
+50,TRN000052,18,20240215,20240226,SQL for Analysts,Technical,Completed,1,7.9,45.9
+51,TRN000050,18,20240229,20240304,Information Security Awareness,Compliance,Completed,1,8.9,85.4
+52,TRN000051,18,20240331,20240410,Financial Controls,Finance,Completed,1,11.4,91.8
+53,TRN000053,19,20260406,20260516,Employee Relations Essentials,HR,Completed,1,13.1,69.3
+54,TRN000055,20,20240313,,Financial Controls,Finance,In Progress,0,2.9,
+55,TRN000054,20,20240515,,Budget Management,Finance,Overdue,0,2.2,
+56,TRN000059,21,20240417,,Stakeholder Management,Soft Skills,Not Started,0,11.4,
+57,TRN000058,21,20250429,,Financial Controls,Finance,Not Started,0,3.5,
+58,TRN000057,21,20260304,20260412,First Line Manager Training,Leadership,Completed,1,9.9,89.1
+59,TRN000056,21,20260507,20260612,Budget Management,Finance,Completed,1,5.2,82.7
+60,TRN000062,22,20240526,20240706,Python for Data Analysis,Technical,Completed,1,5.6,88.4
+61,TRN000061,22,20240811,20240914,Inclusive Hiring,HR,Completed,1,7.9,82.1
+62,TRN000060,22,20250329,20250504,SQL for Analysts,Technical,Completed,1,4.5,82.1
+63,TRN000063,23,20240501,20240603,Employee Relations Essentials,HR,Completed,1,8.6,87.4
+64,TRN000064,23,20241228,,Employee Relations Essentials,HR,Overdue,0,3.4,
+65,TRN000065,23,20260315,20260327,Information Security Awareness,Compliance,Completed,1,12.2,84.8
+66,TRN000066,23,20260628,20260630,Cloud Data Fundamentals,Technical,Completed,1,1.1,91.0
+67,TRN000069,24,20250626,20250802,SQL for Analysts,Technical,Completed,1,3.3,86.6
+68,TRN000068,24,20250731,,Budget Management,Finance,In Progress,0,9.2,
+69,TRN000067,24,20260507,20260522,Power BI Fundamentals,Technical,Completed,1,3.3,76.0
+70,TRN000070,25,20240912,20240916,Cloud Data Fundamentals,Technical,Completed,1,7.9,71.8
+71,TRN000073,25,20240916,20240926,Cloud Data Fundamentals,Technical,Completed,1,8.1,61.3
+72,TRN000072,25,20251012,20251030,Budget Management,Finance,Completed,1,8.4,83.2
+73,TRN000071,25,20260224,,Coaching Skills,Leadership,Overdue,0,9.9,
+74,TRN000074,26,20241111,20241222,Presentation Skills,Soft Skills,Completed,1,14.3,61.9
+75,TRN000075,26,20260502,,First Line Manager Training,Leadership,Overdue,0,2.8,
+76,TRN000077,27,20260318,20260421,Data Protection Training,Compliance,Completed,1,4.4,59.6
+77,TRN000076,27,20260326,20260418,Data Protection Training,Compliance,Completed,1,4.1,97.0
+78,TRN000078,27,20260425,20260531,Python for Data Analysis,Technical,Completed,1,10.1,53.9
+79,TRN000079,28,20260416,20260430,Employee Relations Essentials,HR,Completed,1,4.0,89.9
+80,TRN000080,28,20260429,,Inclusive Hiring,HR,Not Started,0,4.8,
+81,TRN000082,28,20260515,20260519,SQL for Analysts,Technical,Completed,1,4.4,76.8
+82,TRN000081,28,20260516,,SQL for Analysts,Technical,Overdue,0,10.9,
+83,TRN000083,29,20250923,20251031,Coaching Skills,Leadership,Completed,1,5.7,78.3
+84,TRN000084,29,20251028,,Data Protection Training,Compliance,Overdue,0,3.3,
+85,TRN000086,30,20240325,,Communication Skills,Soft Skills,Overdue,0,3.2,
+86,TRN000085,30,20260620,20260627,Presentation Skills,Soft Skills,Completed,1,12.5,84.4
+87,TRN000088,31,20250829,20250905,Inclusive Hiring,HR,Completed,1,8.3,79.9
+88,TRN000087,31,20260101,20260106,First Line Manager Training,Leadership,Completed,1,12.4,63.1
+89,TRN000089,31,20260426,,Employee Relations Essentials,HR,Not Started,0,11.6,
+90,TRN000090,32,20240428,,Communication Skills,Soft Skills,Overdue,0,2.1,
+91,TRN000091,33,20260607,20260630,Employee Relations Essentials,HR,Completed,1,9.2,79.6
+92,TRN000094,34,20240623,20240710,Communication Skills,Soft Skills,Completed,1,15.1,81.0
+93,TRN000092,34,20250518,,Employee Relations Essentials,HR,In Progress,0,13.2,
+94,TRN000093,34,20260124,20260309,Presentation Skills,Soft Skills,Completed,1,2.1,86.1
+95,TRN000096,35,20240413,20240510,Budget Management,Finance,Completed,1,9.0,70.2
+96,TRN000095,35,20260329,20260505,Information Security Awareness,Compliance,Completed,1,3.0,62.6
+97,TRN000097,36,20240120,20240228,Budget Management,Finance,Completed,1,5.3,85.6
+98,TRN000099,36,20240630,20240721,Workplace Health and Safety,Compliance,Completed,1,11.8,83.7
+99,TRN000098,36,20250512,20250516,Inclusive Hiring,HR,Completed,1,1.4,55.4
+100,TRN000100,36,20260209,20260215,Leading High Performing Teams,Leadership,Completed,1,15.2,78.0
+101,TRN000102,37,20240930,20241022,First Line Manager Training,Leadership,Completed,1,15.6,70.1
+102,TRN000101,37,20250629,,Workplace Health and Safety,Compliance,Not Started,0,9.5,
+103,TRN000103,38,20240611,,Financial Controls,Finance,Overdue,0,15.2,
+104,TRN000105,38,20250222,20250326,Python for Data Analysis,Technical,Completed,1,10.2,71.9
+105,TRN000104,38,20260106,20260211,Workplace Health and Safety,Compliance,Completed,1,3.3,82.4
+106,TRN000106,39,20240701,20240707,Leading High Performing Teams,Leadership,Completed,1,9.8,97.8
+107,TRN000107,40,20260313,,Financial Controls,Finance,In Progress,0,11.1,
+108,TRN000111,41,20240121,,Cloud Data Fundamentals,Technical,Overdue,0,9.9,
+109,TRN000110,41,20241228,20250108,Budget Management,Finance,Completed,1,1.2,68.1
+110,TRN000109,41,20250827,20250914,Stakeholder Management,Soft Skills,Completed,1,3.7,79.8
+111,TRN000108,41,20251027,20251110,Presentation Skills,Soft Skills,Completed,1,3.7,75.0
+112,TRN000112,41,20260502,20260519,First Line Manager Training,Leadership,Completed,1,2.4,73.8
+113,TRN000114,42,20250106,20250117,Data Protection Training,Compliance,Completed,1,5.6,78.4
+114,TRN000113,42,20260202,20260206,Workplace Health and Safety,Compliance,Completed,1,1.6,77.2
+115,TRN000117,43,20250619,20250705,Workplace Health and Safety,Compliance,Completed,1,9.1,82.3
+116,TRN000116,43,20250722,20250819,Leading High Performing Teams,Leadership,Completed,1,7.2,88.0
+117,TRN000118,43,20251229,20260131,Coaching Skills,Leadership,Completed,1,8.6,46.9
+118,TRN000115,43,20260222,20260403,Coaching Skills,Leadership,Completed,1,1.7,73.7
+119,TRN000120,44,20240305,,First Line Manager Training,Leadership,In Progress,0,14.1,
+120,TRN000119,44,20260515,,Cloud Data Fundamentals,Technical,In Progress,0,11.5,
+121,TRN000124,45,20240502,20240512,Stakeholder Management,Soft Skills,Completed,1,7.4,57.5
+122,TRN000123,45,20250328,20250508,Financial Controls,Finance,Completed,1,6.6,100.0
+123,TRN000122,45,20250412,20250520,Budget Management,Finance,Completed,1,4.7,80.2
+124,TRN000121,45,20251120,20251218,Budget Management,Finance,Completed,1,11.0,74.6
+125,TRN000125,46,20241221,20241229,Budget Management,Finance,Completed,1,4.6,90.8
+126,TRN000128,47,20240203,20240309,Communication Skills,Soft Skills,Completed,1,9.6,85.2
+127,TRN000129,47,20240329,20240401,Financial Controls,Finance,Completed,1,2.0,89.7
+128,TRN000127,47,20240923,20241009,Presentation Skills,Soft Skills,Completed,1,5.6,57.0
+129,TRN000126,47,20260523,,Stakeholder Management,Soft Skills,In Progress,0,14.3,
+130,TRN000134,48,20250710,20250728,Inclusive Hiring,HR,Completed,1,14.0,81.5
+131,TRN000133,48,20250731,20250817,First Line Manager Training,Leadership,Completed,1,13.9,82.9
+132,TRN000131,48,20250829,20250924,SQL for Analysts,Technical,Completed,1,1.8,84.9
+133,TRN000132,48,20250911,,SQL for Analysts,Technical,In Progress,0,10.8,
+134,TRN000130,48,20250927,,Communication Skills,Soft Skills,Not Started,0,12.1,
+135,TRN000136,49,20240729,20240911,Cloud Data Fundamentals,Technical,Completed,1,12.7,69.6
+136,TRN000138,49,20250102,,Cloud Data Fundamentals,Technical,In Progress,0,11.1,
+137,TRN000135,49,20260222,20260314,Communication Skills,Soft Skills,Completed,1,12.5,81.2
+138,TRN000137,49,20260309,,Workplace Health and Safety,Compliance,Not Started,0,1.5,
+139,TRN000140,50,20240317,20240419,Data Protection Training,Compliance,Completed,1,7.8,77.6
+140,TRN000139,50,20240418,,Financial Controls,Finance,Overdue,0,14.2,
+141,TRN000141,51,20241007,20241031,Budget Management,Finance,Completed,1,12.7,81.7
+142,TRN000142,52,20250503,20250604,Power BI Fundamentals,Technical,Completed,1,4.0,63.1
+143,TRN000145,53,20240102,20240211,Budget Management,Finance,Completed,1,15.2,62.5
+144,TRN000144,53,20241002,,Presentation Skills,Soft Skills,Overdue,0,15.8,
+145,TRN000143,53,20260202,,Information Security Awareness,Compliance,Overdue,0,8.3,
+146,TRN000146,54,20260531,20260616,Communication Skills,Soft Skills,Completed,1,15.4,64.6
+147,TRN000147,55,20241024,,Communication Skills,Soft Skills,Not Started,0,12.3,
+148,TRN000148,55,20250101,,Employee Relations Essentials,HR,Not Started,0,13.1,
+149,TRN000149,56,20240101,,Presentation Skills,Soft Skills,Overdue,0,10.1,
+150,TRN000150,56,20240107,20240125,First Line Manager Training,Leadership,Completed,1,10.0,73.6
+151,TRN000151,57,20251219,20260109,Inclusive Hiring,HR,Completed,1,11.3,62.7
+152,TRN000152,57,20260501,,Financial Controls,Finance,In Progress,0,8.5,
+153,TRN000153,58,20250203,,Stakeholder Management,Soft Skills,In Progress,0,13.9,
+154,TRN000154,58,20260421,20260428,Employee Relations Essentials,HR,Completed,1,7.1,76.9
+155,TRN000155,59,20241129,20241206,First Line Manager Training,Leadership,Completed,1,6.4,92.6
+156,TRN000156,59,20260308,20260326,Financial Controls,Finance,Completed,1,1.9,81.9
+157,TRN000157,60,20250907,20250926,Presentation Skills,Soft Skills,Completed,1,7.2,74.8
+158,TRN000158,61,20240318,20240327,Inclusive Hiring,HR,Completed,1,10.4,52.3
+159,TRN000162,62,20250129,,Employee Relations Essentials,HR,Not Started,0,1.6,
+160,TRN000161,62,20250506,20250530,Employee Relations Essentials,HR,Completed,1,6.2,80.8
+161,TRN000159,62,20250606,20250622,First Line Manager Training,Leadership,Completed,1,13.9,87.5
+162,TRN000160,62,20260110,20260113,Workplace Health and Safety,Compliance,Completed,1,12.2,68.9
+163,TRN000165,63,20250329,20250420,Inclusive Hiring,HR,Completed,1,1.0,82.6
+164,TRN000164,63,20250612,,Presentation Skills,Soft Skills,Not Started,0,8.3,
+165,TRN000163,63,20260413,20260424,Communication Skills,Soft Skills,Completed,1,11.3,65.5
+166,TRN000167,64,20240121,20240216,Stakeholder Management,Soft Skills,Completed,1,8.6,90.1
+167,TRN000166,64,20250420,20250523,Presentation Skills,Soft Skills,Completed,1,6.6,75.3
+168,TRN000168,64,20250817,,Stakeholder Management,Soft Skills,Not Started,0,7.1,
+169,TRN000169,64,20260117,,Power BI Fundamentals,Technical,Not Started,0,13.0,
+170,TRN000170,65,20250310,,Financial Controls,Finance,Not Started,0,5.0,
+171,TRN000174,66,20250110,20250221,Information Security Awareness,Compliance,Completed,1,1.3,96.1
+172,TRN000171,66,20250202,,Presentation Skills,Soft Skills,Overdue,0,5.8,
+173,TRN000172,66,20250811,20250922,Stakeholder Management,Soft Skills,Completed,1,13.5,85.8
+174,TRN000173,66,20260606,,SQL for Analysts,Technical,Not Started,0,11.6,
+175,TRN000175,67,20240111,,Financial Controls,Finance,In Progress,0,4.5,
+176,TRN000176,68,20260617,20260630,Inclusive Hiring,HR,Completed,1,4.6,89.5
+177,TRN000177,69,20240812,,Workplace Health and Safety,Compliance,In Progress,0,10.9,
+178,TRN000178,70,20240810,,Employee Relations Essentials,HR,Overdue,0,6.2,
+179,TRN000179,70,20251108,20251122,Inclusive Hiring,HR,Completed,1,2.2,76.3
+180,TRN000180,71,20240730,,Financial Controls,Finance,Not Started,0,1.2,
+181,TRN000181,71,20250120,20250218,Coaching Skills,Leadership,Completed,1,6.0,77.6
+182,TRN000182,72,20251217,,First Line Manager Training,Leadership,Overdue,0,6.8,
+183,TRN000183,72,20260215,,SQL for Analysts,Technical,Overdue,0,7.7,
+184,TRN000184,73,20251105,20251115,Financial Controls,Finance,Completed,1,9.4,82.0
+185,TRN000185,73,20260410,,Cloud Data Fundamentals,Technical,Overdue,0,5.1,
+186,TRN000186,73,20260517,,Data Protection Training,Compliance,Not Started,0,14.7,
+187,TRN000187,74,20250115,20250205,Cloud Data Fundamentals,Technical,Completed,1,3.9,90.3
+188,TRN000188,74,20260531,,Information Security Awareness,Compliance,Overdue,0,7.1,
+189,TRN000189,75,20240303,,Stakeholder Management,Soft Skills,In Progress,0,2.6,
+190,TRN000190,75,20260112,20260125,Data Protection Training,Compliance,Completed,1,15.0,79.0
+191,TRN000191,75,20260412,20260429,Coaching Skills,Leadership,Completed,1,2.6,72.7
+192,TRN000193,76,20240629,20240810,Coaching Skills,Leadership,Completed,1,7.7,71.9
+193,TRN000194,76,20240915,,Python for Data Analysis,Technical,In Progress,0,10.7,
+194,TRN000192,76,20241022,,Information Security Awareness,Compliance,Not Started,0,11.8,
+195,TRN000195,77,20251025,20251124,Budget Management,Finance,Completed,1,12.1,76.0
+196,TRN000196,77,20251124,20251229,Communication Skills,Soft Skills,Completed,1,5.1,91.2
+197,TRN000197,78,20260302,,Workplace Health and Safety,Compliance,Overdue,0,2.8,
+198,TRN000199,78,20260329,,Data Protection Training,Compliance,Overdue,0,7.2,
+199,TRN000198,78,20260622,,Coaching Skills,Leadership,Not Started,0,9.4,
+200,TRN000200,79,20260206,,SQL for Analysts,Technical,In Progress,0,6.0,
+201,TRN000201,80,20260624,20260630,Power BI Fundamentals,Technical,Completed,1,2.3,84.9
+202,TRN000204,81,20240406,,Financial Controls,Finance,Overdue,0,10.5,
+203,TRN000202,81,20241128,,Python for Data Analysis,Technical,In Progress,0,3.6,
+204,TRN000203,81,20260606,20260630,Employee Relations Essentials,HR,Completed,1,11.1,48.1
+205,TRN000205,82,20260412,,SQL for Analysts,Technical,Not Started,0,6.7,
+206,TRN000206,82,20260614,20260630,Leading High Performing Teams,Leadership,Completed,1,2.1,62.4
+207,TRN000207,83,20240525,20240606,Inclusive Hiring,HR,Completed,1,14.4,79.8
+208,TRN000211,83,20241210,20250117,Python for Data Analysis,Technical,Completed,1,10.0,77.8
+209,TRN000210,83,20250324,20250402,Inclusive Hiring,HR,Completed,1,7.8,79.9
+210,TRN000208,83,20250718,20250731,Leading High Performing Teams,Leadership,Completed,1,5.8,53.9
+211,TRN000209,83,20260608,,Information Security Awareness,Compliance,Not Started,0,1.2,
+212,TRN000212,84,20251021,20251031,Budget Management,Finance,Completed,1,1.3,75.9
+213,TRN000214,84,20260101,20260122,First Line Manager Training,Leadership,Completed,1,11.3,80.9
+214,TRN000215,84,20260205,20260209,Stakeholder Management,Soft Skills,Completed,1,1.5,100.0
+215,TRN000216,84,20260322,20260415,Information Security Awareness,Compliance,Completed,1,9.1,72.9
+216,TRN000213,84,20260511,20260621,Cloud Data Fundamentals,Technical,Completed,1,7.4,68.4
+217,TRN000217,85,20241123,20241229,Budget Management,Finance,Completed,1,2.4,91.1
+218,TRN000219,86,20240516,20240616,Stakeholder Management,Soft Skills,Completed,1,7.2,73.6
+219,TRN000220,86,20240822,,Data Protection Training,Compliance,In Progress,0,15.2,
+220,TRN000218,86,20250320,20250328,Cloud Data Fundamentals,Technical,Completed,1,12.9,75.5
+221,TRN000221,87,20260306,20260330,Employee Relations Essentials,HR,Completed,1,12.0,71.1
+222,TRN000224,88,20240228,,Budget Management,Finance,In Progress,0,1.7,
+223,TRN000223,88,20240415,20240523,Stakeholder Management,Soft Skills,Completed,1,8.3,93.3
+224,TRN000225,88,20240625,,Financial Controls,Finance,Not Started,0,5.3,
+225,TRN000222,88,20240706,,Inclusive Hiring,HR,Not Started,0,6.7,
+226,TRN000226,89,20241020,,Coaching Skills,Leadership,Not Started,0,13.3,
+227,TRN000227,89,20241203,20241220,Inclusive Hiring,HR,Completed,1,11.2,87.6
+228,TRN000228,90,20240211,,SQL for Analysts,Technical,Overdue,0,6.4,
+229,TRN000230,90,20250925,,Cloud Data Fundamentals,Technical,Not Started,0,15.7,
+230,TRN000229,90,20250926,20251102,Stakeholder Management,Soft Skills,Completed,1,13.4,66.2
+231,TRN000232,91,20250413,,Coaching Skills,Leadership,Not Started,0,15.0,
+232,TRN000231,91,20251012,,First Line Manager Training,Leadership,Not Started,0,14.1,
+233,TRN000233,91,20260402,20260506,First Line Manager Training,Leadership,Completed,1,8.8,89.3
+234,TRN000234,92,20240719,20240811,Workplace Health and Safety,Compliance,Completed,1,1.6,65.7
+235,TRN000235,92,20250511,20250605,Employee Relations Essentials,HR,Completed,1,6.4,76.1
+236,TRN000236,93,20251109,,Leading High Performing Teams,Leadership,Overdue,0,6.2,
+237,TRN000237,93,20260220,20260319,Data Protection Training,Compliance,Completed,1,13.7,77.9
+238,TRN000238,94,20251105,,Leading High Performing Teams,Leadership,Not Started,0,15.8,
+239,TRN000241,95,20240202,20240310,Power BI Fundamentals,Technical,Completed,1,15.0,79.6
+240,TRN000240,95,20251020,,SQL for Analysts,Technical,Overdue,0,11.3,
+241,TRN000239,95,20260412,20260426,Employee Relations Essentials,HR,Completed,1,11.1,68.9
+242,TRN000242,95,20260530,20260619,Information Security Awareness,Compliance,Completed,1,12.4,74.8
+243,TRN000245,96,20240410,,Inclusive Hiring,HR,Overdue,0,6.9,
+244,TRN000244,96,20250604,20250626,Data Protection Training,Compliance,Completed,1,11.2,100.0
+245,TRN000243,96,20260412,20260414,Information Security Awareness,Compliance,Completed,1,6.6,70.4
+246,TRN000246,97,20250713,20250801,Financial Controls,Finance,Completed,1,10.0,77.8
+247,TRN000248,97,20250818,20250908,Employee Relations Essentials,HR,Completed,1,8.9,84.6
+248,TRN000247,97,20260515,,Information Security Awareness,Compliance,In Progress,0,6.7,
+249,TRN000249,98,20260425,20260502,Financial Controls,Finance,Completed,1,7.8,86.4
+250,TRN000251,98,20260528,,Inclusive Hiring,HR,In Progress,0,15.8,
+251,TRN000252,98,20260529,20260601,First Line Manager Training,Leadership,Completed,1,8.7,100.0
+252,TRN000250,98,20260531,20260613,Presentation Skills,Soft Skills,Completed,1,15.2,80.5
+253,TRN000253,99,20240305,,Python for Data Analysis,Technical,Not Started,0,13.9,
+254,TRN000254,99,20250330,20250426,Communication Skills,Soft Skills,Completed,1,13.3,85.8
+255,TRN000256,100,20250204,20250219,Workplace Health and Safety,Compliance,Completed,1,5.7,54.7
+256,TRN000255,100,20251221,,SQL for Analysts,Technical,In Progress,0,2.4,
+257,TRN000258,101,20240404,,Inclusive Hiring,HR,In Progress,0,6.6,
+258,TRN000257,101,20260129,20260228,Coaching Skills,Leadership,Completed,1,1.7,76.8
+259,TRN000259,102,20250820,20250824,Stakeholder Management,Soft Skills,Completed,1,14.6,62.0
+260,TRN000260,102,20260411,20260428,Stakeholder Management,Soft Skills,Completed,1,13.4,77.9
+261,TRN000261,103,20241207,,Employee Relations Essentials,HR,Overdue,0,7.8,
+262,TRN000265,103,20250111,,Workplace Health and Safety,Compliance,In Progress,0,6.0,
+263,TRN000264,103,20250126,20250204,Inclusive Hiring,HR,Completed,1,3.6,87.0
+264,TRN000262,103,20250817,20250910,First Line Manager Training,Leadership,Completed,1,14.1,77.5
+265,TRN000263,103,20260217,20260326,Presentation Skills,Soft Skills,Completed,1,4.2,65.4
+266,TRN000266,104,20250607,,First Line Manager Training,Leadership,In Progress,0,9.0,
+267,TRN000267,104,20260102,,Data Protection Training,Compliance,In Progress,0,6.3,
+268,TRN000268,105,20260418,20260531,Budget Management,Finance,Completed,1,7.0,60.8
+269,TRN000269,106,20241212,,Data Protection Training,Compliance,Not Started,0,14.0,
+270,TRN000270,106,20250109,20250214,Budget Management,Finance,Completed,1,10.9,84.4
+271,TRN000274,107,20250927,20251108,Employee Relations Essentials,HR,Completed,1,15.0,45.0
+272,TRN000273,107,20251208,20251225,Presentation Skills,Soft Skills,Completed,1,11.2,75.9
+273,TRN000275,107,20260213,20260310,First Line Manager Training,Leadership,Completed,1,5.5,54.1
+274,TRN000272,107,20260418,20260530,Presentation Skills,Soft Skills,Completed,1,13.4,97.9
+275,TRN000271,107,20260521,20260611,Presentation Skills,Soft Skills,Completed,1,7.3,77.7
+276,TRN000280,108,20240417,20240525,Leading High Performing Teams,Leadership,Completed,1,9.2,52.9
+277,TRN000277,108,20240511,,Power BI Fundamentals,Technical,Overdue,0,15.3,
+278,TRN000276,108,20250117,20250301,Python for Data Analysis,Technical,Completed,1,12.0,72.4
+279,TRN000278,108,20250610,20250706,First Line Manager Training,Leadership,Completed,1,12.7,89.6
+280,TRN000279,108,20260523,20260630,Financial Controls,Finance,Completed,1,13.8,62.3
+281,TRN000282,109,20240218,20240320,Financial Controls,Finance,Completed,1,2.1,73.4
+282,TRN000281,109,20251113,20251224,Presentation Skills,Soft Skills,Completed,1,8.0,84.6
+283,TRN000283,110,20241117,20241230,Financial Controls,Finance,Completed,1,13.1,90.3
+284,TRN000284,111,20260420,,Budget Management,Finance,Overdue,0,3.4,
+285,TRN000289,112,20241211,20241216,Power BI Fundamentals,Technical,Completed,1,9.8,74.3
+286,TRN000285,112,20241219,20241227,Python for Data Analysis,Technical,Completed,1,8.4,56.8
+287,TRN000287,112,20250905,20251011,Coaching Skills,Leadership,Completed,1,12.4,60.5
+288,TRN000286,112,20251227,20260128,Presentation Skills,Soft Skills,Completed,1,4.0,80.2
+289,TRN000288,112,20260326,,Presentation Skills,Soft Skills,Not Started,0,2.4,
+290,TRN000291,113,20240219,20240326,Budget Management,Finance,Completed,1,4.0,61.9
+291,TRN000293,113,20260206,20260308,Cloud Data Fundamentals,Technical,Completed,1,7.5,75.6
+292,TRN000290,113,20260212,,Financial Controls,Finance,Overdue,0,13.8,
+293,TRN000292,113,20260531,20260627,Python for Data Analysis,Technical,Completed,1,2.9,83.4
+294,TRN000294,114,20260305,20260407,SQL for Analysts,Technical,Completed,1,14.8,61.5
+295,TRN000297,115,20240703,20240709,Inclusive Hiring,HR,Completed,1,7.9,59.2
+296,TRN000295,115,20260414,,Cloud Data Fundamentals,Technical,Overdue,0,12.8,
+297,TRN000296,115,20260418,20260422,Stakeholder Management,Soft Skills,Completed,1,7.0,97.5
+298,TRN000298,116,20251020,20251107,Cloud Data Fundamentals,Technical,Completed,1,7.1,87.9
+299,TRN000300,116,20251102,20251216,Coaching Skills,Leadership,Completed,1,5.3,65.5
+300,TRN000299,116,20260120,20260201,Budget Management,Finance,Completed,1,7.6,77.8
+301,TRN000301,116,20260402,20260416,First Line Manager Training,Leadership,Completed,1,14.3,70.4
+302,TRN000304,117,20240916,20241002,Data Protection Training,Compliance,Completed,1,12.6,76.7
+303,TRN000303,117,20260219,,Cloud Data Fundamentals,Technical,Overdue,0,14.9,
+304,TRN000302,117,20260418,20260517,Inclusive Hiring,HR,Completed,1,7.3,69.7
+305,TRN000305,118,20240704,20240715,Communication Skills,Soft Skills,Completed,1,13.4,81.2
+306,TRN000308,119,20250826,,Information Security Awareness,Compliance,Overdue,0,8.8,
+307,TRN000306,119,20251030,,Inclusive Hiring,HR,Overdue,0,4.4,
+308,TRN000307,119,20251111,,Workplace Health and Safety,Compliance,Overdue,0,5.6,
+309,TRN000309,120,20250806,20250908,Communication Skills,Soft Skills,Completed,1,15.3,86.3
+310,TRN000311,120,20260312,20260322,SQL for Analysts,Technical,Completed,1,13.9,68.1
+311,TRN000310,120,20260514,,Budget Management,Finance,Overdue,0,13.9,
+312,TRN000312,121,20241019,20241120,Cloud Data Fundamentals,Technical,Completed,1,11.8,78.3
+313,TRN000315,121,20250221,20250310,Inclusive Hiring,HR,Completed,1,12.1,89.1
+314,TRN000314,121,20250310,20250315,Information Security Awareness,Compliance,Completed,1,8.6,65.3
+315,TRN000313,121,20251213,20251226,Power BI Fundamentals,Technical,Completed,1,8.1,77.3
+316,TRN000316,122,20260304,20260308,Budget Management,Finance,Completed,1,3.6,70.3
+317,TRN000318,123,20240207,20240216,Presentation Skills,Soft Skills,Completed,1,15.5,75.6
+318,TRN000317,123,20250521,20250630,Information Security Awareness,Compliance,Completed,1,13.8,66.5
+319,TRN000320,124,20240211,20240216,Workplace Health and Safety,Compliance,Completed,1,8.2,68.6
+320,TRN000319,124,20240824,20241003,Employee Relations Essentials,HR,Completed,1,8.8,80.4
+321,TRN000321,125,20240523,,Python for Data Analysis,Technical,Overdue,0,11.4,
+322,TRN000322,125,20250129,20250302,Financial Controls,Finance,Completed,1,7.3,84.6
+323,TRN000324,125,20260126,20260212,Stakeholder Management,Soft Skills,Completed,1,2.0,92.9
+324,TRN000323,125,20260518,,Employee Relations Essentials,HR,Overdue,0,9.1,
+325,TRN000325,126,20260404,20260506,Leading High Performing Teams,Leadership,Completed,1,14.6,65.0
+326,TRN000326,127,20240131,20240303,Coaching Skills,Leadership,Completed,1,8.1,73.7
+327,TRN000327,127,20240817,20240906,Budget Management,Finance,Completed,1,5.6,89.7
+328,TRN000328,128,20240221,20240315,Coaching Skills,Leadership,Completed,1,5.3,85.8
+329,TRN000330,129,20241208,20250109,Workplace Health and Safety,Compliance,Completed,1,3.9,70.3
+330,TRN000329,129,20250627,20250801,Financial Controls,Finance,Completed,1,8.6,100.0
+331,TRN000331,129,20260123,20260216,SQL for Analysts,Technical,Completed,1,7.8,77.8
+332,TRN000334,130,20240517,20240529,Financial Controls,Finance,Completed,1,11.6,86.4
+333,TRN000333,130,20241122,,Communication Skills,Soft Skills,In Progress,0,4.0,
+334,TRN000332,130,20241229,20250105,Presentation Skills,Soft Skills,Completed,1,12.1,84.9
+335,TRN000335,131,20251119,20251231,Presentation Skills,Soft Skills,Completed,1,3.7,59.2
+336,TRN000336,131,20260627,20260630,Workplace Health and Safety,Compliance,Completed,1,15.1,60.1
+337,TRN000338,132,20240228,,Power BI Fundamentals,Technical,Not Started,0,9.4,
+338,TRN000339,132,20250302,,First Line Manager Training,Leadership,Not Started,0,15.6,
+339,TRN000337,132,20250708,20250808,Information Security Awareness,Compliance,Completed,1,10.7,90.3
+340,TRN000340,133,20260330,,Coaching Skills,Leadership,Not Started,0,14.8,
+341,TRN000341,134,20240712,,Presentation Skills,Soft Skills,Not Started,0,13.9,
+342,TRN000343,134,20241019,,First Line Manager Training,Leadership,Overdue,0,15.9,
+343,TRN000342,134,20260519,20260524,Workplace Health and Safety,Compliance,Completed,1,2.9,80.4
+344,TRN000347,135,20251016,20251113,Cloud Data Fundamentals,Technical,Completed,1,9.2,91.5
+345,TRN000345,135,20251205,,Leading High Performing Teams,Leadership,Overdue,0,5.7,
+346,TRN000346,135,20260205,,Python for Data Analysis,Technical,In Progress,0,2.6,
+347,TRN000344,135,20260515,,Budget Management,Finance,Not Started,0,11.2,
+348,TRN000350,136,20241113,20241122,Cloud Data Fundamentals,Technical,Completed,1,15.7,78.6
+349,TRN000348,136,20250427,20250507,Presentation Skills,Soft Skills,Completed,1,14.6,60.3
+350,TRN000349,136,20250924,20251026,Information Security Awareness,Compliance,Completed,1,6.6,74.8
+351,TRN000351,137,20251122,20251201,Presentation Skills,Soft Skills,Completed,1,1.2,58.2
+352,TRN000352,137,20251211,20260103,Coaching Skills,Leadership,Completed,1,15.3,75.8
+353,TRN000353,137,20260508,20260605,Presentation Skills,Soft Skills,Completed,1,14.7,71.8
+354,TRN000355,138,20241013,20241121,SQL for Analysts,Technical,Completed,1,13.3,77.1
+355,TRN000354,138,20250913,20251013,Leading High Performing Teams,Leadership,Completed,1,9.7,71.5
+356,TRN000356,139,20250116,20250217,SQL for Analysts,Technical,Completed,1,11.1,90.5
+357,TRN000358,139,20250227,20250322,Inclusive Hiring,HR,Completed,1,2.4,71.6
+358,TRN000357,139,20250724,,SQL for Analysts,Technical,Not Started,0,12.8,
+359,TRN000360,140,20240919,,Coaching Skills,Leadership,Not Started,0,10.1,
+360,TRN000359,140,20250516,20250615,Python for Data Analysis,Technical,Completed,1,1.1,49.6
+361,TRN000361,140,20251204,20251209,SQL for Analysts,Technical,Completed,1,6.9,72.7
+362,TRN000362,141,20260314,20260321,Financial Controls,Finance,Completed,1,7.1,86.9
+363,TRN000363,142,20240218,20240320,Budget Management,Finance,Completed,1,3.2,66.1
+364,TRN000364,143,20240216,20240305,Leading High Performing Teams,Leadership,Completed,1,5.7,96.7
+365,TRN000367,143,20241112,20241225,Financial Controls,Finance,Completed,1,9.5,68.1
+366,TRN000366,143,20250513,20250615,Budget Management,Finance,Completed,1,12.9,68.2
+367,TRN000365,143,20251218,,Cloud Data Fundamentals,Technical,In Progress,0,8.6,
+368,TRN000369,144,20250507,20250604,Presentation Skills,Soft Skills,Completed,1,9.6,87.0
+369,TRN000368,144,20260501,,Information Security Awareness,Compliance,In Progress,0,1.6,
+370,TRN000373,145,20240421,,Employee Relations Essentials,HR,Not Started,0,8.7,
+371,TRN000374,145,20240615,20240627,Employee Relations Essentials,HR,Completed,1,3.3,73.2
+372,TRN000372,145,20240622,,Employee Relations Essentials,HR,In Progress,0,8.1,
+373,TRN000370,145,20250620,20250723,Leading High Performing Teams,Leadership,Completed,1,14.6,88.8
+374,TRN000371,145,20260109,20260202,Cloud Data Fundamentals,Technical,Completed,1,6.3,72.2
+375,TRN000376,146,20250807,20250820,Data Protection Training,Compliance,Completed,1,4.0,91.5
+376,TRN000377,146,20250904,,Communication Skills,Soft Skills,Overdue,0,1.3,
+377,TRN000375,146,20260514,,Leading High Performing Teams,Leadership,In Progress,0,10.5,
+378,TRN000380,147,20240805,,SQL for Analysts,Technical,Not Started,0,13.1,
+379,TRN000378,147,20241115,20241224,Workplace Health and Safety,Compliance,Completed,1,9.1,97.3
+380,TRN000381,147,20251207,20260113,Budget Management,Finance,Completed,1,5.1,86.4
+381,TRN000379,147,20260130,20260302,Inclusive Hiring,HR,Completed,1,7.0,54.7
+382,TRN000383,148,20240417,20240421,Power BI Fundamentals,Technical,Completed,1,11.3,63.8
+383,TRN000384,148,20241015,20241022,Inclusive Hiring,HR,Completed,1,10.4,94.3
+384,TRN000382,148,20251025,,Employee Relations Essentials,HR,Overdue,0,15.1,
+385,TRN000385,148,20260506,20260517,Presentation Skills,Soft Skills,Completed,1,15.5,77.6
+386,TRN000388,149,20250531,,Financial Controls,Finance,In Progress,0,11.5,
+387,TRN000387,149,20251120,20251128,First Line Manager Training,Leadership,Completed,1,1.7,62.6
+388,TRN000386,149,20260405,20260517,Employee Relations Essentials,HR,Completed,1,1.5,92.9
+389,TRN000390,150,20240510,20240617,Coaching Skills,Leadership,Completed,1,2.0,100.0
+390,TRN000393,150,20241017,20241117,Financial Controls,Finance,Completed,1,5.3,82.0
+391,TRN000389,150,20250228,20250329,Budget Management,Finance,Completed,1,7.2,57.3
+392,TRN000391,150,20250315,20250406,Employee Relations Essentials,HR,Completed,1,6.6,83.1
+393,TRN000392,150,20260406,20260516,Coaching Skills,Leadership,Completed,1,10.9,70.7
+394,TRN000394,151,20260506,20260513,Financial Controls,Finance,Completed,1,1.0,81.5
+395,TRN000395,151,20260519,,Financial Controls,Finance,Overdue,0,6.0,
+396,TRN000396,152,20240530,20240613,Workplace Health and Safety,Compliance,Completed,1,15.5,81.1
+397,TRN000398,152,20250223,20250404,Communication Skills,Soft Skills,Completed,1,7.8,77.8
+398,TRN000397,152,20260509,20260619,First Line Manager Training,Leadership,Completed,1,9.1,88.8
+399,TRN000400,153,20240813,20240829,Budget Management,Finance,Completed,1,10.6,88.5
+400,TRN000401,153,20240923,20241105,Employee Relations Essentials,HR,Completed,1,6.0,71.3
+401,TRN000402,153,20250621,,Inclusive Hiring,HR,In Progress,0,1.5,
+402,TRN000399,153,20260501,20260606,Workplace Health and Safety,Compliance,Completed,1,13.6,89.5
+403,TRN000404,154,20240831,,Financial Controls,Finance,Overdue,0,8.2,
+404,TRN000405,154,20250104,20250107,Presentation Skills,Soft Skills,Completed,1,4.2,79.9
+405,TRN000403,154,20250826,,Stakeholder Management,Soft Skills,In Progress,0,8.5,
+406,TRN000406,155,20240605,,Leading High Performing Teams,Leadership,Not Started,0,13.2,
+407,TRN000407,155,20250217,,Information Security Awareness,Compliance,Overdue,0,5.8,
+408,TRN000408,156,20250304,,Information Security Awareness,Compliance,Overdue,0,1.2,
+409,TRN000409,157,20240721,,Python for Data Analysis,Technical,In Progress,0,7.1,
+410,TRN000413,158,20240324,20240416,SQL for Analysts,Technical,Completed,1,6.9,79.8
+411,TRN000411,158,20250407,20250519,Power BI Fundamentals,Technical,Completed,1,9.3,82.2
+412,TRN000412,158,20250713,20250824,First Line Manager Training,Leadership,Completed,1,10.2,71.5
+413,TRN000410,158,20260514,20260525,Communication Skills,Soft Skills,Completed,1,14.9,90.3
+414,TRN000415,159,20240725,,Data Protection Training,Compliance,In Progress,0,6.2,
+415,TRN000414,159,20241212,,Leading High Performing Teams,Leadership,In Progress,0,14.4,
+416,TRN000416,160,20240313,20240424,First Line Manager Training,Leadership,Completed,1,10.3,45.0
+417,TRN000417,160,20240611,,Employee Relations Essentials,HR,Overdue,0,9.7,
+418,TRN000418,161,20251028,20251116,Communication Skills,Soft Skills,Completed,1,7.4,92.6
+419,TRN000421,162,20240820,20240921,SQL for Analysts,Technical,Completed,1,1.4,92.7
+420,TRN000422,162,20250520,20250620,Employee Relations Essentials,HR,Completed,1,11.7,67.8
+421,TRN000420,162,20250718,20250721,Coaching Skills,Leadership,Completed,1,10.5,88.0
+422,TRN000419,162,20260627,20260629,Financial Controls,Finance,Completed,1,7.1,87.2
+423,TRN000423,163,20240810,20240821,Inclusive Hiring,HR,Completed,1,6.0,71.6
+424,TRN000424,164,20250418,,Communication Skills,Soft Skills,In Progress,0,2.4,
+425,TRN000427,165,20240524,20240627,Data Protection Training,Compliance,Completed,1,14.1,89.5
+426,TRN000426,165,20250417,20250507,Power BI Fundamentals,Technical,Completed,1,1.3,94.3
+427,TRN000428,165,20250524,20250529,Workplace Health and Safety,Compliance,Completed,1,12.2,74.6
+428,TRN000425,165,20250628,20250730,Data Protection Training,Compliance,Completed,1,5.5,82.4
+429,TRN000431,166,20250802,20250831,First Line Manager Training,Leadership,Completed,1,4.0,85.5
+430,TRN000432,166,20250923,20251008,First Line Manager Training,Leadership,Completed,1,11.6,58.9
+431,TRN000430,166,20260218,20260316,Employee Relations Essentials,HR,Completed,1,1.5,73.0
+432,TRN000433,166,20260428,20260605,First Line Manager Training,Leadership,Completed,1,9.2,77.7
+433,TRN000429,166,20260620,20260629,Workplace Health and Safety,Compliance,Completed,1,1.9,76.2
+434,TRN000434,167,20241012,20241104,SQL for Analysts,Technical,Completed,1,11.0,80.6
+435,TRN000436,167,20241226,20250206,Workplace Health and Safety,Compliance,Completed,1,3.1,60.0
+436,TRN000435,167,20260601,,SQL for Analysts,Technical,Overdue,0,9.9,
+437,TRN000437,168,20260601,,Inclusive Hiring,HR,In Progress,0,11.5,
+438,TRN000441,169,20240510,20240606,First Line Manager Training,Leadership,Completed,1,15.6,82.0
+439,TRN000442,169,20240623,20240726,Employee Relations Essentials,HR,Completed,1,14.7,85.9
+440,TRN000440,169,20250104,20250109,Employee Relations Essentials,HR,Completed,1,15.4,89.8
+441,TRN000439,169,20260206,20260301,Python for Data Analysis,Technical,Completed,1,10.5,65.8
+442,TRN000438,169,20260430,,Workplace Health and Safety,Compliance,In Progress,0,4.7,
+443,TRN000443,170,20240817,20240925,Leading High Performing Teams,Leadership,Completed,1,14.1,79.2
+444,TRN000444,170,20250321,,Inclusive Hiring,HR,Not Started,0,5.0,
+445,TRN000446,170,20250601,,Communication Skills,Soft Skills,In Progress,0,1.1,
+446,TRN000445,170,20260409,20260427,Information Security Awareness,Compliance,Completed,1,14.3,92.7
+447,TRN000448,171,20240219,20240228,Financial Controls,Finance,Completed,1,14.4,58.0
+448,TRN000447,171,20260405,20260503,Workplace Health and Safety,Compliance,Completed,1,10.0,82.5
+449,TRN000450,172,20240815,20240818,Power BI Fundamentals,Technical,Completed,1,4.0,99.5
+450,TRN000449,172,20250206,20250217,Financial Controls,Finance,Completed,1,4.0,76.2
+451,TRN000453,173,20250210,20250316,Inclusive Hiring,HR,Completed,1,12.7,77.8
+452,TRN000451,173,20260101,20260129,Leading High Performing Teams,Leadership,Completed,1,15.9,99.1
+453,TRN000452,173,20260121,,Coaching Skills,Leadership,Not Started,0,3.1,
+454,TRN000454,173,20260207,20260218,Workplace Health and Safety,Compliance,Completed,1,9.7,74.0
+455,TRN000455,174,20240112,20240212,Stakeholder Management,Soft Skills,Completed,1,11.4,74.6
+456,TRN000456,174,20251105,20251208,Presentation Skills,Soft Skills,Completed,1,6.8,79.3
+457,TRN000457,175,20250219,20250322,Inclusive Hiring,HR,Completed,1,1.4,69.2
+458,TRN000458,176,20240518,20240604,Leading High Performing Teams,Leadership,Completed,1,13.3,52.1
+459,TRN000461,177,20251020,20251203,Employee Relations Essentials,HR,Completed,1,9.2,61.7
+460,TRN000459,177,20251224,20260128,Power BI Fundamentals,Technical,Completed,1,9.2,67.8
+461,TRN000460,177,20260312,,Data Protection Training,Compliance,In Progress,0,5.3,
+462,TRN000464,178,20240905,20240923,Presentation Skills,Soft Skills,Completed,1,5.0,52.1
+463,TRN000462,178,20241108,20241202,Financial Controls,Finance,Completed,1,13.0,63.6
+464,TRN000463,178,20260223,,Inclusive Hiring,HR,Not Started,0,11.6,
+465,TRN000467,179,20251015,20251123,Information Security Awareness,Compliance,Completed,1,12.2,78.0
+466,TRN000465,179,20251128,20251204,First Line Manager Training,Leadership,Completed,1,13.5,88.2
+467,TRN000466,179,20260608,20260630,Stakeholder Management,Soft Skills,Completed,1,15.6,74.1
+468,TRN000469,180,20240218,20240310,Budget Management,Finance,Completed,1,1.0,84.9
+469,TRN000468,180,20241027,,Cloud Data Fundamentals,Technical,In Progress,0,5.6,
+470,TRN000470,180,20251009,20251025,Financial Controls,Finance,Completed,1,9.9,81.5
+471,TRN000472,181,20251225,20260206,Coaching Skills,Leadership,Completed,1,11.6,61.5
+472,TRN000471,181,20260406,20260516,Power BI Fundamentals,Technical,Completed,1,13.7,81.4
+473,TRN000473,182,20250908,20250922,Information Security Awareness,Compliance,Completed,1,6.3,61.4
+474,TRN000474,183,20240517,20240629,Cloud Data Fundamentals,Technical,Completed,1,1.1,100.0
+475,TRN000475,183,20241130,20250106,Leading High Performing Teams,Leadership,Completed,1,11.8,63.0
+476,TRN000476,183,20260518,20260529,Presentation Skills,Soft Skills,Completed,1,15.0,99.4
+477,TRN000478,184,20250729,,Employee Relations Essentials,HR,Overdue,0,6.7,
+478,TRN000477,184,20260501,20260611,Financial Controls,Finance,Completed,1,10.0,83.2
+479,TRN000481,185,20250406,20250428,Cloud Data Fundamentals,Technical,Completed,1,7.4,79.1
+480,TRN000482,185,20250523,20250703,Financial Controls,Finance,Completed,1,3.3,73.4
+481,TRN000480,185,20260111,,Python for Data Analysis,Technical,In Progress,0,15.0,
+482,TRN000479,185,20260420,20260603,Communication Skills,Soft Skills,Completed,1,12.5,74.5
+483,TRN000483,186,20250821,20251003,Employee Relations Essentials,HR,Completed,1,1.2,83.3
+484,TRN000485,187,20240514,20240518,Data Protection Training,Compliance,Completed,1,11.1,83.4
+485,TRN000484,187,20260609,20260618,Workplace Health and Safety,Compliance,Completed,1,11.1,78.8
+486,TRN000486,188,20240716,,Inclusive Hiring,HR,Overdue,0,13.2,
+487,TRN000488,189,20260226,20260318,Leading High Performing Teams,Leadership,Completed,1,3.9,100.0
+488,TRN000487,189,20260331,20260412,Inclusive Hiring,HR,Completed,1,3.2,79.5
+489,TRN000490,190,20240215,,Coaching Skills,Leadership,Not Started,0,5.8,
+490,TRN000489,190,20240830,,Inclusive Hiring,HR,Overdue,0,1.1,
+491,TRN000492,191,20240203,20240212,Inclusive Hiring,HR,Completed,1,13.7,77.4
+492,TRN000491,191,20240506,20240618,Presentation Skills,Soft Skills,Completed,1,7.8,76.8
+493,TRN000493,191,20240519,20240626,Workplace Health and Safety,Compliance,Completed,1,9.3,80.6
+494,TRN000495,192,20240113,20240123,Information Security Awareness,Compliance,Completed,1,3.5,73.5
+495,TRN000496,192,20250530,20250602,Data Protection Training,Compliance,Completed,1,12.3,85.8
+496,TRN000494,192,20250906,,Coaching Skills,Leadership,Overdue,0,8.0,
+497,TRN000497,193,20241102,20241117,First Line Manager Training,Leadership,Completed,1,6.5,73.5
+498,TRN000499,194,20260202,,Stakeholder Management,Soft Skills,Not Started,0,2.2,
+499,TRN000498,194,20260503,20260607,Communication Skills,Soft Skills,Completed,1,7.5,69.8
+500,TRN000501,195,20240308,,Presentation Skills,Soft Skills,Not Started,0,9.1,
+501,TRN000500,195,20241104,20241206,Cloud Data Fundamentals,Technical,Completed,1,15.4,73.4
+502,TRN000502,195,20250802,20250820,Presentation Skills,Soft Skills,Completed,1,3.1,77.5
+503,TRN000503,195,20251111,20251126,Information Security Awareness,Compliance,Completed,1,5.6,86.4
+504,TRN000504,196,20260429,20260518,Presentation Skills,Soft Skills,Completed,1,13.8,70.3
+505,TRN000505,196,20260502,20260529,Data Protection Training,Compliance,Completed,1,12.8,86.0
+506,TRN000506,196,20260530,20260602,Data Protection Training,Compliance,Completed,1,7.1,76.1
+507,TRN000507,197,20260301,20260405,Inclusive Hiring,HR,Completed,1,3.0,82.2
+508,TRN000508,198,20240827,20240923,Inclusive Hiring,HR,Completed,1,15.3,100.0
+509,TRN000510,199,20251109,,Communication Skills,Soft Skills,In Progress,0,12.1,
+510,TRN000509,199,20260510,20260513,First Line Manager Training,Leadership,Completed,1,8.2,78.9
+511,TRN000514,200,20240316,20240428,Presentation Skills,Soft Skills,Completed,1,13.7,83.3
+512,TRN000511,200,20250402,,Cloud Data Fundamentals,Technical,Overdue,0,10.7,
+513,TRN000513,200,20250430,20250604,Financial Controls,Finance,Completed,1,12.2,81.6
+514,TRN000512,200,20250717,20250722,Employee Relations Essentials,HR,Completed,1,8.9,83.3
+515,TRN000515,201,20240314,20240327,Budget Management,Finance,Completed,1,12.8,83.3
+516,TRN000517,202,20251101,20251203,Leading High Performing Teams,Leadership,Completed,1,12.9,87.8
+517,TRN000516,202,20260119,20260207,Python for Data Analysis,Technical,Completed,1,12.6,67.8
+518,TRN000518,203,20240121,20240125,Budget Management,Finance,Completed,1,4.5,94.8
+519,TRN000519,203,20250727,20250802,Workplace Health and Safety,Compliance,Completed,1,1.0,79.6
+520,TRN000523,204,20240512,20240531,Power BI Fundamentals,Technical,Completed,1,10.9,70.6
+521,TRN000521,204,20241215,,Cloud Data Fundamentals,Technical,In Progress,0,2.4,
+522,TRN000524,204,20250603,20250624,Stakeholder Management,Soft Skills,Completed,1,8.0,94.1
+523,TRN000522,204,20251021,20251114,Financial Controls,Finance,Completed,1,11.8,76.8
+524,TRN000520,204,20260126,20260209,Inclusive Hiring,HR,Completed,1,13.7,86.5
+525,TRN000526,205,20260615,20260619,Financial Controls,Finance,Completed,1,10.5,96.1
+526,TRN000525,205,20260619,20260630,Leading High Performing Teams,Leadership,Completed,1,5.3,82.3
+527,TRN000528,206,20250404,20250406,Data Protection Training,Compliance,Completed,1,2.9,77.7
+528,TRN000527,206,20260301,20260410,Information Security Awareness,Compliance,Completed,1,5.0,100.0
+529,TRN000529,207,20241107,20241115,Cloud Data Fundamentals,Technical,Completed,1,12.9,92.0
+530,TRN000530,207,20251213,20251216,SQL for Analysts,Technical,Completed,1,5.8,71.2
+531,TRN000531,208,20240226,20240324,Financial Controls,Finance,Completed,1,3.2,77.0
+532,TRN000532,208,20250212,,Budget Management,Finance,Not Started,0,7.1,
+533,TRN000533,209,20260321,20260503,Data Protection Training,Compliance,Completed,1,10.9,87.4
+534,TRN000535,210,20250708,20250810,Workplace Health and Safety,Compliance,Completed,1,8.3,100.0
+535,TRN000536,210,20260427,,Employee Relations Essentials,HR,Not Started,0,8.1,
+536,TRN000534,210,20260428,,Information Security Awareness,Compliance,In Progress,0,11.9,
+537,TRN000540,211,20240117,20240216,Budget Management,Finance,Completed,1,14.2,79.2
+538,TRN000539,211,20240125,20240203,Stakeholder Management,Soft Skills,Completed,1,12.4,86.6
+539,TRN000538,211,20240313,20240327,Budget Management,Finance,Completed,1,10.5,70.0
+540,TRN000537,211,20260501,,Financial Controls,Finance,Not Started,0,9.3,
+541,TRN000543,212,20250721,20250731,Cloud Data Fundamentals,Technical,Completed,1,5.0,54.3
+542,TRN000542,212,20260110,20260113,Financial Controls,Finance,Completed,1,5.1,78.7
+543,TRN000544,212,20260210,20260227,First Line Manager Training,Leadership,Completed,1,5.9,90.5
+544,TRN000541,212,20260217,,Power BI Fundamentals,Technical,Not Started,0,1.7,
+545,TRN000546,213,20240701,20240708,First Line Manager Training,Leadership,Completed,1,12.5,87.1
+546,TRN000547,213,20241125,20241215,Communication Skills,Soft Skills,Completed,1,15.4,88.1
+547,TRN000545,213,20260212,20260322,Communication Skills,Soft Skills,Completed,1,8.1,68.3
+548,TRN000548,214,20240216,,Budget Management,Finance,In Progress,0,7.8,
+549,TRN000549,214,20260122,,Financial Controls,Finance,In Progress,0,4.6,
+550,TRN000550,215,20250916,,Budget Management,Finance,Overdue,0,7.6,
+551,TRN000551,216,20250526,20250616,Financial Controls,Finance,Completed,1,12.8,92.0
+552,TRN000552,217,20250409,20250507,Python for Data Analysis,Technical,Completed,1,6.0,75.5
+553,TRN000553,217,20260228,20260305,Power BI Fundamentals,Technical,Completed,1,6.9,73.7
+554,TRN000555,218,20241228,20250123,Employee Relations Essentials,HR,Completed,1,15.7,73.0
+555,TRN000554,218,20251006,20251031,First Line Manager Training,Leadership,Completed,1,7.5,82.8
+556,TRN000558,219,20241017,20241126,Employee Relations Essentials,HR,Completed,1,4.7,77.9
+557,TRN000557,219,20241116,20241202,Information Security Awareness,Compliance,Completed,1,8.0,78.1
+558,TRN000559,219,20250130,20250204,Cloud Data Fundamentals,Technical,Completed,1,3.8,87.4
+559,TRN000556,219,20251122,20251206,Inclusive Hiring,HR,Completed,1,10.7,78.8
+560,TRN000560,220,20241111,20241116,Python for Data Analysis,Technical,Completed,1,14.5,83.9
+561,TRN000561,220,20260225,20260308,Financial Controls,Finance,Completed,1,14.7,68.8
+562,TRN000562,221,20241231,,Presentation Skills,Soft Skills,Not Started,0,13.8,
+563,TRN000563,221,20250726,,Information Security Awareness,Compliance,In Progress,0,13.4,
+564,TRN000564,222,20260430,,Data Protection Training,Compliance,Not Started,0,6.7,
+565,TRN000566,223,20250215,,Financial Controls,Finance,Overdue,0,15.3,
+566,TRN000567,223,20250218,20250329,Stakeholder Management,Soft Skills,Completed,1,3.7,63.6
+567,TRN000568,223,20250418,20250420,Presentation Skills,Soft Skills,Completed,1,7.4,70.1
+568,TRN000565,223,20260210,20260226,Budget Management,Finance,Completed,1,13.9,76.0
+569,TRN000569,224,20240406,,Coaching Skills,Leadership,Not Started,0,2.9,
+570,TRN000570,224,20251117,,Financial Controls,Finance,Not Started,0,4.1,
+571,TRN000571,225,20241118,20241217,First Line Manager Training,Leadership,Completed,1,4.9,99.5
+572,TRN000572,225,20250124,,Presentation Skills,Soft Skills,Not Started,0,3.0,
+573,TRN000575,226,20250205,,Budget Management,Finance,Overdue,0,14.9,
+574,TRN000574,226,20250731,,Communication Skills,Soft Skills,Overdue,0,12.7,
+575,TRN000573,226,20251216,20251225,SQL for Analysts,Technical,Completed,1,10.5,85.0
+576,TRN000577,227,20240105,20240209,Presentation Skills,Soft Skills,Completed,1,8.9,83.9
+577,TRN000576,227,20240117,20240126,Information Security Awareness,Compliance,Completed,1,1.1,85.4
+578,TRN000578,227,20240328,20240330,Python for Data Analysis,Technical,Completed,1,7.5,71.5
+579,TRN000579,228,20240731,,Financial Controls,Finance,Not Started,0,14.1,
+580,TRN000580,228,20250716,20250808,First Line Manager Training,Leadership,Completed,1,14.8,78.4
+581,TRN000582,229,20240827,,Financial Controls,Finance,Not Started,0,6.6,
+582,TRN000581,229,20250914,,Financial Controls,Finance,In Progress,0,3.4,
+583,TRN000583,230,20240530,20240628,Employee Relations Essentials,HR,Completed,1,9.8,81.8
+584,TRN000584,231,20240531,,Workplace Health and Safety,Compliance,In Progress,0,8.6,
+585,TRN000585,231,20241221,,Employee Relations Essentials,HR,Overdue,0,8.8,
+586,TRN000586,231,20260318,20260420,Coaching Skills,Leadership,Completed,1,1.7,69.3
+587,TRN000588,232,20240914,20240928,Cloud Data Fundamentals,Technical,Completed,1,8.9,69.0
+588,TRN000587,232,20250420,20250513,Financial Controls,Finance,Completed,1,7.1,67.3
+589,TRN000589,233,20250515,20250517,First Line Manager Training,Leadership,Completed,1,12.8,100.0
+590,TRN000590,233,20260406,,Employee Relations Essentials,HR,In Progress,0,7.9,
+591,TRN000592,234,20241228,20241231,Stakeholder Management,Soft Skills,Completed,1,11.3,92.1
+592,TRN000591,234,20250422,20250527,Coaching Skills,Leadership,Completed,1,13.9,86.5
+593,TRN000593,234,20260228,20260317,SQL for Analysts,Technical,Completed,1,9.1,80.0
+594,TRN000596,235,20240403,20240423,Data Protection Training,Compliance,Completed,1,4.4,87.4
+595,TRN000595,235,20240503,20240615,Stakeholder Management,Soft Skills,Completed,1,10.9,91.0
+596,TRN000594,235,20251126,20251228,SQL for Analysts,Technical,Completed,1,12.4,56.5
+597,TRN000597,235,20260519,20260601,Leading High Performing Teams,Leadership,Completed,1,9.8,80.3
+598,TRN000599,236,20250208,20250224,Employee Relations Essentials,HR,Completed,1,13.9,80.4
+599,TRN000598,236,20251122,20251219,Communication Skills,Soft Skills,Completed,1,15.6,85.4
+600,TRN000600,237,20251126,20251201,Employee Relations Essentials,HR,Completed,1,8.4,77.6
+601,TRN000602,238,20250302,,Workplace Health and Safety,Compliance,In Progress,0,3.2,
+602,TRN000601,238,20250429,20250506,Financial Controls,Finance,Completed,1,1.5,91.3
+603,TRN000604,239,20240217,20240331,Financial Controls,Finance,Completed,1,15.2,74.6
+604,TRN000605,239,20240804,,SQL for Analysts,Technical,Overdue,0,2.6,
+605,TRN000603,239,20260527,,Presentation Skills,Soft Skills,Not Started,0,1.4,
+606,TRN000606,240,20240406,20240520,Communication Skills,Soft Skills,Completed,1,1.2,88.7
+607,TRN000607,240,20250904,20250928,SQL for Analysts,Technical,Completed,1,7.4,87.8
+608,TRN000608,240,20251010,20251016,Presentation Skills,Soft Skills,Completed,1,14.7,58.8
+609,TRN000610,241,20240818,20240820,Presentation Skills,Soft Skills,Completed,1,4.2,58.2
+610,TRN000609,241,20250829,20251012,Information Security Awareness,Compliance,Completed,1,14.8,93.8
+611,TRN000611,242,20240928,20241022,Budget Management,Finance,Completed,1,14.8,68.8
+612,TRN000612,242,20250812,20250828,Inclusive Hiring,HR,Completed,1,11.4,74.1
+613,TRN000613,243,20240919,,Workplace Health and Safety,Compliance,Overdue,0,10.7,
+614,TRN000614,243,20250723,,Inclusive Hiring,HR,Not Started,0,12.9,
+615,TRN000615,243,20251125,,Python for Data Analysis,Technical,Not Started,0,2.3,
+616,TRN000618,244,20241106,,Workplace Health and Safety,Compliance,Overdue,0,3.7,
+617,TRN000616,244,20251225,20260115,Leading High Performing Teams,Leadership,Completed,1,7.3,78.0
+618,TRN000617,244,20260624,,Presentation Skills,Soft Skills,In Progress,0,5.7,
+619,TRN000623,245,20240224,20240316,Communication Skills,Soft Skills,Completed,1,5.6,76.2
+620,TRN000622,245,20240913,20241023,Budget Management,Finance,Completed,1,8.9,91.5
+621,TRN000620,245,20250408,20250515,Presentation Skills,Soft Skills,Completed,1,9.3,76.3
+622,TRN000621,245,20250601,20250612,Employee Relations Essentials,HR,Completed,1,4.6,58.2
+623,TRN000619,245,20250715,20250814,Cloud Data Fundamentals,Technical,Completed,1,11.7,63.9
+624,TRN000625,246,20240203,,Information Security Awareness,Compliance,In Progress,0,8.4,
+625,TRN000624,246,20240330,,Budget Management,Finance,Not Started,0,3.4,
+626,TRN000626,247,20240505,,Budget Management,Finance,Overdue,0,9.0,
+627,TRN000627,247,20240830,20241009,Stakeholder Management,Soft Skills,Completed,1,13.2,65.0
+628,TRN000628,248,20240809,20240825,Information Security Awareness,Compliance,Completed,1,10.0,84.8
+629,TRN000631,248,20241014,,Power BI Fundamentals,Technical,In Progress,0,9.5,
+630,TRN000630,248,20241021,,Financial Controls,Finance,Overdue,0,8.7,
+631,TRN000629,248,20250815,20250829,Presentation Skills,Soft Skills,Completed,1,11.9,95.1
+632,TRN000632,249,20251122,,First Line Manager Training,Leadership,Not Started,0,4.3,
+633,TRN000633,249,20251211,,Inclusive Hiring,HR,In Progress,0,15.6,
+634,TRN000636,250,20240416,20240430,Employee Relations Essentials,HR,Completed,1,1.3,64.0
+635,TRN000634,250,20240928,20241020,Cloud Data Fundamentals,Technical,Completed,1,12.0,65.7
+636,TRN000635,250,20250909,20251016,Presentation Skills,Soft Skills,Completed,1,12.4,78.3
+637,TRN000638,251,20240611,20240702,Inclusive Hiring,HR,Completed,1,16.0,66.9
+638,TRN000637,251,20250124,20250213,Communication Skills,Soft Skills,Completed,1,10.5,68.5
+639,TRN000639,252,20240411,20240515,Stakeholder Management,Soft Skills,Completed,1,15.4,96.0
+640,TRN000641,252,20241206,,Cloud Data Fundamentals,Technical,Overdue,0,15.7,
+641,TRN000640,252,20250709,,Data Protection Training,Compliance,In Progress,0,1.9,
+642,TRN000645,253,20240526,20240616,Information Security Awareness,Compliance,Completed,1,6.1,100.0
+643,TRN000643,253,20241105,20241109,Budget Management,Finance,Completed,1,9.9,64.2
+644,TRN000644,253,20251116,20251219,Presentation Skills,Soft Skills,Completed,1,8.6,71.1
+645,TRN000642,253,20251127,,Budget Management,Finance,In Progress,0,13.1,
+646,TRN000646,254,20240116,20240214,First Line Manager Training,Leadership,Completed,1,8.9,81.9
+647,TRN000647,254,20240713,,Power BI Fundamentals,Technical,In Progress,0,11.2,
+648,TRN000648,254,20260128,20260227,Budget Management,Finance,Completed,1,2.1,86.6
+649,TRN000649,255,20241223,20250105,Employee Relations Essentials,HR,Completed,1,15.9,71.7
+650,TRN000651,255,20250926,20251026,Financial Controls,Finance,Completed,1,7.4,100.0
+651,TRN000650,255,20251005,20251013,Coaching Skills,Leadership,Completed,1,8.9,81.5
+652,TRN000655,256,20240325,,Data Protection Training,Compliance,Overdue,0,3.4,
+653,TRN000654,256,20240623,20240701,Coaching Skills,Leadership,Completed,1,2.9,100.0
+654,TRN000652,256,20251018,20251104,First Line Manager Training,Leadership,Completed,1,12.9,64.6
+655,TRN000653,256,20260626,20260630,Data Protection Training,Compliance,Completed,1,7.5,85.6
+656,TRN000656,257,20250531,,Financial Controls,Finance,Overdue,0,10.7,
+657,TRN000657,258,20240326,,Data Protection Training,Compliance,In Progress,0,13.7,
+658,TRN000660,259,20250313,20250327,Communication Skills,Soft Skills,Completed,1,12.8,100.0
+659,TRN000659,259,20250326,,Financial Controls,Finance,In Progress,0,6.6,
+660,TRN000658,259,20250503,20250512,SQL for Analysts,Technical,Completed,1,11.8,88.6
+661,TRN000661,260,20240217,,Information Security Awareness,Compliance,Overdue,0,10.6,
+662,TRN000663,261,20240806,20240914,Coaching Skills,Leadership,Completed,1,4.8,78.7
+663,TRN000664,261,20260210,20260325,Information Security Awareness,Compliance,Completed,1,15.1,100.0
+664,TRN000662,261,20260226,20260328,Inclusive Hiring,HR,Completed,1,5.4,91.2
+665,TRN000665,262,20250409,20250422,Budget Management,Finance,Completed,1,11.9,79.7
+666,TRN000667,263,20260505,20260618,Communication Skills,Soft Skills,Completed,1,4.7,57.7
+667,TRN000668,263,20260523,20260630,Workplace Health and Safety,Compliance,Completed,1,1.8,89.3
+668,TRN000666,263,20260616,20260626,Coaching Skills,Leadership,Completed,1,11.0,67.1
+669,TRN000669,264,20240126,,Python for Data Analysis,Technical,In Progress,0,16.0,
+670,TRN000670,264,20240924,20241030,Financial Controls,Finance,Completed,1,7.4,54.4
+671,TRN000671,264,20241101,20241106,Information Security Awareness,Compliance,Completed,1,8.3,67.3
+672,TRN000672,265,20240207,20240215,Leading High Performing Teams,Leadership,Completed,1,15.1,96.5
+673,TRN000674,266,20250612,20250623,First Line Manager Training,Leadership,Completed,1,5.9,71.8
+674,TRN000673,266,20250811,20250823,Employee Relations Essentials,HR,Completed,1,10.2,95.9
+675,TRN000675,266,20250923,,SQL for Analysts,Technical,Not Started,0,2.8,
+676,TRN000676,266,20260624,20260630,Communication Skills,Soft Skills,Completed,1,6.0,63.0
+677,TRN000679,267,20240313,20240404,Information Security Awareness,Compliance,Completed,1,11.6,69.8
+678,TRN000677,267,20240504,20240617,Financial Controls,Finance,Completed,1,2.8,84.6
+679,TRN000678,267,20240514,,Inclusive Hiring,HR,Not Started,0,3.5,
+680,TRN000680,268,20260402,20260422,Stakeholder Management,Soft Skills,Completed,1,14.6,61.4
+681,TRN000681,269,20240503,20240513,Coaching Skills,Leadership,Completed,1,1.8,75.0
+682,TRN000685,270,20240201,,Inclusive Hiring,HR,In Progress,0,2.4,
+683,TRN000684,270,20240206,20240221,Coaching Skills,Leadership,Completed,1,10.6,82.5
+684,TRN000682,270,20240224,20240307,Information Security Awareness,Compliance,Completed,1,4.6,69.0
+685,TRN000683,270,20240303,20240307,Coaching Skills,Leadership,Completed,1,3.0,81.4
+686,TRN000689,271,20240118,,Financial Controls,Finance,In Progress,0,14.3,
+687,TRN000690,271,20240611,20240620,First Line Manager Training,Leadership,Completed,1,1.1,78.8
+688,TRN000686,271,20240803,,Data Protection Training,Compliance,Overdue,0,13.1,
+689,TRN000687,271,20240924,20241004,SQL for Analysts,Technical,Completed,1,10.6,64.2
+690,TRN000688,271,20260108,20260123,Employee Relations Essentials,HR,Completed,1,10.6,57.9
+691,TRN000693,272,20240322,,Stakeholder Management,Soft Skills,In Progress,0,6.4,
+692,TRN000694,272,20240929,20241006,Stakeholder Management,Soft Skills,Completed,1,5.3,80.1
+693,TRN000691,272,20250125,20250208,Employee Relations Essentials,HR,Completed,1,7.5,89.8
+694,TRN000692,272,20250610,20250719,Stakeholder Management,Soft Skills,Completed,1,8.1,57.7
+695,TRN000695,273,20240311,,Communication Skills,Soft Skills,Overdue,0,7.9,
+696,TRN000698,273,20240505,20240604,Budget Management,Finance,Completed,1,11.5,93.3
+697,TRN000697,273,20250522,20250611,Information Security Awareness,Compliance,Completed,1,11.6,73.8
+698,TRN000696,273,20250623,,Employee Relations Essentials,HR,Not Started,0,13.3,
+699,TRN000699,274,20240901,20240908,Communication Skills,Soft Skills,Completed,1,11.6,85.3
+700,TRN000700,274,20250413,20250512,Stakeholder Management,Soft Skills,Completed,1,12.3,78.2
+701,TRN000701,274,20250912,20250915,Inclusive Hiring,HR,Completed,1,6.9,77.2
+702,TRN000702,275,20260217,20260302,Inclusive Hiring,HR,Completed,1,3.7,77.2
+703,TRN000703,276,20250109,,Cloud Data Fundamentals,Technical,Overdue,0,10.5,
+704,TRN000707,277,20250807,20250916,Presentation Skills,Soft Skills,Completed,1,5.6,78.3
+705,TRN000705,277,20260103,,Employee Relations Essentials,HR,In Progress,0,3.7,
+706,TRN000704,277,20260520,20260617,Leading High Performing Teams,Leadership,Completed,1,11.5,63.1
+707,TRN000706,277,20260531,,Power BI Fundamentals,Technical,Not Started,0,7.6,
+708,TRN000709,278,20240414,,Power BI Fundamentals,Technical,In Progress,0,12.5,
+709,TRN000710,278,20241225,20241227,Inclusive Hiring,HR,Completed,1,6.8,77.0
+710,TRN000711,278,20250705,20250715,Budget Management,Finance,Completed,1,1.1,100.0
+711,TRN000708,278,20251006,20251008,Information Security Awareness,Compliance,Completed,1,4.4,74.5
+712,TRN000712,279,20260217,20260319,First Line Manager Training,Leadership,Completed,1,11.4,76.0
+713,TRN000713,280,20241112,20241116,Stakeholder Management,Soft Skills,Completed,1,10.8,100.0
+714,TRN000714,281,20240827,,Communication Skills,Soft Skills,In Progress,0,13.5,
+715,TRN000715,281,20241018,20241122,Workplace Health and Safety,Compliance,Completed,1,2.7,81.4
+716,TRN000716,282,20250401,20250411,Budget Management,Finance,Completed,1,4.0,100.0
+717,TRN000718,282,20250409,20250415,Python for Data Analysis,Technical,Completed,1,3.3,73.7
+718,TRN000717,282,20251104,20251215,Financial Controls,Finance,Completed,1,10.3,80.4
+719,TRN000720,283,20250314,20250408,Leading High Performing Teams,Leadership,Completed,1,11.1,78.5
+720,TRN000719,283,20251122,20260105,Presentation Skills,Soft Skills,Completed,1,14.9,72.2
+721,TRN000721,284,20240705,,Workplace Health and Safety,Compliance,In Progress,0,4.5,
+722,TRN000722,285,20260312,20260425,Employee Relations Essentials,HR,Completed,1,5.4,86.4
+723,TRN000723,286,20240606,20240711,Leading High Performing Teams,Leadership,Completed,1,14.4,79.9
+724,TRN000724,286,20240716,20240817,Workplace Health and Safety,Compliance,Completed,1,4.1,84.9
+725,TRN000726,287,20240316,20240426,Communication Skills,Soft Skills,Completed,1,15.4,65.9
+726,TRN000727,287,20240713,,Financial Controls,Finance,In Progress,0,4.0,
+727,TRN000725,287,20250101,,Communication Skills,Soft Skills,In Progress,0,13.4,
+728,TRN000728,287,20250603,20250606,Data Protection Training,Compliance,Completed,1,9.3,57.6
+729,TRN000729,288,20240929,,Power BI Fundamentals,Technical,In Progress,0,2.7,
+730,TRN000730,288,20250720,20250808,Coaching Skills,Leadership,Completed,1,2.5,96.7
+731,TRN000731,288,20260116,20260214,Financial Controls,Finance,Completed,1,2.8,59.0
+732,TRN000734,289,20240404,20240418,First Line Manager Training,Leadership,Completed,1,4.9,84.3
+733,TRN000735,289,20240424,20240517,Budget Management,Finance,Completed,1,13.4,76.4
+734,TRN000736,289,20240430,20240506,Inclusive Hiring,HR,Completed,1,10.7,86.6
+735,TRN000733,289,20241027,20241130,Presentation Skills,Soft Skills,Completed,1,12.7,74.4
+736,TRN000732,289,20241231,20250102,Leading High Performing Teams,Leadership,Completed,1,3.9,66.2
+737,TRN000737,290,20250427,,Stakeholder Management,Soft Skills,In Progress,0,5.4,
+738,TRN000738,291,20240320,20240417,Data Protection Training,Compliance,Completed,1,6.2,68.2
+739,TRN000740,291,20241230,20250207,Employee Relations Essentials,HR,Completed,1,8.6,79.3
+740,TRN000739,291,20250316,,Inclusive Hiring,HR,In Progress,0,1.7,
+741,TRN000741,292,20241202,,Data Protection Training,Compliance,In Progress,0,4.8,
+742,TRN000742,292,20250817,20250828,Financial Controls,Finance,Completed,1,12.9,88.7
+743,TRN000743,293,20240810,20240812,Stakeholder Management,Soft Skills,Completed,1,15.7,78.3
+744,TRN000744,293,20250209,20250218,SQL for Analysts,Technical,Completed,1,13.5,65.9
+745,TRN000745,293,20250527,20250703,Leading High Performing Teams,Leadership,Completed,1,13.5,82.3
+746,TRN000746,293,20260530,,Presentation Skills,Soft Skills,In Progress,0,9.7,
+747,TRN000748,294,20250528,20250615,Workplace Health and Safety,Compliance,Completed,1,11.6,69.4
+748,TRN000749,294,20250702,20250707,Budget Management,Finance,Completed,1,2.6,72.3
+749,TRN000747,294,20250809,20250912,Workplace Health and Safety,Compliance,Completed,1,10.4,69.5
+750,TRN000750,294,20250826,20250921,Workplace Health and Safety,Compliance,Completed,1,14.7,84.0
+751,TRN000751,295,20241216,20250117,Inclusive Hiring,HR,Completed,1,5.8,79.5
+752,TRN000752,296,20240106,20240110,First Line Manager Training,Leadership,Completed,1,6.7,82.2
+753,TRN000754,296,20250212,20250227,Coaching Skills,Leadership,Completed,1,15.6,89.1
+754,TRN000753,296,20250726,20250802,Information Security Awareness,Compliance,Completed,1,4.3,87.6
+755,TRN000755,297,20240505,,Budget Management,Finance,Not Started,0,9.8,
+756,TRN000756,297,20251222,20251226,SQL for Analysts,Technical,Completed,1,10.3,58.2
+757,TRN000757,298,20250522,,Python for Data Analysis,Technical,Not Started,0,2.7,
+758,TRN000760,298,20250701,20250709,Stakeholder Management,Soft Skills,Completed,1,4.1,78.6
+759,TRN000758,298,20260602,20260630,Budget Management,Finance,Completed,1,8.6,76.8
+760,TRN000759,298,20260627,20260630,First Line Manager Training,Leadership,Completed,1,10.1,83.2
+761,TRN000761,299,20240412,20240514,Power BI Fundamentals,Technical,Completed,1,1.5,89.1
+762,TRN000765,300,20240802,,First Line Manager Training,Leadership,Not Started,0,2.0,
+763,TRN000764,300,20241017,,Presentation Skills,Soft Skills,In Progress,0,2.1,
+764,TRN000762,300,20250503,20250608,Inclusive Hiring,HR,Completed,1,12.6,92.1
+765,TRN000766,300,20250909,20251020,Workplace Health and Safety,Compliance,Completed,1,12.8,78.7
+766,TRN000763,300,20260531,20260609,Inclusive Hiring,HR,Completed,1,11.3,93.1
+767,TRN000767,301,20260409,20260423,Communication Skills,Soft Skills,Completed,1,9.4,62.6
+768,TRN000768,302,20240217,20240328,Employee Relations Essentials,HR,Completed,1,14.1,89.4
+769,TRN000770,302,20250305,20250403,Presentation Skills,Soft Skills,Completed,1,9.0,77.5
+770,TRN000769,302,20250827,20250911,Power BI Fundamentals,Technical,Completed,1,1.4,86.0
+771,TRN000771,303,20240731,,Financial Controls,Finance,In Progress,0,6.7,
+772,TRN000773,303,20241028,,Financial Controls,Finance,In Progress,0,1.5,
+773,TRN000772,303,20260129,20260205,Coaching Skills,Leadership,Completed,1,1.0,98.0
+774,TRN000776,304,20240809,20240910,Leading High Performing Teams,Leadership,Completed,1,3.0,56.6
+775,TRN000777,304,20241119,20241211,First Line Manager Training,Leadership,Completed,1,10.7,99.8
+776,TRN000774,304,20250319,20250401,Workplace Health and Safety,Compliance,Completed,1,13.0,98.8
+777,TRN000775,304,20250913,20251003,Inclusive Hiring,HR,Completed,1,3.7,84.2
+778,TRN000779,305,20240625,20240629,Information Security Awareness,Compliance,Completed,1,13.5,88.0
+779,TRN000780,305,20240921,,Workplace Health and Safety,Compliance,Overdue,0,11.5,
+780,TRN000778,305,20241027,20241210,Stakeholder Management,Soft Skills,Completed,1,7.5,72.3
+781,TRN000781,305,20250302,,SQL for Analysts,Technical,Overdue,0,4.8,
+782,TRN000782,305,20250307,20250312,Coaching Skills,Leadership,Completed,1,1.4,67.7
+783,TRN000783,306,20250715,,Budget Management,Finance,Not Started,0,2.7,
+784,TRN000784,307,20240515,20240525,Leading High Performing Teams,Leadership,Completed,1,14.4,61.2
+785,TRN000786,308,20251017,20251119,Power BI Fundamentals,Technical,Completed,1,2.9,76.9
+786,TRN000785,308,20260509,20260517,Python for Data Analysis,Technical,Completed,1,14.6,95.3
+787,TRN000790,309,20240920,20240927,Leading High Performing Teams,Leadership,Completed,1,8.7,88.0
+788,TRN000788,309,20241219,,Communication Skills,Soft Skills,In Progress,0,11.8,
+789,TRN000787,309,20250617,20250709,Employee Relations Essentials,HR,Completed,1,6.5,94.4
+790,TRN000789,309,20260413,20260504,Power BI Fundamentals,Technical,Completed,1,15.6,74.7
+791,TRN000792,310,20241206,20250102,Cloud Data Fundamentals,Technical,Completed,1,12.7,66.9
+792,TRN000793,310,20250129,20250224,Data Protection Training,Compliance,Completed,1,2.3,74.5
+793,TRN000791,310,20250525,20250704,Presentation Skills,Soft Skills,Completed,1,13.1,75.0
+794,TRN000794,311,20251114,20251202,Cloud Data Fundamentals,Technical,Completed,1,10.8,91.1
+795,TRN000795,311,20260515,20260603,Inclusive Hiring,HR,Completed,1,9.7,67.0
+796,TRN000796,312,20241222,20250113,Stakeholder Management,Soft Skills,Completed,1,15.0,95.6
+797,TRN000797,312,20250624,20250720,Stakeholder Management,Soft Skills,Completed,1,9.6,72.9
+798,TRN000799,313,20250125,20250303,Presentation Skills,Soft Skills,Completed,1,12.9,100.0
+799,TRN000798,313,20250130,20250224,Employee Relations Essentials,HR,Completed,1,2.8,63.8
+800,TRN000800,313,20250925,,Inclusive Hiring,HR,Not Started,0,2.5,
+801,TRN000801,314,20260504,20260615,Budget Management,Finance,Completed,1,13.4,58.0
+802,TRN000802,315,20240209,20240323,Data Protection Training,Compliance,Completed,1,9.0,71.9
+803,TRN000805,316,20240424,20240512,Leading High Performing Teams,Leadership,Completed,1,7.7,88.9
+804,TRN000804,316,20241022,,SQL for Analysts,Technical,In Progress,0,5.1,
+805,TRN000803,316,20260610,20260615,Inclusive Hiring,HR,Completed,1,10.3,98.8
+806,TRN000807,317,20240816,20240904,Stakeholder Management,Soft Skills,Completed,1,4.0,51.3
+807,TRN000809,317,20240922,20241024,Data Protection Training,Compliance,Completed,1,13.2,87.8
+808,TRN000808,317,20250120,,Cloud Data Fundamentals,Technical,Not Started,0,9.1,
+809,TRN000806,317,20250624,20250706,Employee Relations Essentials,HR,Completed,1,9.5,66.8
+810,TRN000810,318,20251212,,Inclusive Hiring,HR,In Progress,0,6.7,
+811,TRN000812,319,20240129,20240209,Cloud Data Fundamentals,Technical,Completed,1,15.5,90.4
+812,TRN000813,319,20240610,20240720,Employee Relations Essentials,HR,Completed,1,9.0,69.3
+813,TRN000811,319,20241224,,Power BI Fundamentals,Technical,In Progress,0,13.4,
+814,TRN000815,320,20250613,20250718,Workplace Health and Safety,Compliance,Completed,1,13.3,83.8
+815,TRN000814,320,20260309,20260315,Coaching Skills,Leadership,Completed,1,9.7,64.5
+816,TRN000818,321,20240225,,Leading High Performing Teams,Leadership,Not Started,0,2.8,
+817,TRN000816,321,20240523,,Leading High Performing Teams,Leadership,Overdue,0,6.9,
+818,TRN000817,321,20250519,,First Line Manager Training,Leadership,In Progress,0,14.1,
+819,TRN000820,322,20250813,,Budget Management,Finance,In Progress,0,7.4,
+820,TRN000821,322,20251010,,Financial Controls,Finance,In Progress,0,9.8,
+821,TRN000819,322,20260407,20260519,Budget Management,Finance,Completed,1,2.2,60.9
+822,TRN000823,323,20240316,20240331,Presentation Skills,Soft Skills,Completed,1,11.2,87.8
+823,TRN000824,323,20241121,,First Line Manager Training,Leadership,Overdue,0,13.8,
+824,TRN000822,323,20250813,20250911,Stakeholder Management,Soft Skills,Completed,1,2.4,69.0
+825,TRN000825,324,20240903,20240918,Workplace Health and Safety,Compliance,Completed,1,3.1,89.3
+826,TRN000826,325,20240414,20240518,Cloud Data Fundamentals,Technical,Completed,1,5.6,82.4
+827,TRN000827,325,20250215,,First Line Manager Training,Leadership,In Progress,0,8.1,
+828,TRN000828,325,20260301,20260330,Financial Controls,Finance,Completed,1,10.7,96.9
+829,TRN000829,326,20240622,20240709,Data Protection Training,Compliance,Completed,1,14.3,87.8
+830,TRN000830,327,20250528,20250603,SQL for Analysts,Technical,Completed,1,6.7,78.9
+831,TRN000831,327,20251023,20251031,Information Security Awareness,Compliance,Completed,1,13.4,79.3
+832,TRN000832,328,20241026,20241106,First Line Manager Training,Leadership,Completed,1,9.7,55.4
+833,TRN000834,328,20250710,,Employee Relations Essentials,HR,In Progress,0,12.7,
+834,TRN000833,328,20251126,,Inclusive Hiring,HR,Not Started,0,13.8,
+835,TRN000836,329,20240506,,Coaching Skills,Leadership,Not Started,0,13.5,
+836,TRN000838,329,20250614,,Employee Relations Essentials,HR,Overdue,0,4.8,
+837,TRN000835,329,20251201,20251213,Information Security Awareness,Compliance,Completed,1,13.4,57.2
+838,TRN000837,329,20260112,20260217,Inclusive Hiring,HR,Completed,1,5.4,87.0
+839,TRN000839,330,20241105,20241202,Presentation Skills,Soft Skills,Completed,1,16.0,80.7
+840,TRN000842,331,20240614,20240718,Stakeholder Management,Soft Skills,Completed,1,11.7,69.5
+841,TRN000840,331,20241215,,Inclusive Hiring,HR,In Progress,0,5.5,
+842,TRN000841,331,20260403,20260513,Financial Controls,Finance,Completed,1,6.4,95.3
+843,TRN000843,332,20240227,,Financial Controls,Finance,In Progress,0,10.7,
+844,TRN000845,332,20240315,20240327,Cloud Data Fundamentals,Technical,Completed,1,15.8,90.2
+845,TRN000844,332,20250114,20250123,Inclusive Hiring,HR,Completed,1,6.4,54.4
+846,TRN000848,333,20240514,20240627,First Line Manager Training,Leadership,Completed,1,5.3,74.6
+847,TRN000847,333,20240611,,Communication Skills,Soft Skills,Overdue,0,15.2,
+848,TRN000846,333,20240829,20240926,Stakeholder Management,Soft Skills,Completed,1,2.5,61.9
+849,TRN000849,333,20260522,,Presentation Skills,Soft Skills,Overdue,0,7.8,
+850,TRN000853,334,20240119,,Budget Management,Finance,Overdue,0,15.2,
+851,TRN000850,334,20240822,,Data Protection Training,Compliance,Not Started,0,12.9,
+852,TRN000851,334,20250304,,Presentation Skills,Soft Skills,Not Started,0,6.9,
+853,TRN000852,334,20260123,,Leading High Performing Teams,Leadership,In Progress,0,12.3,
+854,TRN000855,335,20240302,,Inclusive Hiring,HR,In Progress,0,9.6,
+855,TRN000854,335,20241128,,Financial Controls,Finance,Overdue,0,8.7,
+856,TRN000856,336,20241227,,Financial Controls,Finance,In Progress,0,6.1,
+857,TRN000857,336,20250419,20250505,Financial Controls,Finance,Completed,1,3.6,70.6
+858,TRN000858,336,20250724,20250828,Cloud Data Fundamentals,Technical,Completed,1,10.6,64.5
+859,TRN000861,337,20240404,,Presentation Skills,Soft Skills,Not Started,0,12.4,
+860,TRN000860,337,20250619,20250717,Financial Controls,Finance,Completed,1,8.3,93.5
+861,TRN000862,337,20250725,20250907,Financial Controls,Finance,Completed,1,11.5,66.3
+862,TRN000859,337,20250912,20251013,Employee Relations Essentials,HR,Completed,1,12.8,71.4
+863,TRN000863,338,20260527,20260630,Leading High Performing Teams,Leadership,Completed,1,11.4,59.3
+864,TRN000864,339,20250319,20250415,Information Security Awareness,Compliance,Completed,1,2.1,77.5
+865,TRN000867,340,20240211,20240324,Budget Management,Finance,Completed,1,3.8,67.8
+866,TRN000865,340,20250118,20250218,Budget Management,Finance,Completed,1,3.2,86.8
+867,TRN000869,340,20250815,20250925,Data Protection Training,Compliance,Completed,1,1.7,80.7
+868,TRN000868,340,20260105,20260111,Inclusive Hiring,HR,Completed,1,11.8,76.9
+869,TRN000866,340,20260302,,Information Security Awareness,Compliance,Overdue,0,6.4,
+870,TRN000870,341,20240210,20240225,Data Protection Training,Compliance,Completed,1,10.6,64.0
+871,TRN000871,341,20240930,20241016,Stakeholder Management,Soft Skills,Completed,1,12.0,66.4
+872,TRN000873,341,20241009,20241011,Workplace Health and Safety,Compliance,Completed,1,11.2,67.9
+873,TRN000872,341,20250329,20250419,Coaching Skills,Leadership,Completed,1,1.4,87.6
+874,TRN000874,341,20250611,,Budget Management,Finance,Not Started,0,7.7,
+875,TRN000875,342,20241030,,Coaching Skills,Leadership,Overdue,0,11.6,
+876,TRN000876,342,20260517,,Information Security Awareness,Compliance,In Progress,0,4.3,
+877,TRN000877,342,20260601,,Data Protection Training,Compliance,Not Started,0,9.1,
+878,TRN000878,343,20240103,,Financial Controls,Finance,In Progress,0,10.3,
+879,TRN000879,343,20240625,20240708,Cloud Data Fundamentals,Technical,Completed,1,8.5,97.0
+880,TRN000880,344,20250226,,Employee Relations Essentials,HR,In Progress,0,10.8,
+881,TRN000881,344,20250617,20250717,Cloud Data Fundamentals,Technical,Completed,1,15.0,69.5
+882,TRN000882,344,20260513,20260602,Presentation Skills,Soft Skills,Completed,1,13.1,63.4
+883,TRN000884,345,20250308,,Employee Relations Essentials,HR,Not Started,0,1.3,
+884,TRN000883,345,20250714,20250728,Financial Controls,Finance,Completed,1,4.2,80.6
+885,TRN000886,346,20240603,,Data Protection Training,Compliance,In Progress,0,14.9,
+886,TRN000885,346,20240610,,Employee Relations Essentials,HR,Overdue,0,8.1,
+887,TRN000887,346,20250430,20250526,Financial Controls,Finance,Completed,1,1.7,74.1
+888,TRN000890,347,20240529,20240706,Power BI Fundamentals,Technical,Completed,1,14.0,75.3
+889,TRN000891,347,20250719,20250823,Power BI Fundamentals,Technical,Completed,1,9.6,92.9
+890,TRN000889,347,20250816,20250928,Budget Management,Finance,Completed,1,2.4,67.2
+891,TRN000888,347,20260615,20260630,First Line Manager Training,Leadership,Completed,1,7.0,68.0
+892,TRN000893,348,20241029,20241210,Inclusive Hiring,HR,Completed,1,1.2,81.9
+893,TRN000892,348,20250530,,Inclusive Hiring,HR,Overdue,0,14.1,
+894,TRN000894,348,20250719,20250823,Information Security Awareness,Compliance,Completed,1,4.7,62.7
+895,TRN000895,348,20251129,20260101,Data Protection Training,Compliance,Completed,1,4.0,76.5
+896,TRN000896,349,20260311,20260419,Financial Controls,Finance,Completed,1,4.0,64.7
+897,TRN000899,350,20240226,,Data Protection Training,Compliance,In Progress,0,9.2,
+898,TRN000897,350,20240321,,Python for Data Analysis,Technical,Overdue,0,12.7,
+899,TRN000898,350,20241007,20241118,Stakeholder Management,Soft Skills,Completed,1,3.0,81.2
+900,TRN000900,351,20260129,20260216,Leading High Performing Teams,Leadership,Completed,1,3.1,52.4
+901,TRN000901,352,20241202,,Stakeholder Management,Soft Skills,Not Started,0,11.9,
+902,TRN000903,353,20240213,20240227,Inclusive Hiring,HR,Completed,1,1.7,79.0
+903,TRN000902,353,20241008,20241108,Financial Controls,Finance,Completed,1,6.0,85.3
+904,TRN000904,353,20250721,20250815,Budget Management,Finance,Completed,1,3.5,65.0
+905,TRN000905,354,20240101,20240121,SQL for Analysts,Technical,Completed,1,13.6,79.8
+906,TRN000908,355,20240114,20240124,Workplace Health and Safety,Compliance,Completed,1,13.4,58.9
+907,TRN000907,355,20240224,,Inclusive Hiring,HR,In Progress,0,12.5,
+908,TRN000906,355,20240228,20240307,Data Protection Training,Compliance,Completed,1,13.5,73.1
+909,TRN000909,356,20240106,,Coaching Skills,Leadership,Not Started,0,4.9,
+910,TRN000910,356,20240508,20240514,Presentation Skills,Soft Skills,Completed,1,2.1,84.2
+911,TRN000912,357,20240418,,Python for Data Analysis,Technical,In Progress,0,4.7,
+912,TRN000914,357,20240811,20240907,First Line Manager Training,Leadership,Completed,1,12.1,80.1
+913,TRN000911,357,20251220,20260202,Communication Skills,Soft Skills,Completed,1,7.1,83.7
+914,TRN000913,357,20260404,,Coaching Skills,Leadership,Overdue,0,15.3,
+915,TRN000916,358,20240527,,Financial Controls,Finance,Overdue,0,15.6,
+916,TRN000915,358,20250923,,First Line Manager Training,Leadership,Overdue,0,3.3,
+917,TRN000917,358,20260425,,Presentation Skills,Soft Skills,In Progress,0,13.3,
+918,TRN000920,359,20240105,,Budget Management,Finance,Not Started,0,2.6,
+919,TRN000919,359,20240918,20241012,Communication Skills,Soft Skills,Completed,1,6.3,63.1
+920,TRN000918,359,20250602,20250622,Budget Management,Finance,Completed,1,2.0,83.4
+921,TRN000921,360,20241113,20241209,Power BI Fundamentals,Technical,Completed,1,7.3,87.4
+922,TRN000923,361,20240104,20240123,Employee Relations Essentials,HR,Completed,1,3.8,55.0
+923,TRN000924,361,20241010,20241014,Inclusive Hiring,HR,Completed,1,8.8,70.8
+924,TRN000922,361,20250510,20250527,Inclusive Hiring,HR,Completed,1,2.1,59.0
+925,TRN000926,362,20260531,20260614,Workplace Health and Safety,Compliance,Completed,1,9.3,100.0
+926,TRN000925,362,20260607,,Communication Skills,Soft Skills,Not Started,0,7.7,
+927,TRN000928,363,20240410,20240412,Presentation Skills,Soft Skills,Completed,1,1.2,64.3
+928,TRN000927,363,20241106,20241118,Leading High Performing Teams,Leadership,Completed,1,14.8,57.9
+929,TRN000929,363,20241230,20250203,Presentation Skills,Soft Skills,Completed,1,4.8,55.6
+930,TRN000930,364,20240317,20240331,Information Security Awareness,Compliance,Completed,1,9.6,77.0
+931,TRN000931,364,20250430,20250601,Python for Data Analysis,Technical,Completed,1,9.6,75.6
+932,TRN000933,365,20240201,20240212,Information Security Awareness,Compliance,Completed,1,13.8,80.1
+933,TRN000932,365,20251218,20251223,Presentation Skills,Soft Skills,Completed,1,5.3,100.0
+934,TRN000934,366,20240203,20240223,Data Protection Training,Compliance,Completed,1,12.2,65.0
+935,TRN000936,366,20241106,20241127,Workplace Health and Safety,Compliance,Completed,1,9.1,95.4
+936,TRN000935,366,20260130,20260305,Data Protection Training,Compliance,Completed,1,4.0,73.5
+937,TRN000937,367,20241204,20241208,SQL for Analysts,Technical,Completed,1,13.2,75.1
+938,TRN000938,368,20241023,20241106,Workplace Health and Safety,Compliance,Completed,1,4.0,68.1
+939,TRN000940,368,20250102,20250214,Presentation Skills,Soft Skills,Completed,1,8.2,92.1
+940,TRN000939,368,20260107,20260206,Power BI Fundamentals,Technical,Completed,1,8.8,89.7
+941,TRN000941,369,20240829,,Employee Relations Essentials,HR,In Progress,0,11.8,
+942,TRN000943,369,20240831,20240917,Presentation Skills,Soft Skills,Completed,1,10.4,72.3
+943,TRN000942,369,20240918,20241030,Communication Skills,Soft Skills,Completed,1,7.7,65.9
+944,TRN000946,370,20240504,20240604,Inclusive Hiring,HR,Completed,1,6.3,84.3
+945,TRN000945,370,20250114,20250218,SQL for Analysts,Technical,Completed,1,14.0,63.1
+946,TRN000944,370,20260221,20260319,Information Security Awareness,Compliance,Completed,1,2.1,81.3
+947,TRN000948,371,20250727,,Power BI Fundamentals,Technical,In Progress,0,2.2,
+948,TRN000947,371,20250901,20250910,Power BI Fundamentals,Technical,Completed,1,9.4,69.7
+949,TRN000949,371,20251014,20251031,Financial Controls,Finance,Completed,1,9.4,73.7
+950,TRN000950,371,20260202,20260222,Presentation Skills,Soft Skills,Completed,1,7.8,78.2
+951,TRN000951,372,20250703,20250709,Employee Relations Essentials,HR,Completed,1,10.8,76.4
+952,TRN000952,372,20260504,20260611,Communication Skills,Soft Skills,Completed,1,2.8,78.8
+953,TRN000953,373,20241118,,SQL for Analysts,Technical,Not Started,0,6.4,
+954,TRN000954,373,20250812,,Data Protection Training,Compliance,Overdue,0,12.9,
+955,TRN000955,374,20240119,,Python for Data Analysis,Technical,Overdue,0,2.5,
+956,TRN000958,374,20240524,20240630,Python for Data Analysis,Technical,Completed,1,2.8,78.2
+957,TRN000957,374,20240706,,Information Security Awareness,Compliance,Not Started,0,14.6,
+958,TRN000956,374,20250728,,Budget Management,Finance,In Progress,0,1.2,
+959,TRN000959,375,20250606,20250614,Coaching Skills,Leadership,Completed,1,6.8,88.8
+960,TRN000960,376,20240416,20240512,Financial Controls,Finance,Completed,1,11.0,60.6
+961,TRN000961,376,20240719,,Python for Data Analysis,Technical,Not Started,0,3.3,
+962,TRN000962,376,20241115,20241121,First Line Manager Training,Leadership,Completed,1,13.0,80.2
+963,TRN000964,377,20240810,20240819,Employee Relations Essentials,HR,Completed,1,4.7,74.8
+964,TRN000963,377,20260405,,Leading High Performing Teams,Leadership,In Progress,0,5.8,
+965,TRN000965,378,20240105,20240109,Presentation Skills,Soft Skills,Completed,1,7.1,95.7
+966,TRN000966,378,20240112,20240217,First Line Manager Training,Leadership,Completed,1,4.9,63.2
+967,TRN000969,378,20240214,20240226,Python for Data Analysis,Technical,Completed,1,11.7,76.1
+968,TRN000968,378,20240221,20240226,Financial Controls,Finance,Completed,1,1.5,92.8
+969,TRN000967,378,20240224,20240226,Workplace Health and Safety,Compliance,Completed,1,5.1,48.2
+970,TRN000970,379,20260105,,Information Security Awareness,Compliance,In Progress,0,9.0,
+971,TRN000971,379,20260609,,Stakeholder Management,Soft Skills,In Progress,0,13.6,
+972,TRN000972,380,20240701,20240705,Communication Skills,Soft Skills,Completed,1,13.6,63.6
+973,TRN000973,381,20250407,20250512,Communication Skills,Soft Skills,Completed,1,3.0,87.4
+974,TRN000974,381,20250919,,Leading High Performing Teams,Leadership,In Progress,0,14.3,
+975,TRN000976,382,20251006,,Power BI Fundamentals,Technical,In Progress,0,12.9,
+976,TRN000975,382,20251204,20260106,Presentation Skills,Soft Skills,Completed,1,7.7,81.0
+977,TRN000977,383,20250322,20250330,Information Security Awareness,Compliance,Completed,1,10.5,91.0
+978,TRN000978,384,20260424,20260503,Cloud Data Fundamentals,Technical,Completed,1,7.2,89.1
+979,TRN000979,385,20260421,20260504,Presentation Skills,Soft Skills,Completed,1,11.6,70.1
+980,TRN000981,386,20240509,20240512,Coaching Skills,Leadership,Completed,1,10.1,59.5
+981,TRN000980,386,20250310,,Data Protection Training,Compliance,Overdue,0,4.7,
+982,TRN000983,387,20241011,,Financial Controls,Finance,Overdue,0,15.7,
+983,TRN000984,387,20250707,20250710,Budget Management,Finance,Completed,1,15.1,100.0
+984,TRN000982,387,20250824,20250921,First Line Manager Training,Leadership,Completed,1,2.0,77.2
+985,TRN000985,388,20240426,20240501,Communication Skills,Soft Skills,Completed,1,4.5,75.7
+986,TRN000987,388,20241102,20241203,Leading High Performing Teams,Leadership,Completed,1,9.9,74.4
+987,TRN000986,388,20250712,20250818,SQL for Analysts,Technical,Completed,1,5.6,74.4
+988,TRN000988,388,20260303,,Stakeholder Management,Soft Skills,Overdue,0,7.1,
+989,TRN000989,389,20240705,20240731,Stakeholder Management,Soft Skills,Completed,1,10.0,94.4
+990,TRN000990,390,20240904,20240907,Employee Relations Essentials,HR,Completed,1,2.8,85.3
+991,TRN000991,390,20241125,20250106,First Line Manager Training,Leadership,Completed,1,6.5,59.3
+992,TRN000994,391,20240205,,Stakeholder Management,Soft Skills,Overdue,0,4.4,
+993,TRN000992,391,20240222,20240402,Coaching Skills,Leadership,Completed,1,15.7,77.3
+994,TRN000993,391,20240616,,Python for Data Analysis,Technical,Not Started,0,13.2,
+995,TRN000996,392,20240130,,Stakeholder Management,Soft Skills,Not Started,0,11.2,
+996,TRN000997,392,20240822,20240907,Financial Controls,Finance,Completed,1,9.7,66.3
+997,TRN000995,392,20241103,,Presentation Skills,Soft Skills,Not Started,0,5.7,
+998,TRN000998,392,20250528,20250706,Inclusive Hiring,HR,Completed,1,13.0,63.0
+999,TRN001002,393,20250615,20250620,Stakeholder Management,Soft Skills,Completed,1,9.7,100.0
+1000,TRN001001,393,20250924,20251030,First Line Manager Training,Leadership,Completed,1,3.1,62.1
+1001,TRN001003,393,20251009,20251120,Financial Controls,Finance,Completed,1,5.1,94.7
+1002,TRN001000,393,20251114,20251212,Financial Controls,Finance,Completed,1,15.3,81.6
+1003,TRN000999,393,20260403,20260507,Budget Management,Finance,Completed,1,6.0,75.8
+1004,TRN001004,394,20241121,20241209,Communication Skills,Soft Skills,Completed,1,5.2,78.0
+1005,TRN001006,394,20250405,,Cloud Data Fundamentals,Technical,Overdue,0,2.1,
+1006,TRN001005,394,20260203,20260305,Power BI Fundamentals,Technical,Completed,1,3.7,80.4
+1007,TRN001007,395,20240308,20240317,Employee Relations Essentials,HR,Completed,1,7.1,70.7
+1008,TRN001010,396,20260318,20260403,Workplace Health and Safety,Compliance,Completed,1,10.3,84.2
+1009,TRN001011,396,20260319,,Financial Controls,Finance,Not Started,0,7.9,
+1010,TRN001008,396,20260409,20260427,SQL for Analysts,Technical,Completed,1,8.4,76.2
+1011,TRN001009,396,20260508,20260522,Python for Data Analysis,Technical,Completed,1,9.5,78.2
+1012,TRN001013,397,20240802,,Leading High Performing Teams,Leadership,In Progress,0,7.9,
+1013,TRN001012,397,20240929,20241111,Leading High Performing Teams,Leadership,Completed,1,2.5,83.3
+1014,TRN001015,398,20260410,20260430,Communication Skills,Soft Skills,Completed,1,10.8,83.0
+1015,TRN001014,398,20260522,20260619,Budget Management,Finance,Completed,1,11.1,78.0
+1016,TRN001016,399,20251106,,SQL for Analysts,Technical,Not Started,0,11.3,
+1017,TRN001018,400,20250303,20250330,Employee Relations Essentials,HR,Completed,1,7.6,86.9
+1018,TRN001017,400,20251020,,Communication Skills,Soft Skills,Not Started,0,13.6,
+1019,TRN001019,401,20260210,20260214,Python for Data Analysis,Technical,Completed,1,13.4,74.7
+1020,TRN001023,402,20240807,,First Line Manager Training,Leadership,In Progress,0,15.2,
+1021,TRN001022,402,20241231,20250116,Coaching Skills,Leadership,Completed,1,7.0,86.2
+1022,TRN001021,402,20250117,20250205,Data Protection Training,Compliance,Completed,1,5.2,64.1
+1023,TRN001020,402,20250410,20250506,Employee Relations Essentials,HR,Completed,1,11.2,74.9
+1024,TRN001025,403,20240726,,Stakeholder Management,Soft Skills,In Progress,0,1.2,
+1025,TRN001027,403,20241101,20241213,Employee Relations Essentials,HR,Completed,1,12.1,94.9
+1026,TRN001026,403,20250217,20250310,Financial Controls,Finance,Completed,1,14.1,74.2
+1027,TRN001024,403,20260218,20260310,Financial Controls,Finance,Completed,1,11.4,87.2
+1028,TRN001029,404,20240127,,Workplace Health and Safety,Compliance,Not Started,0,15.3,
+1029,TRN001028,404,20241119,,Power BI Fundamentals,Technical,Not Started,0,7.3,
+1030,TRN001031,404,20241217,,Coaching Skills,Leadership,In Progress,0,16.0,
+1031,TRN001030,404,20260429,20260505,Coaching Skills,Leadership,Completed,1,7.3,63.4
+1032,TRN001034,405,20250826,20250902,SQL for Analysts,Technical,Completed,1,6.3,75.1
+1033,TRN001032,405,20251227,,Stakeholder Management,Soft Skills,Not Started,0,14.1,
+1034,TRN001033,405,20260227,20260312,Financial Controls,Finance,Completed,1,12.4,71.0
+1035,TRN001035,405,20260319,20260502,Presentation Skills,Soft Skills,Completed,1,10.6,61.4
+1036,TRN001036,406,20250424,20250607,Leading High Performing Teams,Leadership,Completed,1,12.1,77.0
+1037,TRN001037,406,20260406,20260425,Presentation Skills,Soft Skills,Completed,1,14.9,75.3
+1038,TRN001040,407,20240409,,Python for Data Analysis,Technical,Not Started,0,6.4,
+1039,TRN001039,407,20250421,20250525,Leading High Performing Teams,Leadership,Completed,1,8.3,66.0
+1040,TRN001038,407,20260616,,Information Security Awareness,Compliance,Overdue,0,13.9,
+1041,TRN001041,408,20241103,20241127,Presentation Skills,Soft Skills,Completed,1,7.1,87.8
+1042,TRN001042,409,20240223,20240402,Presentation Skills,Soft Skills,Completed,1,13.8,57.9
+1043,TRN001043,409,20241221,20250106,Stakeholder Management,Soft Skills,Completed,1,15.7,72.4
+1044,TRN001045,409,20250418,20250501,Information Security Awareness,Compliance,Completed,1,12.5,86.4
+1045,TRN001044,409,20250809,20250911,Power BI Fundamentals,Technical,Completed,1,10.7,74.3
+1046,TRN001048,410,20240110,,Inclusive Hiring,HR,Not Started,0,3.8,
+1047,TRN001046,410,20240523,20240624,Budget Management,Finance,Completed,1,13.1,64.9
+1048,TRN001047,410,20240715,20240717,Python for Data Analysis,Technical,Completed,1,1.5,83.1
+1049,TRN001051,411,20251016,20251020,Cloud Data Fundamentals,Technical,Completed,1,9.1,65.7
+1050,TRN001050,411,20260512,20260528,Python for Data Analysis,Technical,Completed,1,8.2,67.7
+1051,TRN001049,411,20260623,20260630,Cloud Data Fundamentals,Technical,Completed,1,12.0,82.0
+1052,TRN001052,412,20260310,20260414,SQL for Analysts,Technical,Completed,1,11.7,62.8
+1053,TRN001053,412,20260416,20260503,Stakeholder Management,Soft Skills,Completed,1,12.1,85.1
+1054,TRN001055,413,20240710,20240730,Information Security Awareness,Compliance,Completed,1,12.6,78.0
+1055,TRN001054,413,20250208,20250312,Information Security Awareness,Compliance,Completed,1,12.1,71.2
+1056,TRN001056,414,20240125,20240229,Data Protection Training,Compliance,Completed,1,11.4,76.7
+1057,TRN001057,414,20240331,20240408,Employee Relations Essentials,HR,Completed,1,5.8,100.0
+1058,TRN001058,414,20250404,20250423,Communication Skills,Soft Skills,Completed,1,2.8,74.7
+1059,TRN001059,414,20251110,20251205,Financial Controls,Finance,Completed,1,10.6,81.0
+1060,TRN001062,415,20240630,20240720,Power BI Fundamentals,Technical,Completed,1,3.5,81.9
+1061,TRN001061,415,20260315,20260415,Employee Relations Essentials,HR,Completed,1,9.4,66.9
+1062,TRN001060,415,20260318,,Stakeholder Management,Soft Skills,Not Started,0,3.1,
+1063,TRN001065,416,20240624,20240712,Employee Relations Essentials,HR,Completed,1,14.9,96.1
+1064,TRN001063,416,20240927,20241001,Inclusive Hiring,HR,Completed,1,3.3,83.5
+1065,TRN001066,416,20241120,20250103,Data Protection Training,Compliance,Completed,1,7.5,75.4
+1066,TRN001064,416,20250813,20250823,Employee Relations Essentials,HR,Completed,1,1.2,91.3
+1067,TRN001069,417,20240924,20241017,SQL for Analysts,Technical,Completed,1,5.9,82.1
+1068,TRN001067,417,20250805,20250918,Power BI Fundamentals,Technical,Completed,1,2.6,71.2
+1069,TRN001068,417,20251130,20251228,Stakeholder Management,Soft Skills,Completed,1,4.2,72.6
+1070,TRN001073,418,20240717,20240807,Budget Management,Finance,Completed,1,1.2,91.8
+1071,TRN001070,418,20250322,20250503,Financial Controls,Finance,Completed,1,1.6,87.7
+1072,TRN001071,418,20250612,20250712,Budget Management,Finance,Completed,1,13.0,59.8
+1073,TRN001072,418,20251119,20251124,Inclusive Hiring,HR,Completed,1,5.6,77.5
+1074,TRN001075,419,20241025,20241122,Python for Data Analysis,Technical,Completed,1,6.5,72.2
+1075,TRN001074,419,20241224,20250103,Information Security Awareness,Compliance,Completed,1,9.3,90.9
+1076,TRN001076,420,20251106,20251202,Leading High Performing Teams,Leadership,Completed,1,7.4,81.8
+1077,TRN001077,420,20251204,20260113,Workplace Health and Safety,Compliance,Completed,1,1.6,77.9
+1078,TRN001078,420,20260512,20260530,Inclusive Hiring,HR,Completed,1,4.5,67.3
+1079,TRN001079,421,20240916,20240918,Leading High Performing Teams,Leadership,Completed,1,6.6,66.9
+1080,TRN001080,422,20240830,,First Line Manager Training,Leadership,Overdue,0,1.2,
+1081,TRN001082,422,20250417,,Data Protection Training,Compliance,In Progress,0,6.0,
+1082,TRN001081,422,20260121,20260228,SQL for Analysts,Technical,Completed,1,2.4,83.8
+1083,TRN001083,422,20260515,20260601,Workplace Health and Safety,Compliance,Completed,1,4.8,72.6
+1084,TRN001088,423,20240218,20240309,Workplace Health and Safety,Compliance,Completed,1,3.7,60.7
+1085,TRN001087,423,20250103,,Power BI Fundamentals,Technical,Overdue,0,15.4,
+1086,TRN001086,423,20250113,20250117,Cloud Data Fundamentals,Technical,Completed,1,3.8,70.7
+1087,TRN001084,423,20250428,20250608,Employee Relations Essentials,HR,Completed,1,6.6,61.8
+1088,TRN001085,423,20250619,20250703,Financial Controls,Finance,Completed,1,2.8,81.0
+1089,TRN001089,424,20240214,,Financial Controls,Finance,Not Started,0,10.4,
+1090,TRN001091,424,20250523,,Employee Relations Essentials,HR,Overdue,0,5.6,
+1091,TRN001090,424,20250705,20250804,Inclusive Hiring,HR,Completed,1,13.4,96.8
+1092,TRN001093,425,20240502,,Employee Relations Essentials,HR,Not Started,0,11.8,
+1093,TRN001094,425,20241007,,Coaching Skills,Leadership,Overdue,0,10.7,
+1094,TRN001092,425,20251212,,Employee Relations Essentials,HR,In Progress,0,13.8,
+1095,TRN001095,426,20240215,,Workplace Health and Safety,Compliance,Overdue,0,15.9,
+1096,TRN001096,426,20250209,20250228,Data Protection Training,Compliance,Completed,1,5.9,94.7
+1097,TRN001097,427,20240306,20240328,First Line Manager Training,Leadership,Completed,1,12.6,78.4
+1098,TRN001099,427,20260225,20260401,Presentation Skills,Soft Skills,Completed,1,13.5,80.2
+1099,TRN001098,427,20260325,20260405,Python for Data Analysis,Technical,Completed,1,14.6,92.9
+1100,TRN001100,428,20250407,20250517,Budget Management,Finance,Completed,1,8.2,70.4
+1101,TRN001101,428,20260425,20260430,Python for Data Analysis,Technical,Completed,1,10.1,68.2
+1102,TRN001102,429,20251012,20251116,Employee Relations Essentials,HR,Completed,1,6.2,72.9
+1103,TRN001105,430,20240113,20240127,Python for Data Analysis,Technical,Completed,1,14.3,96.5
+1104,TRN001104,430,20240310,20240403,First Line Manager Training,Leadership,Completed,1,7.5,63.5
+1105,TRN001106,430,20240611,20240707,Stakeholder Management,Soft Skills,Completed,1,11.0,72.7
+1106,TRN001103,430,20241225,20250129,First Line Manager Training,Leadership,Completed,1,11.9,89.0
+1107,TRN001109,431,20240123,20240217,Communication Skills,Soft Skills,Completed,1,2.9,85.4
+1108,TRN001108,431,20240128,,Leading High Performing Teams,Leadership,Overdue,0,13.9,
+1109,TRN001107,431,20240208,20240217,Financial Controls,Finance,Completed,1,12.1,78.6
+1110,TRN001110,432,20240304,20240312,Information Security Awareness,Compliance,Completed,1,7.8,88.7
+1111,TRN001111,432,20240926,,Employee Relations Essentials,HR,Not Started,0,4.7,
+1112,TRN001114,433,20240126,20240202,First Line Manager Training,Leadership,Completed,1,9.3,63.2
+1113,TRN001112,433,20250505,20250607,Information Security Awareness,Compliance,Completed,1,11.7,60.2
+1114,TRN001113,433,20250909,20250918,Stakeholder Management,Soft Skills,Completed,1,13.8,60.0
+1115,TRN001115,433,20260221,20260316,Cloud Data Fundamentals,Technical,Completed,1,1.5,78.6
+1116,TRN001117,434,20241229,20250104,Power BI Fundamentals,Technical,Completed,1,1.6,76.4
+1117,TRN001116,434,20250223,20250331,Budget Management,Finance,Completed,1,3.8,68.5
+1118,TRN001120,435,20240801,20240907,Employee Relations Essentials,HR,Completed,1,11.5,88.3
+1119,TRN001118,435,20241202,20241214,Inclusive Hiring,HR,Completed,1,12.7,86.1
+1120,TRN001119,435,20250203,,Budget Management,Finance,Not Started,0,12.0,
+1121,TRN001121,436,20241211,,Budget Management,Finance,Overdue,0,10.7,
+1122,TRN001123,437,20240103,20240207,Financial Controls,Finance,Completed,1,8.1,69.6
+1123,TRN001124,437,20250627,20250721,Budget Management,Finance,Completed,1,10.6,74.0
+1124,TRN001125,437,20250930,20251105,Power BI Fundamentals,Technical,Completed,1,6.1,72.2
+1125,TRN001122,437,20260621,20260630,Presentation Skills,Soft Skills,Completed,1,11.5,65.0
+1126,TRN001128,438,20250127,20250228,Inclusive Hiring,HR,Completed,1,13.4,64.6
+1127,TRN001126,438,20250419,20250514,Leading High Performing Teams,Leadership,Completed,1,14.1,73.1
+1128,TRN001127,438,20250616,20250626,Workplace Health and Safety,Compliance,Completed,1,8.0,57.5
+1129,TRN001129,438,20250829,20250831,Inclusive Hiring,HR,Completed,1,3.1,70.8
+1130,TRN001132,439,20260301,,Coaching Skills,Leadership,Overdue,0,3.4,
+1131,TRN001130,439,20260326,20260406,Financial Controls,Finance,Completed,1,3.3,70.4
+1132,TRN001131,439,20260526,20260617,Financial Controls,Finance,Completed,1,6.9,89.1
+1133,TRN001133,440,20241105,20241203,Cloud Data Fundamentals,Technical,Completed,1,15.9,84.0
+1134,TRN001134,440,20260601,20260630,Presentation Skills,Soft Skills,Completed,1,15.9,71.6
+1135,TRN001135,441,20250820,,Python for Data Analysis,Technical,Overdue,0,5.9,
+1136,TRN001136,442,20250513,20250618,Leading High Performing Teams,Leadership,Completed,1,14.9,80.1
+1137,TRN001137,442,20251207,,Stakeholder Management,Soft Skills,Overdue,0,14.5,
+1138,TRN001142,443,20240120,,Python for Data Analysis,Technical,In Progress,0,14.6,
+1139,TRN001138,443,20241107,20241118,Data Protection Training,Compliance,Completed,1,3.1,76.5
+1140,TRN001140,443,20250131,20250303,Communication Skills,Soft Skills,Completed,1,4.6,80.4
+1141,TRN001141,443,20250428,20250519,Python for Data Analysis,Technical,Completed,1,1.0,84.2
+1142,TRN001139,443,20260307,20260402,Workplace Health and Safety,Compliance,Completed,1,4.9,98.4
+1143,TRN001145,444,20240515,,Inclusive Hiring,HR,Overdue,0,7.7,
+1144,TRN001144,444,20250826,,Inclusive Hiring,HR,In Progress,0,6.1,
+1145,TRN001143,444,20260128,20260205,Data Protection Training,Compliance,Completed,1,12.8,92.4
+1146,TRN001146,445,20260228,20260325,Workplace Health and Safety,Compliance,Completed,1,8.5,74.6
+1147,TRN001147,446,20250813,,Employee Relations Essentials,HR,In Progress,0,11.5,
+1148,TRN001148,446,20250813,20250816,Coaching Skills,Leadership,Completed,1,3.3,72.9
+1149,TRN001151,447,20240108,20240205,Leading High Performing Teams,Leadership,Completed,1,5.5,78.6
+1150,TRN001150,447,20251022,20251201,SQL for Analysts,Technical,Completed,1,8.6,68.9
+1151,TRN001149,447,20260202,20260318,First Line Manager Training,Leadership,Completed,1,6.9,71.6
+1152,TRN001152,448,20260522,20260612,First Line Manager Training,Leadership,Completed,1,7.3,67.1
+1153,TRN001153,449,20260109,20260111,Cloud Data Fundamentals,Technical,Completed,1,5.6,91.6
+1154,TRN001155,449,20260517,20260615,Communication Skills,Soft Skills,Completed,1,9.8,73.0
+1155,TRN001154,449,20260524,,Presentation Skills,Soft Skills,Overdue,0,10.2,
+1156,TRN001156,450,20240710,,Leading High Performing Teams,Leadership,Overdue,0,14.4,
+1157,TRN001158,450,20241001,20241023,Presentation Skills,Soft Skills,Completed,1,15.5,67.7
+1158,TRN001157,450,20260201,20260212,Python for Data Analysis,Technical,Completed,1,2.5,55.2
+1159,TRN001161,451,20240717,,Python for Data Analysis,Technical,Not Started,0,14.4,
+1160,TRN001159,451,20240921,20241103,Financial Controls,Finance,Completed,1,2.1,72.5
+1161,TRN001162,451,20260108,20260219,Employee Relations Essentials,HR,Completed,1,15.2,67.0
+1162,TRN001160,451,20260624,20260630,Communication Skills,Soft Skills,Completed,1,2.1,61.5
+1163,TRN001163,452,20240228,20240314,Financial Controls,Finance,Completed,1,7.6,70.8
+1164,TRN001164,452,20260107,20260216,Financial Controls,Finance,Completed,1,2.4,92.3
+1165,TRN001165,452,20260225,20260409,Budget Management,Finance,Completed,1,15.0,78.5
+1166,TRN001168,453,20240602,20240622,Leading High Performing Teams,Leadership,Completed,1,14.6,47.8
+1167,TRN001167,453,20241207,20250106,Coaching Skills,Leadership,Completed,1,15.1,70.7
+1168,TRN001166,453,20260219,20260307,Leading High Performing Teams,Leadership,Completed,1,8.0,74.6
+1169,TRN001169,454,20251211,20251214,Data Protection Training,Compliance,Completed,1,6.0,80.6
+1170,TRN001172,455,20241014,,Employee Relations Essentials,HR,Overdue,0,7.9,
+1171,TRN001170,455,20251104,,Communication Skills,Soft Skills,In Progress,0,13.5,
+1172,TRN001171,455,20251108,20251116,Financial Controls,Finance,Completed,1,7.1,100.0
+1173,TRN001173,456,20241025,20241201,Financial Controls,Finance,Completed,1,1.2,72.7
+1174,TRN001175,456,20250302,20250402,Leading High Performing Teams,Leadership,Completed,1,14.1,67.7
+1175,TRN001174,456,20250430,20250526,Financial Controls,Finance,Completed,1,1.9,79.9
+1176,TRN001176,457,20240318,20240420,First Line Manager Training,Leadership,Completed,1,4.3,59.2
+1177,TRN001178,458,20260220,,Data Protection Training,Compliance,Not Started,0,1.6,
+1178,TRN001179,458,20260331,20260420,Communication Skills,Soft Skills,Completed,1,12.8,86.3
+1179,TRN001177,458,20260406,20260515,First Line Manager Training,Leadership,Completed,1,12.7,78.6
+1180,TRN001180,459,20241024,20241201,Financial Controls,Finance,Completed,1,1.1,68.5
+1181,TRN001182,459,20250426,20250504,Budget Management,Finance,Completed,1,13.0,84.8
+1182,TRN001181,459,20250818,,Budget Management,Finance,Overdue,0,2.1,
+1183,TRN001183,459,20251101,20251111,Coaching Skills,Leadership,Completed,1,5.9,54.5
+1184,TRN001184,460,20251227,,Workplace Health and Safety,Compliance,Not Started,0,2.2,
+1185,TRN001185,461,20250212,20250225,Information Security Awareness,Compliance,Completed,1,12.5,100.0
+1186,TRN001187,462,20240524,20240527,Power BI Fundamentals,Technical,Completed,1,9.0,75.4
+1187,TRN001186,462,20241102,20241122,Power BI Fundamentals,Technical,Completed,1,8.8,79.9
+1188,TRN001188,463,20260122,20260226,Inclusive Hiring,HR,Completed,1,15.9,70.2
+1189,TRN001192,464,20240430,20240613,Leading High Performing Teams,Leadership,Completed,1,2.1,67.2
+1190,TRN001190,464,20240921,,Workplace Health and Safety,Compliance,Not Started,0,3.1,
+1191,TRN001189,464,20241130,20250113,Inclusive Hiring,HR,Completed,1,6.6,59.5
+1192,TRN001193,464,20250516,,Presentation Skills,Soft Skills,In Progress,0,2.2,
+1193,TRN001191,464,20251220,20260103,Information Security Awareness,Compliance,Completed,1,15.9,89.6
+1194,TRN001194,465,20250212,20250301,Budget Management,Finance,Completed,1,12.4,96.3
+1195,TRN001196,466,20240714,20240820,Python for Data Analysis,Technical,Completed,1,15.0,71.2
+1196,TRN001197,466,20240818,20240924,Cloud Data Fundamentals,Technical,Completed,1,12.8,72.0
+1197,TRN001195,466,20260427,20260519,Data Protection Training,Compliance,Completed,1,10.0,81.5
+1198,TRN001198,467,20240905,20241007,Financial Controls,Finance,Completed,1,9.0,74.0
+1199,TRN001201,467,20241210,20241224,Inclusive Hiring,HR,Completed,1,9.2,81.7
+1200,TRN001200,467,20250111,20250208,Coaching Skills,Leadership,Completed,1,1.6,67.6
+1201,TRN001199,467,20260604,20260611,Python for Data Analysis,Technical,Completed,1,6.3,100.0
+1202,TRN001203,468,20241221,20250202,Presentation Skills,Soft Skills,Completed,1,5.0,82.2
+1203,TRN001202,468,20260130,20260208,Inclusive Hiring,HR,Completed,1,3.6,99.3
+1204,TRN001205,469,20250323,20250502,Budget Management,Finance,Completed,1,7.2,59.0
+1205,TRN001207,469,20250803,20250820,Power BI Fundamentals,Technical,Completed,1,11.5,92.0
+1206,TRN001204,469,20250827,20251009,Information Security Awareness,Compliance,Completed,1,11.5,63.5
+1207,TRN001206,469,20251220,20260126,Leading High Performing Teams,Leadership,Completed,1,15.0,99.0
+1208,TRN001208,470,20250625,20250805,Communication Skills,Soft Skills,Completed,1,5.6,63.6
+1209,TRN001209,470,20260515,20260518,Inclusive Hiring,HR,Completed,1,13.2,76.1
+1210,TRN001210,471,20240323,,Budget Management,Finance,Overdue,0,8.0,
+1211,TRN001211,471,20250622,20250628,Python for Data Analysis,Technical,Completed,1,5.4,87.9
+1212,TRN001212,472,20260519,20260601,Inclusive Hiring,HR,Completed,1,13.2,69.0
+1213,TRN001215,473,20241008,,Presentation Skills,Soft Skills,In Progress,0,2.9,
+1214,TRN001213,473,20250609,20250617,Presentation Skills,Soft Skills,Completed,1,11.4,69.8
+1215,TRN001214,473,20260326,20260421,Stakeholder Management,Soft Skills,Completed,1,15.4,83.1
+1216,TRN001218,474,20240212,,Employee Relations Essentials,HR,Not Started,0,7.2,
+1217,TRN001217,474,20250528,20250614,Financial Controls,Finance,Completed,1,8.3,76.0
+1218,TRN001216,474,20260411,20260420,Financial Controls,Finance,Completed,1,14.6,90.2
+1219,TRN001219,475,20240718,,Coaching Skills,Leadership,In Progress,0,14.1,
+1220,TRN001220,475,20250518,20250626,Data Protection Training,Compliance,Completed,1,2.0,86.1
+1221,TRN001222,475,20250526,20250608,Communication Skills,Soft Skills,Completed,1,11.4,70.5
+1222,TRN001221,475,20250531,,Information Security Awareness,Compliance,Not Started,0,12.8,
+1223,TRN001223,476,20241005,20241012,Financial Controls,Finance,Completed,1,1.6,78.7
+1224,TRN001224,476,20250429,20250517,Coaching Skills,Leadership,Completed,1,6.7,70.2
+1225,TRN001225,476,20250707,20250718,First Line Manager Training,Leadership,Completed,1,4.8,88.8
+1226,TRN001226,476,20251120,20251130,Financial Controls,Finance,Completed,1,14.6,84.1
+1227,TRN001227,477,20260620,20260630,Coaching Skills,Leadership,Completed,1,14.0,89.3
+1228,TRN001231,478,20241219,,Python for Data Analysis,Technical,Overdue,0,14.9,
+1229,TRN001230,478,20250521,,Presentation Skills,Soft Skills,Overdue,0,11.6,
+1230,TRN001228,478,20250624,20250711,Information Security Awareness,Compliance,Completed,1,15.5,71.3
+1231,TRN001229,478,20250922,20251103,Coaching Skills,Leadership,Completed,1,5.2,74.6
+1232,TRN001233,479,20240719,20240722,Budget Management,Finance,Completed,1,10.2,50.6
+1233,TRN001232,479,20260316,20260412,SQL for Analysts,Technical,Completed,1,13.4,60.5
+1234,TRN001234,480,20240409,20240514,Workplace Health and Safety,Compliance,Completed,1,5.4,74.2
+1235,TRN001237,480,20250101,20250122,Stakeholder Management,Soft Skills,Completed,1,11.6,89.3
+1236,TRN001235,480,20250318,20250414,Employee Relations Essentials,HR,Completed,1,3.8,69.6
+1237,TRN001236,480,20251121,,Employee Relations Essentials,HR,In Progress,0,5.6,
+1238,TRN001238,481,20260105,20260128,Cloud Data Fundamentals,Technical,Completed,1,15.8,80.4
+1239,TRN001241,482,20240929,20241015,Power BI Fundamentals,Technical,Completed,1,9.8,64.4
+1240,TRN001242,482,20250413,20250517,Employee Relations Essentials,HR,Completed,1,14.7,89.1
+1241,TRN001239,482,20251202,20260105,Power BI Fundamentals,Technical,Completed,1,2.3,86.0
+1242,TRN001240,482,20260623,20260630,Data Protection Training,Compliance,Completed,1,9.7,73.0
+1243,TRN001243,483,20240930,20241101,Financial Controls,Finance,Completed,1,11.4,70.6
+1244,TRN001244,483,20251218,20260103,Leading High Performing Teams,Leadership,Completed,1,8.7,57.6
+1245,TRN001245,484,20240712,20240815,Communication Skills,Soft Skills,Completed,1,3.5,79.0
+1246,TRN001247,485,20240226,,Workplace Health and Safety,Compliance,Not Started,0,1.5,
+1247,TRN001248,485,20250615,,Information Security Awareness,Compliance,Overdue,0,12.4,
+1248,TRN001246,485,20250705,20250807,Financial Controls,Finance,Completed,1,2.2,70.5
+1249,TRN001249,486,20250101,20250119,Stakeholder Management,Soft Skills,Completed,1,3.9,72.2
+1250,TRN001250,487,20250923,20251017,Budget Management,Finance,Completed,1,10.2,85.5
+1251,TRN001251,488,20240505,,Data Protection Training,Compliance,In Progress,0,6.9,
+1252,TRN001252,488,20241117,,Information Security Awareness,Compliance,Not Started,0,5.6,
+1253,TRN001253,488,20250626,20250722,Data Protection Training,Compliance,Completed,1,3.0,74.7
+1254,TRN001256,489,20240505,20240519,Stakeholder Management,Soft Skills,Completed,1,3.5,81.1
+1255,TRN001255,489,20241201,20241231,Power BI Fundamentals,Technical,Completed,1,4.6,68.2
+1256,TRN001254,489,20250521,20250623,Presentation Skills,Soft Skills,Completed,1,8.9,68.4
+1257,TRN001257,489,20260410,20260521,Stakeholder Management,Soft Skills,Completed,1,11.7,67.7
+1258,TRN001260,490,20250501,20250510,Data Protection Training,Compliance,Completed,1,2.1,73.8
+1259,TRN001258,490,20251023,20251101,Python for Data Analysis,Technical,Completed,1,15.7,83.4
+1260,TRN001259,490,20251117,,Presentation Skills,Soft Skills,Not Started,0,8.9,
+1261,TRN001264,491,20260224,,Coaching Skills,Leadership,Overdue,0,7.7,
+1262,TRN001262,491,20260318,,Leading High Performing Teams,Leadership,Overdue,0,10.6,
+1263,TRN001263,491,20260322,20260325,Financial Controls,Finance,Completed,1,10.7,71.9
+1264,TRN001261,491,20260411,,Inclusive Hiring,HR,Not Started,0,13.1,
+1265,TRN001267,492,20250102,20250128,Inclusive Hiring,HR,Completed,1,4.2,80.2
+1266,TRN001268,492,20250113,,Leading High Performing Teams,Leadership,Not Started,0,14.6,
+1267,TRN001266,492,20250904,,Information Security Awareness,Compliance,In Progress,0,5.2,
+1268,TRN001265,492,20260115,,Workplace Health and Safety,Compliance,Overdue,0,6.7,
+1269,TRN001269,493,20250625,20250708,SQL for Analysts,Technical,Completed,1,7.9,67.4
+1270,TRN001270,493,20260114,,Budget Management,Finance,In Progress,0,9.4,
+1271,TRN001273,494,20250715,20250719,Financial Controls,Finance,Completed,1,12.7,73.1
+1272,TRN001272,494,20260222,20260226,Coaching Skills,Leadership,Completed,1,14.7,62.4
+1273,TRN001274,494,20260315,20260401,Cloud Data Fundamentals,Technical,Completed,1,4.2,65.5
+1274,TRN001271,494,20260518,20260618,Budget Management,Finance,Completed,1,5.4,79.0
+1275,TRN001277,495,20241017,20241115,Presentation Skills,Soft Skills,Completed,1,5.7,100.0
+1276,TRN001276,495,20250520,20250628,Financial Controls,Finance,Completed,1,3.3,80.3
+1277,TRN001279,495,20250709,,Leading High Performing Teams,Leadership,Overdue,0,1.9,
+1278,TRN001278,495,20251215,20251229,Coaching Skills,Leadership,Completed,1,9.3,89.1
+1279,TRN001275,495,20260516,20260614,Leading High Performing Teams,Leadership,Completed,1,10.8,86.3
+1280,TRN001282,496,20250528,20250605,SQL for Analysts,Technical,Completed,1,2.2,95.0
+1281,TRN001280,496,20250618,,Leading High Performing Teams,Leadership,In Progress,0,10.0,
+1282,TRN001281,496,20260222,,Inclusive Hiring,HR,Overdue,0,12.3,
+1283,TRN001284,496,20260305,20260417,Communication Skills,Soft Skills,Completed,1,12.2,77.4
+1284,TRN001283,496,20260324,20260425,Employee Relations Essentials,HR,Completed,1,9.8,82.3
+1285,TRN001289,497,20240412,20240429,Python for Data Analysis,Technical,Completed,1,1.2,53.6
+1286,TRN001286,497,20240506,20240526,Stakeholder Management,Soft Skills,Completed,1,12.5,79.7
+1287,TRN001287,497,20240703,20240815,Communication Skills,Soft Skills,Completed,1,5.8,70.4
+1288,TRN001288,497,20241227,20250113,Power BI Fundamentals,Technical,Completed,1,13.7,84.4
+1289,TRN001285,497,20250205,20250218,Workplace Health and Safety,Compliance,Completed,1,7.3,90.3
+1290,TRN001290,498,20240207,20240225,Cloud Data Fundamentals,Technical,Completed,1,14.2,85.2
+1291,TRN001291,498,20240209,,Employee Relations Essentials,HR,Not Started,0,12.1,
+1292,TRN001292,499,20240816,20240925,Stakeholder Management,Soft Skills,Completed,1,14.0,84.0
+1293,TRN001293,499,20250427,20250601,Communication Skills,Soft Skills,Completed,1,5.1,84.9
+1294,TRN001294,499,20251202,20251225,Information Security Awareness,Compliance,Completed,1,12.0,87.5
+1295,TRN001295,500,20250721,,Financial Controls,Finance,In Progress,0,15.9,
+1296,TRN001297,500,20251130,,Financial Controls,Finance,Not Started,0,9.6,
+1297,TRN001296,500,20260315,20260402,Leading High Performing Teams,Leadership,Completed,1,7.5,74.9
+1298,TRN001299,501,20250720,20250806,Inclusive Hiring,HR,Completed,1,7.1,88.5
+1299,TRN001298,501,20260515,20260520,Leading High Performing Teams,Leadership,Completed,1,8.4,78.2
+1300,TRN001300,502,20260501,20260526,Workplace Health and Safety,Compliance,Completed,1,4.1,88.3
+1301,TRN001302,503,20241231,20250104,Financial Controls,Finance,Completed,1,15.5,65.5
+1302,TRN001301,503,20250410,,Coaching Skills,Leadership,Not Started,0,4.1,
+1303,TRN001306,504,20260302,20260305,Stakeholder Management,Soft Skills,Completed,1,13.0,72.5
+1304,TRN001303,504,20260320,20260324,Inclusive Hiring,HR,Completed,1,13.3,73.3
+1305,TRN001305,504,20260413,20260425,Cloud Data Fundamentals,Technical,Completed,1,4.4,72.9
+1306,TRN001304,504,20260515,20260521,Python for Data Analysis,Technical,Completed,1,15.5,74.0
+1307,TRN001307,505,20240605,20240702,Data Protection Training,Compliance,Completed,1,12.5,49.9
+1308,TRN001310,506,20240926,,Budget Management,Finance,In Progress,0,13.9,
+1309,TRN001309,506,20250227,20250408,Presentation Skills,Soft Skills,Completed,1,7.5,85.1
+1310,TRN001308,506,20250624,,Workplace Health and Safety,Compliance,In Progress,0,12.8,
+1311,TRN001311,506,20250810,20250813,Cloud Data Fundamentals,Technical,Completed,1,7.6,83.1
+1312,TRN001313,507,20250221,20250402,Cloud Data Fundamentals,Technical,Completed,1,12.8,67.4
+1313,TRN001312,507,20251122,20251130,Stakeholder Management,Soft Skills,Completed,1,10.5,66.8
+1314,TRN001317,508,20250508,20250521,Coaching Skills,Leadership,Completed,1,6.6,75.8
+1315,TRN001315,508,20250812,,Stakeholder Management,Soft Skills,In Progress,0,10.9,
+1316,TRN001316,508,20251115,20251218,Financial Controls,Finance,Completed,1,11.5,86.8
+1317,TRN001314,508,20260417,20260529,Information Security Awareness,Compliance,Completed,1,8.4,74.5
+1318,TRN001318,509,20240726,20240822,Employee Relations Essentials,HR,Completed,1,4.2,73.0
+1319,TRN001319,509,20240816,20240926,Coaching Skills,Leadership,Completed,1,13.2,64.6
+1320,TRN001320,510,20240126,20240128,Leading High Performing Teams,Leadership,Completed,1,10.4,67.8
+1321,TRN001321,510,20250313,20250322,Communication Skills,Soft Skills,Completed,1,6.7,62.2
+1322,TRN001322,511,20250908,20251014,Stakeholder Management,Soft Skills,Completed,1,14.0,64.3
+1323,TRN001324,512,20250806,,Leading High Performing Teams,Leadership,In Progress,0,5.7,
+1324,TRN001323,512,20260413,20260415,Leading High Performing Teams,Leadership,Completed,1,15.4,69.9
+1325,TRN001325,513,20250311,,Employee Relations Essentials,HR,In Progress,0,11.7,
+1326,TRN001327,514,20240404,20240502,Coaching Skills,Leadership,Completed,1,11.3,81.2
+1327,TRN001326,514,20241030,20241102,Budget Management,Finance,Completed,1,4.9,72.3
+1328,TRN001328,514,20260203,,Workplace Health and Safety,Compliance,In Progress,0,4.1,
+1329,TRN001329,514,20260608,20260616,Python for Data Analysis,Technical,Completed,1,6.8,81.8
+1330,TRN001330,515,20250917,20251005,Financial Controls,Finance,Completed,1,14.6,65.5
+1331,TRN001332,516,20240113,20240116,Communication Skills,Soft Skills,Completed,1,3.3,72.0
+1332,TRN001331,516,20250927,20251026,Workplace Health and Safety,Compliance,Completed,1,14.0,99.1
+1333,TRN001333,516,20250929,20251108,Stakeholder Management,Soft Skills,Completed,1,15.1,82.6
+1334,TRN001334,517,20241004,20241101,Inclusive Hiring,HR,Completed,1,14.4,59.9
+1335,TRN001335,518,20240229,20240312,Communication Skills,Soft Skills,Completed,1,13.0,89.1
+1336,TRN001336,518,20251017,20251110,Presentation Skills,Soft Skills,Completed,1,7.3,66.1
+1337,TRN001337,518,20260415,20260523,Information Security Awareness,Compliance,Completed,1,12.1,63.8
+1338,TRN001338,519,20250816,20250918,Leading High Performing Teams,Leadership,Completed,1,4.3,80.6
+1339,TRN001341,519,20260201,20260212,Python for Data Analysis,Technical,Completed,1,4.1,84.7
+1340,TRN001339,519,20260402,20260404,Employee Relations Essentials,HR,Completed,1,9.9,90.9
+1341,TRN001340,519,20260430,20260506,Coaching Skills,Leadership,Completed,1,9.9,81.3
+1342,TRN001344,520,20240218,20240321,Financial Controls,Finance,Completed,1,10.0,60.7
+1343,TRN001343,520,20240522,20240614,Leading High Performing Teams,Leadership,Completed,1,3.8,88.8
+1344,TRN001342,520,20241114,20241211,Python for Data Analysis,Technical,Completed,1,9.8,49.8
+1345,TRN001345,520,20251214,,Information Security Awareness,Compliance,Not Started,0,10.9,
+1346,TRN001347,521,20240506,20240605,Information Security Awareness,Compliance,Completed,1,4.8,96.9
+1347,TRN001348,521,20241119,,Workplace Health and Safety,Compliance,Not Started,0,11.9,
+1348,TRN001349,521,20250317,20250327,SQL for Analysts,Technical,Completed,1,2.7,65.9
+1349,TRN001346,521,20260304,20260330,Leading High Performing Teams,Leadership,Completed,1,15.8,95.9
+1350,TRN001350,522,20241111,,SQL for Analysts,Technical,In Progress,0,1.5,
+1351,TRN001351,522,20251122,20251213,Employee Relations Essentials,HR,Completed,1,12.5,92.4
+1352,TRN001354,523,20250922,20251007,Stakeholder Management,Soft Skills,Completed,1,13.3,62.0
+1353,TRN001353,523,20251017,,Budget Management,Finance,Not Started,0,2.5,
+1354,TRN001352,523,20260511,20260612,Power BI Fundamentals,Technical,Completed,1,7.3,78.8
+1355,TRN001358,524,20240608,,Communication Skills,Soft Skills,Overdue,0,10.6,
+1356,TRN001356,524,20240618,,Python for Data Analysis,Technical,Not Started,0,4.9,
+1357,TRN001357,524,20240904,20241017,Leading High Performing Teams,Leadership,Completed,1,15.0,68.9
+1358,TRN001355,524,20250207,20250310,Financial Controls,Finance,Completed,1,10.0,67.9
+1359,TRN001359,525,20240820,20240831,Inclusive Hiring,HR,Completed,1,15.1,90.1
+1360,TRN001360,526,20251012,20251107,Information Security Awareness,Compliance,Completed,1,2.2,84.4
+1361,TRN001361,526,20260310,,SQL for Analysts,Technical,Not Started,0,14.5,
+1362,TRN001362,527,20250211,,Financial Controls,Finance,In Progress,0,10.9,
+1363,TRN001363,527,20250812,,Python for Data Analysis,Technical,In Progress,0,10.9,
+1364,TRN001365,527,20251227,20260130,Employee Relations Essentials,HR,Completed,1,15.1,70.3
+1365,TRN001364,527,20260102,20260201,Budget Management,Finance,Completed,1,15.8,70.1
+1366,TRN001367,528,20240312,20240329,Workplace Health and Safety,Compliance,Completed,1,2.5,100.0
+1367,TRN001366,528,20250504,20250524,Stakeholder Management,Soft Skills,Completed,1,4.3,75.7
+1368,TRN001369,528,20250518,20250524,Budget Management,Finance,Completed,1,13.6,61.8
+1369,TRN001370,528,20250710,20250714,Presentation Skills,Soft Skills,Completed,1,4.5,66.2
+1370,TRN001368,528,20260513,20260524,SQL for Analysts,Technical,Completed,1,12.2,77.2
+1371,TRN001371,529,20240223,20240324,Workplace Health and Safety,Compliance,Completed,1,8.8,66.1
+1372,TRN001372,529,20240504,,Presentation Skills,Soft Skills,Not Started,0,4.7,
+1373,TRN001373,529,20241120,20241207,Budget Management,Finance,Completed,1,9.2,88.7
+1374,TRN001374,529,20260606,20260630,SQL for Analysts,Technical,Completed,1,8.0,83.1
+1375,TRN001375,530,20240601,,Workplace Health and Safety,Compliance,Not Started,0,2.7,
+1376,TRN001376,531,20260214,20260219,Coaching Skills,Leadership,Completed,1,12.1,95.1
+1377,TRN001378,532,20240320,20240424,Inclusive Hiring,HR,Completed,1,1.5,70.5
+1378,TRN001377,532,20250414,,Data Protection Training,Compliance,Overdue,0,5.8,
+1379,TRN001379,532,20260325,20260404,Cloud Data Fundamentals,Technical,Completed,1,5.1,72.4
+1380,TRN001380,533,20250629,20250714,Information Security Awareness,Compliance,Completed,1,13.8,77.0
+1381,TRN001382,534,20251018,20251122,First Line Manager Training,Leadership,Completed,1,6.7,74.5
+1382,TRN001381,534,20260213,20260306,Presentation Skills,Soft Skills,Completed,1,8.3,78.1
+1383,TRN001383,535,20240813,20240923,Employee Relations Essentials,HR,Completed,1,4.9,78.6
+1384,TRN001384,536,20251116,20251205,Communication Skills,Soft Skills,Completed,1,12.2,77.8
+1385,TRN001385,536,20251204,20251210,Financial Controls,Finance,Completed,1,12.1,80.3
+1386,TRN001386,537,20240109,20240208,Power BI Fundamentals,Technical,Completed,1,7.3,62.4
+1387,TRN001387,537,20250120,20250129,Employee Relations Essentials,HR,Completed,1,10.9,86.0
+1388,TRN001390,538,20241104,20241124,Leading High Performing Teams,Leadership,Completed,1,3.7,60.3
+1389,TRN001389,538,20250125,,Power BI Fundamentals,Technical,In Progress,0,2.3,
+1390,TRN001388,538,20250317,,Employee Relations Essentials,HR,In Progress,0,6.1,
+1391,TRN001392,539,20250112,,Stakeholder Management,Soft Skills,In Progress,0,3.8,
+1392,TRN001391,539,20260209,20260324,Employee Relations Essentials,HR,Completed,1,7.8,96.3
+1393,TRN001394,540,20240409,20240412,Communication Skills,Soft Skills,Completed,1,7.8,80.1
+1394,TRN001393,540,20240815,20240901,Budget Management,Finance,Completed,1,3.2,92.4
+1395,TRN001395,541,20240902,20240917,Data Protection Training,Compliance,Completed,1,2.8,75.9
+1396,TRN001397,541,20250531,,Budget Management,Finance,Overdue,0,11.1,
+1397,TRN001396,541,20250721,20250726,Data Protection Training,Compliance,Completed,1,5.4,60.3
+1398,TRN001400,542,20240912,,Communication Skills,Soft Skills,Overdue,0,5.8,
+1399,TRN001399,542,20250608,20250614,Financial Controls,Finance,Completed,1,9.7,71.5
+1400,TRN001398,542,20250914,20251018,Information Security Awareness,Compliance,Completed,1,1.8,91.4
+1401,TRN001402,543,20240229,20240320,Financial Controls,Finance,Completed,1,3.0,89.0
+1402,TRN001401,543,20240707,20240715,Inclusive Hiring,HR,Completed,1,10.6,62.4
+1403,TRN001403,543,20250804,20250831,Python for Data Analysis,Technical,Completed,1,6.7,79.6
+1404,TRN001404,543,20260127,20260129,Inclusive Hiring,HR,Completed,1,14.5,94.8
+1405,TRN001405,544,20260407,20260429,First Line Manager Training,Leadership,Completed,1,3.5,62.6
+1406,TRN001409,545,20240111,20240220,First Line Manager Training,Leadership,Completed,1,8.0,100.0
+1407,TRN001406,545,20251103,20251209,Information Security Awareness,Compliance,Completed,1,12.2,61.5
+1408,TRN001407,545,20260405,20260430,Stakeholder Management,Soft Skills,Completed,1,12.5,76.2
+1409,TRN001408,545,20260520,,Employee Relations Essentials,HR,In Progress,0,15.7,
+1410,TRN001413,546,20260331,,Information Security Awareness,Compliance,Not Started,0,5.8,
+1411,TRN001411,546,20260502,20260507,Data Protection Training,Compliance,Completed,1,1.6,69.8
+1412,TRN001412,546,20260513,20260516,Presentation Skills,Soft Skills,Completed,1,3.5,88.5
+1413,TRN001410,546,20260613,,Workplace Health and Safety,Compliance,Not Started,0,4.0,
+1414,TRN001415,547,20240609,,Stakeholder Management,Soft Skills,Not Started,0,11.3,
+1415,TRN001414,547,20241214,,Leading High Performing Teams,Leadership,Not Started,0,5.4,
+1416,TRN001419,548,20240417,,Presentation Skills,Soft Skills,Overdue,0,5.9,
+1417,TRN001418,548,20240812,,Communication Skills,Soft Skills,Overdue,0,1.6,
+1418,TRN001417,548,20251216,,Presentation Skills,Soft Skills,Not Started,0,10.7,
+1419,TRN001416,548,20260623,,Data Protection Training,Compliance,Not Started,0,2.2,
+1420,TRN001420,549,20250819,20251001,Coaching Skills,Leadership,Completed,1,7.7,84.6
+1421,TRN001421,549,20260313,,Stakeholder Management,Soft Skills,Not Started,0,1.5,
+1422,TRN001422,550,20250324,,Presentation Skills,Soft Skills,Not Started,0,12.4,
+1423,TRN001424,551,20241022,,Workplace Health and Safety,Compliance,Not Started,0,15.1,
+1424,TRN001423,551,20250724,20250805,Cloud Data Fundamentals,Technical,Completed,1,11.3,83.5
+1425,TRN001425,551,20251022,20251204,Employee Relations Essentials,HR,Completed,1,6.9,71.4
+1426,TRN001426,551,20260422,20260517,Employee Relations Essentials,HR,Completed,1,5.9,67.0
+1427,TRN001427,552,20240412,20240506,Financial Controls,Finance,Completed,1,2.6,68.2
+1428,TRN001428,552,20241117,,Employee Relations Essentials,HR,In Progress,0,2.0,
+1429,TRN001429,552,20260413,20260429,Cloud Data Fundamentals,Technical,Completed,1,6.3,88.8
+1430,TRN001431,553,20240510,,Communication Skills,Soft Skills,Overdue,0,13.9,
+1431,TRN001430,553,20250714,20250717,Financial Controls,Finance,Completed,1,15.7,61.7
+1432,TRN001434,554,20240402,20240407,Cloud Data Fundamentals,Technical,Completed,1,2.1,87.3
+1433,TRN001433,554,20241116,,Cloud Data Fundamentals,Technical,Not Started,0,3.8,
+1434,TRN001432,554,20260325,20260408,Inclusive Hiring,HR,Completed,1,2.9,89.7
+1435,TRN001435,555,20240819,,Stakeholder Management,Soft Skills,Not Started,0,1.1,
+1436,TRN001437,556,20240117,,Employee Relations Essentials,HR,Not Started,0,3.6,
+1437,TRN001436,556,20240712,20240721,Inclusive Hiring,HR,Completed,1,4.3,72.1
+1438,TRN001439,556,20241018,20241105,Workplace Health and Safety,Compliance,Completed,1,9.1,81.3
+1439,TRN001438,556,20260301,20260408,Employee Relations Essentials,HR,Completed,1,2.2,66.3
+1440,TRN001440,557,20251105,,Presentation Skills,Soft Skills,Not Started,0,14.0,
+1441,TRN001441,558,20250503,,First Line Manager Training,Leadership,Not Started,0,14.7,
+1442,TRN001443,558,20251108,,Stakeholder Management,Soft Skills,In Progress,0,9.4,
+1443,TRN001442,558,20260113,20260226,Power BI Fundamentals,Technical,Completed,1,1.6,94.4
+1444,TRN001445,559,20240522,20240622,Employee Relations Essentials,HR,Completed,1,5.9,100.0
+1445,TRN001444,559,20260426,20260520,Presentation Skills,Soft Skills,Completed,1,3.9,89.6
+1446,TRN001448,560,20240716,20240802,Coaching Skills,Leadership,Completed,1,12.8,53.7
+1447,TRN001446,560,20240904,20241008,Leading High Performing Teams,Leadership,Completed,1,6.9,86.6
+1448,TRN001447,560,20250416,20250424,Python for Data Analysis,Technical,Completed,1,12.4,91.0
+1449,TRN001450,561,20240901,20241003,Power BI Fundamentals,Technical,Completed,1,12.0,78.8
+1450,TRN001451,561,20250207,20250222,Inclusive Hiring,HR,Completed,1,5.5,84.7
+1451,TRN001449,561,20260405,,Presentation Skills,Soft Skills,Overdue,0,9.9,
+1452,TRN001454,562,20241222,20250105,Leading High Performing Teams,Leadership,Completed,1,14.1,87.7
+1453,TRN001452,562,20250111,,Inclusive Hiring,HR,In Progress,0,1.6,
+1454,TRN001455,562,20250503,20250525,Leading High Performing Teams,Leadership,Completed,1,13.1,82.3
+1455,TRN001453,562,20250713,20250821,Power BI Fundamentals,Technical,Completed,1,8.4,94.4
+1456,TRN001456,563,20260224,20260322,Communication Skills,Soft Skills,Completed,1,10.6,90.7
+1457,TRN001457,564,20240405,20240504,Presentation Skills,Soft Skills,Completed,1,1.3,84.9
+1458,TRN001458,565,20240311,,Financial Controls,Finance,Overdue,0,4.4,
+1459,TRN001460,565,20251214,,Data Protection Training,Compliance,Overdue,0,7.4,
+1460,TRN001459,565,20260603,20260618,Budget Management,Finance,Completed,1,10.1,95.8
+1461,TRN001461,566,20251107,,Stakeholder Management,Soft Skills,Overdue,0,8.0,
+1462,TRN001464,567,20250513,,Inclusive Hiring,HR,In Progress,0,3.5,
+1463,TRN001462,567,20251228,,Financial Controls,Finance,Not Started,0,5.0,
+1464,TRN001463,567,20260625,,Presentation Skills,Soft Skills,Not Started,0,12.9,
+1465,TRN001468,568,20251230,,Workplace Health and Safety,Compliance,Not Started,0,4.3,
+1466,TRN001466,568,20260214,20260221,Communication Skills,Soft Skills,Completed,1,6.4,68.8
+1467,TRN001467,568,20260222,20260405,Inclusive Hiring,HR,Completed,1,13.1,88.9
+1468,TRN001469,568,20260411,20260509,First Line Manager Training,Leadership,Completed,1,2.9,89.1
+1469,TRN001465,568,20260509,20260530,Communication Skills,Soft Skills,Completed,1,5.0,60.7
+1470,TRN001470,569,20251001,20251024,Coaching Skills,Leadership,Completed,1,11.4,73.7
+1471,TRN001472,570,20240823,20240913,Leading High Performing Teams,Leadership,Completed,1,5.9,79.9
+1472,TRN001471,570,20260206,20260218,Cloud Data Fundamentals,Technical,Completed,1,3.3,78.3
+1473,TRN001473,571,20251105,,Cloud Data Fundamentals,Technical,Not Started,0,13.2,
+1474,TRN001477,572,20240407,20240502,Stakeholder Management,Soft Skills,Completed,1,2.2,55.1
+1475,TRN001476,572,20250723,20250730,Budget Management,Finance,Completed,1,11.4,75.5
+1476,TRN001474,572,20260506,20260511,Leading High Performing Teams,Leadership,Completed,1,8.9,81.4
+1477,TRN001475,572,20260509,,Budget Management,Finance,In Progress,0,15.9,
+1478,TRN001479,573,20240123,,Cloud Data Fundamentals,Technical,In Progress,0,8.8,
+1479,TRN001478,573,20250315,20250422,Financial Controls,Finance,Completed,1,2.0,89.5
+1480,TRN001480,574,20260322,20260427,Communication Skills,Soft Skills,Completed,1,10.6,70.1
+1481,TRN001481,574,20260402,,Employee Relations Essentials,HR,In Progress,0,4.7,
+1482,TRN001482,575,20240708,,Employee Relations Essentials,HR,In Progress,0,7.5,
+1483,TRN001483,575,20240807,20240825,Inclusive Hiring,HR,Completed,1,10.3,69.5
+1484,TRN001484,576,20250327,,Communication Skills,Soft Skills,In Progress,0,10.8,
+1485,TRN001486,576,20250507,20250513,Information Security Awareness,Compliance,Completed,1,4.9,76.8
+1486,TRN001485,576,20250526,20250530,Financial Controls,Finance,Completed,1,7.5,61.3
+1487,TRN001487,577,20250220,,Inclusive Hiring,HR,In Progress,0,6.9,
+1488,TRN001488,578,20250216,20250223,Employee Relations Essentials,HR,Completed,1,7.9,79.4
+1489,TRN001490,579,20240531,20240623,Python for Data Analysis,Technical,Completed,1,9.7,85.2
+1490,TRN001491,579,20240803,20240916,Budget Management,Finance,Completed,1,14.4,69.0
+1491,TRN001489,579,20250520,,Power BI Fundamentals,Technical,Not Started,0,4.3,
+1492,TRN001494,580,20240810,20240904,Power BI Fundamentals,Technical,Completed,1,13.6,58.2
+1493,TRN001493,580,20250430,,Financial Controls,Finance,Overdue,0,1.1,
+1494,TRN001492,580,20260404,,Stakeholder Management,Soft Skills,Not Started,0,4.7,
+1495,TRN001495,580,20260414,20260419,Presentation Skills,Soft Skills,Completed,1,6.5,75.5
+1496,TRN001498,581,20240929,20241102,Coaching Skills,Leadership,Completed,1,5.3,72.7
+1497,TRN001497,581,20241201,20250106,Employee Relations Essentials,HR,Completed,1,15.7,99.0
+1498,TRN001496,581,20250402,,Workplace Health and Safety,Compliance,Not Started,0,2.2,
+1499,TRN001499,581,20260617,,Stakeholder Management,Soft Skills,Not Started,0,10.5,
+1500,TRN001500,582,20250217,20250303,First Line Manager Training,Leadership,Completed,1,4.0,86.2
+1501,TRN001501,583,20260311,20260424,Budget Management,Finance,Completed,1,9.6,85.9
+1502,TRN001503,584,20240918,20241014,Stakeholder Management,Soft Skills,Completed,1,3.8,72.5
+1503,TRN001506,584,20250511,20250624,Employee Relations Essentials,HR,Completed,1,8.0,88.2
+1504,TRN001505,584,20251209,20251211,Financial Controls,Finance,Completed,1,10.4,76.4
+1505,TRN001502,584,20251215,20260125,Employee Relations Essentials,HR,Completed,1,10.8,67.5
+1506,TRN001504,584,20260212,20260312,Workplace Health and Safety,Compliance,Completed,1,9.5,64.7
+1507,TRN001509,585,20240329,20240425,Budget Management,Finance,Completed,1,5.6,84.5
+1508,TRN001507,585,20240521,20240623,Communication Skills,Soft Skills,Completed,1,10.9,73.2
+1509,TRN001508,585,20260227,20260310,Data Protection Training,Compliance,Completed,1,3.4,80.6
+1510,TRN001510,586,20240702,20240711,Presentation Skills,Soft Skills,Completed,1,3.2,75.7
+1511,TRN001511,587,20250502,20250614,Data Protection Training,Compliance,Completed,1,6.7,78.2
+1512,TRN001514,588,20240401,,Leading High Performing Teams,Leadership,Not Started,0,14.8,
+1513,TRN001512,588,20241004,,Leading High Performing Teams,Leadership,In Progress,0,12.7,
+1514,TRN001515,588,20250629,20250805,Communication Skills,Soft Skills,Completed,1,5.2,51.3
+1515,TRN001513,588,20251222,20260203,Inclusive Hiring,HR,Completed,1,12.0,68.4
+1516,TRN001516,589,20260615,20260630,Financial Controls,Finance,Completed,1,9.0,97.1
+1517,TRN001517,590,20240130,20240225,Stakeholder Management,Soft Skills,Completed,1,15.4,73.7
+1518,TRN001519,590,20250228,20250318,Workplace Health and Safety,Compliance,Completed,1,5.5,67.2
+1519,TRN001520,590,20250417,20250520,Inclusive Hiring,HR,Completed,1,15.4,70.5
+1520,TRN001518,590,20251119,20251210,Stakeholder Management,Soft Skills,Completed,1,5.7,100.0
+1521,TRN001521,591,20240210,20240220,Stakeholder Management,Soft Skills,Completed,1,10.4,92.7
+1522,TRN001522,592,20250131,20250304,Financial Controls,Finance,Completed,1,1.9,93.3
+1523,TRN001526,593,20240124,20240211,First Line Manager Training,Leadership,Completed,1,6.8,77.9
+1524,TRN001525,593,20240127,,Inclusive Hiring,HR,In Progress,0,14.6,
+1525,TRN001524,593,20240215,20240225,Workplace Health and Safety,Compliance,Completed,1,2.9,100.0
+1526,TRN001523,593,20240228,20240301,First Line Manager Training,Leadership,Completed,1,11.6,100.0
+1527,TRN001527,594,20241230,20250212,Coaching Skills,Leadership,Completed,1,6.1,81.2
+1528,TRN001528,594,20260505,,First Line Manager Training,Leadership,Not Started,0,14.6,
+1529,TRN001531,595,20240620,20240706,Employee Relations Essentials,HR,Completed,1,2.3,61.3
+1530,TRN001529,595,20240622,,Budget Management,Finance,Overdue,0,6.0,
+1531,TRN001532,595,20241104,20241209,Coaching Skills,Leadership,Completed,1,12.3,80.9
+1532,TRN001530,595,20251015,20251020,Budget Management,Finance,Completed,1,14.8,100.0
+1533,TRN001535,596,20251225,20260112,Workplace Health and Safety,Compliance,Completed,1,3.7,55.6
+1534,TRN001533,596,20260523,,Inclusive Hiring,HR,Not Started,0,15.9,
+1535,TRN001534,596,20260524,20260630,Inclusive Hiring,HR,Completed,1,14.3,85.9
+1536,TRN001536,597,20250601,,Stakeholder Management,Soft Skills,Not Started,0,8.1,
+1537,TRN001537,597,20251228,20260103,Information Security Awareness,Compliance,Completed,1,7.8,87.5
+1538,TRN001539,598,20240124,20240227,First Line Manager Training,Leadership,Completed,1,9.9,65.8
+1539,TRN001538,598,20240731,,Cloud Data Fundamentals,Technical,Overdue,0,1.2,
+1540,TRN001540,598,20251210,20251231,Workplace Health and Safety,Compliance,Completed,1,8.8,57.6
+1541,TRN001541,599,20240725,,Python for Data Analysis,Technical,In Progress,0,15.0,
+1542,TRN001542,599,20251122,20251222,Inclusive Hiring,HR,Completed,1,14.4,72.4
+1543,TRN001543,600,20241009,20241122,Leading High Performing Teams,Leadership,Completed,1,11.5,78.9

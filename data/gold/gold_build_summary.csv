@@ -1,0 +1,16 @@
+table_name,row_count,column_count
+dim_date,23528,9
+dim_department,8,3
+dim_employee,600,17
+dim_job_role,40,4
+dim_location,6,4
+dim_manager,83,4
+dim_security_user,17,7
+fact_attendance,15059,12
+fact_attrition,83,9
+fact_leave,2927,9
+fact_payroll,15059,11
+fact_performance,1455,9
+fact_recruitment,743,14
+fact_training,1543,11
+ml_attrition_dataset,600,20

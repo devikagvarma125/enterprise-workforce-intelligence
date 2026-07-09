@@ -1,0 +1,601 @@
+employee_id,age,gender,department,job_role,job_level,location,work_mode,tenure_years,annual_salary,salary_band,absence_rate,late_arrivals,training_hours,training_completion_flag,training_completion_rate,performance_rating,potential_rating,promotion_flag,attrition_flag
+EMP0001,35,Female,Customer Support,Senior Support Specialist,Senior,London,Remote,8.3,57500,50K-65K,0.0913,37,29.8,1,0.5,5,4,0,0
+EMP0002,42,Male,Sales,Sales Director,Director,Bristol,Hybrid,9.08,100000,100K+,0.0555,11,22.4,1,0.6667,4,4,0,0
+EMP0003,39,Male,Operations,Operations Analyst,Mid,Bristol,Remote,3.13,33500,30K-40K,0.0832,23,13.4,1,0.75,4,4,1,0
+EMP0004,44,Male,IT,Data Analyst,Mid,Leeds,Hybrid,6.66,35500,30K-40K,0.2043,47,31.4,1,0.6667,3,2,0,0
+EMP0005,34,Male,Operations,Operations Analyst,Mid,Bristol,Office,2.75,38000,30K-40K,0.079,12,4.3,0,0.0,3,3,0,0
+EMP0006,34,Female,Legal,Legal Manager,Manager,Leeds,Office,2.81,83500,80K-100K,0.0396,6,46.2,1,0.6,3,4,0,0
+EMP0007,39,Male,Marketing,Senior Marketing Specialist,Senior,Birmingham,Hybrid,9.11,54500,50K-65K,0.1479,29,4.6,0,0.3333,3,3,0,0
+EMP0008,41,Male,IT,Senior Data Engineer,Senior,London,Hybrid,4.16,72000,65K-80K,0.0522,15,57.1,1,0.6,4,4,0,0
+EMP0009,33,Male,Sales,Senior Account Executive,Senior,Leeds,Hybrid,4.96,48500,40K-50K,0.1366,6,25.8,1,0.75,,,0,1
+EMP0010,39,Female,HR,HR Advisor,Mid,Edinburgh,Remote,1.16,37500,30K-40K,0.0808,4,21.3,1,1.0,5,5,0,0
+EMP0011,29,Male,Finance,Accounts Assistant,Junior,Birmingham,Remote,2.24,33500,30K-40K,0.0648,18,14.0,1,1.0,3,4,0,0
+EMP0012,42,Female,Operations,Senior Operations Specialist,Senior,Leeds,Office,5.79,50000,50K-65K,0.115,33,15.1,1,0.5,5,5,0,0
+EMP0013,32,Female,Legal,Legal Advisor,Mid,Edinburgh,Remote,9.33,38500,30K-40K,0.0636,12,25.8,1,0.6667,3,4,0,0
+EMP0014,27,Female,Sales,Sales Development Representative,Junior,Leeds,Remote,3.95,25500,Under 30K,0.0444,5,16.5,0,0.3333,4,4,0,0
+EMP0015,38,Female,HR,HR Advisor,Mid,Leeds,Hybrid,1.33,41500,40K-50K,0.0488,5,10.5,1,0.5,3,3,0,0
+EMP0016,33,Female,Customer Support,Customer Support Advisor,Junior,Bristol,Remote,2.22,26500,Under 30K,0.0652,12,25.5,0,0.0,4,5,1,0
+EMP0017,37,Female,Marketing,Marketing Assistant,Junior,Manchester,Hybrid,3.1,26000,Under 30K,0.1037,26,18.4,1,0.5,5,5,1,0
+EMP0018,48,Female,Operations,Operations Assistant,Junior,Leeds,Remote,6.43,28000,Under 30K,0.0109,3,28.2,1,1.0,,,0,1
+EMP0019,22,Male,Finance,Senior Finance Analyst,Senior,London,Hybrid,4.62,75000,65K-80K,0.2061,49,13.1,1,1.0,3,3,0,0
+EMP0020,36,Male,Sales,Sales Manager,Manager,Leeds,Office,8.02,68500,65K-80K,0.0152,6,5.1,0,0.0,5,4,1,0
+EMP0021,52,Male,Legal,Legal Assistant,Junior,Bristol,Hybrid,3.09,27000,Under 30K,0.0259,8,30.0,1,0.5,4,5,0,0
+EMP0022,39,Male,Sales,Senior Account Executive,Senior,London,Remote,8.65,77500,65K-80K,0.0533,12,18.0,1,1.0,4,4,0,0
+EMP0023,35,Male,Operations,Operations Assistant,Junior,Bristol,Office,2.29,29000,Under 30K,0.0957,18,25.3,1,0.75,5,5,0,0
+EMP0024,42,Female,Operations,Operations Director,Director,Birmingham,Office,1.25,113500,100K+,0.0552,7,15.8,1,0.6667,4,4,0,0
+EMP0025,36,Female,IT,Senior Data Engineer,Senior,Birmingham,Remote,5.72,62000,50K-65K,0.0685,17,34.3,1,0.75,5,5,0,0
+EMP0026,29,Male,Sales,Sales Development Representative,Junior,Manchester,Hybrid,4.22,32000,30K-40K,0.1117,26,17.1,1,0.5,2,2,0,0
+EMP0027,30,Male,Customer Support,Customer Support Specialist,Mid,Birmingham,Hybrid,4.88,30000,30K-40K,0.1775,31,18.6,1,1.0,4,4,0,0
+EMP0028,33,Male,Marketing,Marketing Assistant,Junior,Birmingham,Office,0.21,29000,Under 30K,0.1703,2,24.1,1,0.5,,,0,0
+EMP0029,50,Male,Legal,Legal Advisor,Mid,Bristol,Remote,5.47,38500,30K-40K,0.1072,24,9.0,1,0.5,3,2,0,1
+EMP0030,36,Male,IT,Junior Software Developer,Junior,London,Remote,3.24,38500,30K-40K,0.0336,6,15.7,1,0.5,4,5,1,0
+EMP0031,37,Male,Customer Support,Customer Support Specialist,Mid,Manchester,Hybrid,0.94,38000,30K-40K,0.1729,6,32.3,1,0.6667,3,4,0,0
+EMP0032,41,Male,IT,Technology Director,Director,Birmingham,Hybrid,2.77,143500,100K+,0.0167,6,2.1,0,0.0,3,3,0,0
+EMP0033,40,Female,Finance,Accounts Assistant,Junior,Leeds,Hybrid,0.37,28000,Under 30K,0.2045,11,9.2,1,1.0,,,0,0
+EMP0034,40,Male,Operations,Senior Operations Specialist,Senior,Bristol,Hybrid,7.3,57500,50K-65K,0.1106,19,30.4,1,0.6667,2,3,0,0
+EMP0035,36,Female,Customer Support,Customer Support Specialist,Mid,Birmingham,Hybrid,7.74,29500,Under 30K,0.0122,4,12.0,1,1.0,4,5,0,0
+EMP0036,28,Male,Marketing,Marketing Manager,Manager,Manchester,Office,7.61,64000,50K-65K,0.0841,33,33.7,1,1.0,2,2,0,0
+EMP0037,31,Female,Customer Support,Customer Support Specialist,Mid,Leeds,Hybrid,7.24,32500,30K-40K,0.2011,49,25.1,1,0.5,4,4,0,0
+EMP0038,34,Male,Operations,Operations Assistant,Junior,Birmingham,Office,4.71,26000,Under 30K,0.0139,3,28.7,1,0.6667,4,4,0,0
+EMP0039,36,Female,Marketing,Marketing Assistant,Junior,Leeds,Office,5.61,22500,Under 30K,0.0372,9,9.8,1,1.0,4,4,0,0
+EMP0040,44,Female,Sales,Sales Executive,Mid,Leeds,Office,9.04,40000,40K-50K,0.1095,22,11.1,0,0.0,4,5,0,0
+EMP0041,54,Female,IT,Data Analyst,Mid,Bristol,Office,7.98,49000,40K-50K,0.1347,29,20.9,1,0.8,2,2,0,0
+EMP0042,22,Male,Sales,Sales Executive,Mid,Manchester,Office,9.32,37500,30K-40K,0.1702,52,7.2,1,1.0,2,3,0,0
+EMP0043,38,Male,Legal,Legal Assistant,Junior,London,Remote,1.12,41000,40K-50K,0.0304,6,26.6,1,1.0,3,3,0,0
+EMP0044,41,Female,Customer Support,Customer Support Specialist,Mid,Birmingham,Hybrid,2.72,36000,30K-40K,0.035,10,25.6,0,0.0,4,4,0,0
+EMP0045,27,Female,Operations,Operations Assistant,Junior,Edinburgh,Office,5.11,29000,Under 30K,0.0735,14,29.7,1,1.0,3,2,0,0
+EMP0046,38,Male,Finance,Accounts Assistant,Junior,Leeds,Office,2.78,32000,30K-40K,0.1007,22,4.6,1,1.0,4,4,1,0
+EMP0047,29,Female,Finance,Accounts Assistant,Junior,Leeds,Office,8.57,31000,30K-40K,0.0599,17,31.5,1,0.75,3,3,0,0
+EMP0048,37,Male,IT,Junior Software Developer,Junior,London,Office,0.57,41000,40K-50K,0.0298,1,52.6,1,0.6,2,2,0,1
+EMP0049,42,Female,Sales,Sales Development Representative,Junior,Bristol,Hybrid,6.03,28500,Under 30K,0.0737,23,37.8,1,0.5,4,3,0,0
+EMP0050,29,Female,Marketing,Marketing Assistant,Junior,Leeds,Remote,2.6,24500,Under 30K,0.0769,5,22.0,1,0.5,,,0,1
+EMP0051,43,Female,Finance,Finance Manager,Manager,Manchester,Remote,7.56,75500,65K-80K,0.1278,32,12.7,1,1.0,4,3,0,0
+EMP0052,31,Male,Operations,Operations Analyst,Mid,London,Remote,5.33,49000,40K-50K,0.0581,13,4.0,1,1.0,5,5,0,1
+EMP0053,43,Female,Marketing,Marketing Assistant,Junior,London,Hybrid,6.52,33500,30K-40K,0.07,13,39.3,0,0.3333,5,5,0,0
+EMP0054,45,Female,Customer Support,Senior Support Specialist,Senior,Edinburgh,Hybrid,0.65,48500,40K-50K,0.0401,5,15.4,1,1.0,3,4,0,0
+EMP0055,41,Female,Finance,Accounts Assistant,Junior,Birmingham,Hybrid,6.45,26000,Under 30K,0.0323,9,25.4,0,0.0,3,3,0,0
+EMP0056,37,Female,IT,Senior Data Engineer,Senior,Edinburgh,Hybrid,4.46,73500,65K-80K,0.1092,0,20.1,1,0.5,,,0,1
+EMP0057,42,Male,IT,Senior Data Engineer,Senior,Manchester,Office,1.63,75500,65K-80K,0.043,8,19.8,1,0.5,2,1,0,0
+EMP0058,28,Female,Sales,Senior Account Executive,Senior,Bristol,Office,2.05,66500,65K-80K,0.0702,18,21.0,1,0.5,2,3,0,0
+EMP0059,34,Not disclosed,HR,HR Assistant,Junior,Leeds,Office,8.45,28500,Under 30K,0.0613,18,8.3,1,1.0,5,5,0,0
+EMP0060,28,Other,Sales,Sales Executive,Mid,Manchester,Office,2.15,48000,40K-50K,0.1354,21,7.2,1,1.0,3,3,0,0
+EMP0061,35,Female,IT,Junior Software Developer,Junior,London,Office,9.17,37500,30K-40K,0.1205,38,10.4,1,1.0,5,4,1,0
+EMP0062,22,Female,Operations,Operations Analyst,Mid,Leeds,Hybrid,7.55,41000,40K-50K,0.0908,28,33.9,1,0.75,3,3,0,0
+EMP0063,34,Female,Customer Support,Customer Experience Director,Director,Bristol,Office,6.8,108500,100K+,0.0349,9,20.6,1,0.6667,3,3,0,0
+EMP0064,26,Male,Customer Support,Customer Support Specialist,Mid,Manchester,Office,4.23,39000,30K-40K,0.0827,24,35.3,1,0.5,4,4,0,0
+EMP0065,28,Female,Sales,Sales Executive,Mid,London,Hybrid,7.56,46500,40K-50K,0.1044,25,5.0,0,0.0,4,3,0,0
+EMP0066,27,Male,Customer Support,Customer Support Advisor,Junior,London,Office,1.54,31000,30K-40K,0.1377,24,32.2,1,0.5,5,5,0,0
+EMP0067,30,Other,IT,Data Analyst,Mid,Edinburgh,Hybrid,5.92,41000,40K-50K,0.2733,9,4.5,0,0.0,,,0,1
+EMP0068,31,Female,Sales,Sales Executive,Mid,Birmingham,Hybrid,6.5,38500,30K-40K,0.1724,43,4.6,1,1.0,3,3,0,0
+EMP0069,41,Male,IT,Senior Data Engineer,Senior,London,Remote,2.44,60500,50K-65K,0.2356,13,10.9,0,0.0,,,0,1
+EMP0070,34,Female,Customer Support,Customer Support Specialist,Mid,Birmingham,Office,4.86,35500,30K-40K,0.0216,8,8.4,1,0.5,3,3,0,0
+EMP0071,31,Male,Marketing,Marketing Executive,Mid,Manchester,Office,5.84,37000,30K-40K,0.1402,15,7.2,1,0.5,5,5,0,1
+EMP0072,28,Female,IT,Junior Software Developer,Junior,London,Office,0.55,34500,30K-40K,0.2216,14,14.5,0,0.0,3,3,0,1
+EMP0073,35,Not disclosed,Legal,Legal Assistant,Junior,Leeds,Office,0.76,34500,30K-40K,0.1979,15,29.2,0,0.3333,3,3,0,0
+EMP0074,46,Female,Sales,Sales Executive,Mid,Edinburgh,Office,1.75,48500,40K-50K,0.0147,2,11.0,1,0.5,3,3,0,0
+EMP0075,41,Female,Marketing,Marketing Executive,Mid,Manchester,Office,5.33,46000,40K-50K,0.0812,25,20.2,1,0.6667,4,4,0,0
+EMP0076,43,Female,Finance,Accounts Assistant,Junior,London,Hybrid,2.02,30500,30K-40K,0.1538,17,30.2,0,0.3333,,,0,1
+EMP0077,45,Male,IT,Junior Software Developer,Junior,Manchester,Hybrid,7.36,34000,30K-40K,0.0765,23,17.2,1,1.0,3,3,0,0
+EMP0078,40,Female,Marketing,Marketing Assistant,Junior,Birmingham,Office,0.34,26500,Under 30K,0.0555,5,19.4,0,0.0,,,0,0
+EMP0079,46,Female,Operations,Senior Operations Specialist,Senior,Edinburgh,Hybrid,4.77,59000,50K-65K,0.0263,6,6.0,0,0.0,2,2,0,0
+EMP0080,40,Male,Finance,Accounts Assistant,Junior,London,Hybrid,2.89,30500,30K-40K,0.0136,6,2.3,1,1.0,4,3,0,0
+EMP0081,49,Male,Operations,Senior Operations Specialist,Senior,Manchester,Remote,7.85,55500,50K-65K,0.0186,1,25.2,0,0.3333,4,4,0,0
+EMP0082,22,Male,Customer Support,Customer Support Specialist,Mid,Birmingham,Remote,1.19,40500,40K-50K,0.1833,17,8.8,1,0.5,3,3,0,0
+EMP0083,35,Female,Sales,Senior Account Executive,Senior,Bristol,Remote,6.56,57500,50K-65K,0.1998,39,39.2,1,0.8,3,3,0,0
+EMP0084,36,Female,Customer Support,Senior Support Specialist,Senior,London,Office,0.97,51000,50K-65K,0.0271,5,30.6,1,1.0,4,4,1,0
+EMP0085,22,Male,Marketing,Senior Marketing Specialist,Senior,London,Office,9.13,57500,50K-65K,0.1017,26,2.4,1,1.0,3,3,0,0
+EMP0086,40,Male,Operations,Senior Operations Specialist,Senior,Edinburgh,Hybrid,7.2,59000,50K-65K,0.2281,50,35.3,1,0.6667,2,2,0,0
+EMP0087,64,Female,Sales,Sales Executive,Mid,London,Remote,1.6,46000,40K-50K,0.109,14,12.0,1,1.0,3,5,0,0
+EMP0088,47,Male,Sales,Senior Account Executive,Senior,Leeds,Office,2.7,56500,50K-65K,0.0734,13,22.0,0,0.25,5,5,0,0
+EMP0089,34,Male,Marketing,Senior Marketing Specialist,Senior,Edinburgh,Office,4.61,49000,40K-50K,0.0186,3,24.5,1,0.5,4,4,0,0
+EMP0090,35,Female,Operations,Operations Analyst,Mid,Edinburgh,Remote,6.35,39500,30K-40K,0.0496,13,35.5,0,0.3333,4,3,0,0
+EMP0091,25,Female,Marketing,Marketing Manager,Manager,London,Hybrid,2.54,95500,80K-100K,0.0678,18,37.9,0,0.3333,2,2,0,0
+EMP0092,32,Male,IT,Data Analyst,Mid,Birmingham,Office,6.23,45000,40K-50K,0.0496,7,8.0,1,1.0,4,4,0,0
+EMP0093,38,Not disclosed,HR,HR Assistant,Junior,Bristol,Hybrid,1.26,27500,Under 30K,0.0114,2,19.9,1,0.5,2,2,0,0
+EMP0094,33,Male,Sales,Senior Account Executive,Senior,Bristol,Office,7.47,63500,50K-65K,0.034,11,15.8,0,0.0,2,2,0,0
+EMP0095,45,Male,Operations,Operations Assistant,Junior,Manchester,Hybrid,5.38,30000,30K-40K,0.0714,12,49.8,1,0.75,3,4,0,0
+EMP0096,47,Female,IT,Data Analyst,Mid,Edinburgh,Hybrid,5.29,39000,30K-40K,0.015,4,24.7,1,0.6667,4,5,0,0
+EMP0097,22,Female,IT,Data Analyst,Mid,Birmingham,Hybrid,1.04,43500,40K-50K,0.0178,0,25.6,1,0.6667,4,5,0,0
+EMP0098,45,Male,Customer Support,Customer Support Advisor,Junior,Birmingham,Remote,0.3,28500,Under 30K,0.1499,2,47.5,1,0.75,,,0,0
+EMP0099,22,Female,Sales,Sales Development Representative,Junior,London,Remote,2.41,34000,30K-40K,0.1397,31,27.2,1,0.5,3,4,0,0
+EMP0100,40,Female,IT,Data Analyst,Mid,Manchester,Office,9.39,40000,40K-50K,0.0615,12,8.1,1,0.5,5,4,1,0
+EMP0101,38,Female,Sales,Sales Development Representative,Junior,London,Hybrid,5.4,35000,30K-40K,0.0956,23,8.3,1,0.5,2,2,0,0
+EMP0102,43,Female,Marketing,Marketing Assistant,Junior,Bristol,Remote,9.31,31000,30K-40K,0.0918,24,28.0,1,1.0,2,3,0,1
+EMP0103,47,Male,Marketing,Marketing Executive,Mid,London,Hybrid,1.57,44000,40K-50K,0.0355,5,35.7,1,0.6,3,4,0,0
+EMP0104,26,Female,Customer Support,Customer Support Specialist,Mid,Bristol,Office,7.09,38500,30K-40K,0.0735,24,15.3,0,0.0,2,3,0,0
+EMP0105,32,Male,IT,Senior Data Engineer,Senior,Manchester,Remote,1.24,64500,50K-65K,0.0641,7,7.0,1,1.0,3,2,0,0
+EMP0106,52,Female,IT,Data Analyst,Mid,Birmingham,Office,5.23,42000,40K-50K,0.1108,28,24.9,1,0.5,3,3,0,0
+EMP0107,37,Male,HR,HR Business Partner,Senior,Leeds,Office,0.83,61000,50K-65K,0.0516,5,52.4,1,1.0,4,5,0,0
+EMP0108,39,Female,Legal,Legal Advisor,Mid,London,Office,4.79,44500,40K-50K,0.1457,40,63.0,1,0.8,3,4,0,0
+EMP0109,39,Female,IT,Technology Director,Director,London,Office,7.62,151500,100K+,0.0339,5,10.1,1,1.0,4,5,0,0
+EMP0110,63,Female,Customer Support,Customer Support Specialist,Mid,London,Hybrid,2.52,35000,30K-40K,0.0582,19,13.1,1,1.0,3,2,0,0
+EMP0111,25,Female,IT,Junior Software Developer,Junior,Edinburgh,Office,7.25,29000,Under 30K,0.025,5,3.4,0,0.0,3,2,0,0
+EMP0112,39,Not disclosed,Customer Support,Customer Support Specialist,Mid,Birmingham,Office,1.62,40000,40K-50K,0.0767,9,37.0,1,0.8,4,4,0,0
+EMP0113,42,Male,IT,IT Manager,Manager,London,Office,5.31,90000,80K-100K,0.1014,14,28.2,1,0.75,4,3,0,0
+EMP0114,38,Male,Finance,Finance Analyst,Mid,Birmingham,Hybrid,0.45,45500,40K-50K,0.0542,3,14.8,1,1.0,,,0,0
+EMP0115,39,Male,Operations,Operations Assistant,Junior,Birmingham,Remote,7.08,28000,Under 30K,0.0368,2,27.7,1,0.6667,2,2,0,0
+EMP0116,63,Not disclosed,Marketing,Marketing Manager,Manager,Manchester,Remote,0.82,87000,80K-100K,0.0501,3,34.3,1,1.0,1,1,0,0
+EMP0117,38,Male,Sales,Senior Account Executive,Senior,London,Remote,8.22,64000,50K-65K,0.1359,34,34.8,1,0.6667,5,5,0,0
+EMP0118,47,Female,Sales,Sales Executive,Mid,Leeds,Hybrid,4.62,46500,40K-50K,0.1087,26,13.4,1,1.0,4,4,0,0
+EMP0119,30,Male,Operations,Operations Manager,Manager,Birmingham,Hybrid,1.39,61500,50K-65K,0.0981,13,18.8,0,0.0,3,3,0,0
+EMP0120,25,Male,Operations,Operations Assistant,Junior,London,Remote,6.62,29000,Under 30K,0.0187,5,43.1,1,0.6667,3,4,0,0
+EMP0121,30,Female,IT,Data Analyst,Mid,Birmingham,Remote,5.91,38500,30K-40K,0.1377,37,40.6,1,1.0,3,3,0,0
+EMP0122,49,Female,Legal,Legal Assistant,Junior,London,Hybrid,5.98,40500,40K-50K,0.1274,28,3.6,1,1.0,3,3,0,0
+EMP0123,35,Female,Operations,Operations Assistant,Junior,Bristol,Remote,8.97,30000,30K-40K,0.0833,18,29.3,1,1.0,1,1,0,0
+EMP0124,58,Female,Customer Support,Senior Support Specialist,Senior,Leeds,Office,3.01,49000,40K-50K,0.2237,25,17.0,1,1.0,,,0,1
+EMP0125,45,Female,Finance,Accounts Assistant,Junior,London,Hybrid,2.52,29500,Under 30K,0.0928,17,29.8,1,0.5,5,5,0,0
+EMP0126,39,Male,Operations,Senior Operations Specialist,Senior,Bristol,Remote,6.72,52000,50K-65K,0.1961,51,14.6,1,1.0,4,5,0,0
+EMP0127,22,Male,Finance,Accounts Assistant,Junior,Leeds,Office,8.85,30500,30K-40K,0.0513,12,13.7,1,1.0,4,5,0,0
+EMP0128,30,Female,Operations,Operations Director,Director,London,Office,4.16,100000,100K+,0.0575,17,5.3,1,1.0,3,3,0,0
+EMP0129,25,Male,Customer Support,Senior Support Specialist,Senior,London,Hybrid,1.77,60500,50K-65K,0.1,21,20.3,1,1.0,2,2,0,0
+EMP0130,28,Female,Customer Support,Customer Support Specialist,Mid,London,Office,4.53,45000,40K-50K,0.0325,4,27.7,1,0.6667,2,2,0,1
+EMP0131,34,Male,HR,HR Business Partner,Senior,Edinburgh,Remote,0.72,61500,50K-65K,0.1082,10,18.8,1,1.0,2,3,0,0
+EMP0132,33,Male,Sales,Sales Development Representative,Junior,Birmingham,Hybrid,8.08,32500,30K-40K,0.0478,18,35.7,0,0.3333,4,4,1,0
+EMP0133,37,Female,HR,HR Advisor,Mid,Birmingham,Hybrid,0.45,32500,30K-40K,0.0152,2,14.8,0,0.0,,,0,0
+EMP0134,46,Female,HR,HR Business Partner,Senior,Birmingham,Hybrid,5.8,44500,40K-50K,0.0948,21,32.7,0,0.3333,5,5,1,0
+EMP0135,44,Male,Finance,Finance Manager,Manager,London,Remote,9.46,90500,80K-100K,0.0539,14,28.7,0,0.25,4,3,0,0
+EMP0136,37,Female,Customer Support,Customer Support Manager,Manager,Manchester,Hybrid,9.2,61500,50K-65K,0.0214,7,36.9,1,1.0,4,4,0,0
+EMP0137,53,Female,Customer Support,Senior Support Specialist,Senior,Edinburgh,Remote,0.8,52000,50K-65K,0.0457,8,31.2,1,1.0,3,4,0,0
+EMP0138,37,Female,IT,Junior Software Developer,Junior,Bristol,Office,4.13,35000,30K-40K,0.0856,22,23.0,1,1.0,4,4,0,0
+EMP0139,50,Female,Customer Support,Customer Support Specialist,Mid,Birmingham,Office,5.79,33500,30K-40K,0.0515,6,26.3,1,0.6667,5,5,0,0
+EMP0140,31,Female,IT,Data Analyst,Mid,Manchester,Remote,2.03,51500,50K-65K,0.0411,12,18.1,1,0.6667,4,5,0,0
+EMP0141,36,Male,Legal,Legal Manager,Manager,London,Remote,1.37,106000,100K+,0.1041,14,7.1,1,1.0,4,4,0,0
+EMP0142,32,Female,Sales,Sales Development Representative,Junior,Bristol,Office,9.38,30000,30K-40K,0.1316,33,3.2,1,1.0,3,2,0,0
+EMP0143,35,Female,Sales,Sales Executive,Mid,Manchester,Office,4.55,46000,40K-50K,0.0104,1,36.7,1,0.75,4,5,0,0
+EMP0144,34,Female,Sales,Senior Account Executive,Senior,Bristol,Office,1.38,64000,50K-65K,0.1245,14,11.2,1,0.5,4,4,0,0
+EMP0145,37,Male,Legal,Legal Assistant,Junior,Leeds,Remote,6.18,32500,30K-40K,0.0855,23,41.0,1,0.6,4,5,1,0
+EMP0146,26,Male,Customer Support,Customer Support Specialist,Mid,Bristol,Office,1.6,37000,30K-40K,0.0747,14,15.8,0,0.3333,4,4,0,0
+EMP0147,28,Female,Operations,Operations Assistant,Junior,London,Office,9.12,26500,Under 30K,0.115,25,34.3,1,0.75,3,3,0,0
+EMP0148,45,Male,IT,Junior Software Developer,Junior,Bristol,Hybrid,5.18,34500,30K-40K,0.0768,20,52.3,1,0.75,4,4,0,0
+EMP0149,37,Female,IT,Junior Software Developer,Junior,London,Hybrid,5.47,39500,30K-40K,0.101,28,14.7,1,0.6667,4,4,1,0
+EMP0150,53,Female,Finance,Finance Analyst,Mid,Birmingham,Remote,5.22,34000,30K-40K,0.0527,13,32.0,1,1.0,2,2,0,0
+EMP0151,36,Male,Sales,Sales Development Representative,Junior,Edinburgh,Office,0.34,30000,30K-40K,0.1676,4,7.0,1,0.5,,,0,0
+EMP0152,32,Not disclosed,Marketing,Senior Marketing Specialist,Senior,Edinburgh,Office,2.92,48500,40K-50K,0.1312,34,32.4,1,1.0,3,2,0,0
+EMP0153,26,Female,IT,Senior Data Engineer,Senior,Birmingham,Hybrid,7.54,63500,50K-65K,0.1352,30,31.7,1,0.75,3,2,0,1
+EMP0154,37,Female,Sales,Sales Executive,Mid,Manchester,Hybrid,8.06,47000,40K-50K,0.0737,19,20.9,0,0.3333,3,4,0,0
+EMP0155,25,Female,IT,Data Analyst,Mid,Birmingham,Office,7.74,43000,40K-50K,0.1092,23,19.0,0,0.0,4,3,0,1
+EMP0156,31,Female,Finance,Senior Finance Analyst,Senior,London,Office,8.0,71500,65K-80K,0.0497,12,1.2,0,0.0,3,3,0,0
+EMP0157,31,Male,IT,Junior Software Developer,Junior,Leeds,Office,8.46,26500,Under 30K,0.0681,13,7.1,0,0.0,3,3,0,0
+EMP0158,39,Female,Marketing,Senior Marketing Specialist,Senior,Manchester,Hybrid,7.0,64000,50K-65K,0.0677,22,41.3,1,1.0,2,1,0,0
+EMP0159,30,Female,Customer Support,Senior Support Specialist,Senior,Manchester,Hybrid,3.5,59500,50K-65K,0.1023,26,20.6,0,0.0,5,5,0,0
+EMP0160,33,Female,IT,Data Analyst,Mid,London,Remote,5.67,45000,40K-50K,0.1263,26,20.0,1,0.5,5,5,0,0
+EMP0161,39,Male,Sales,Sales Development Representative,Junior,London,Hybrid,6.54,30500,30K-40K,0.2078,41,7.4,1,1.0,3,5,0,0
+EMP0162,43,Female,Legal,Legal Assistant,Junior,Edinburgh,Hybrid,6.4,33500,30K-40K,0.1105,21,30.7,1,1.0,4,3,0,0
+EMP0163,46,Female,Sales,Sales Development Representative,Junior,Manchester,Office,7.69,30500,30K-40K,0.0641,22,6.0,1,1.0,3,4,0,0
+EMP0164,30,Female,Operations,Operations Analyst,Mid,Manchester,Office,1.1,41500,40K-50K,0.2,20,2.4,0,0.0,3,2,0,1
+EMP0165,39,Female,HR,HR Manager,Manager,Manchester,Remote,2.83,76000,65K-80K,0.0943,20,33.1,1,1.0,3,3,0,0
+EMP0166,30,Female,HR,HR Advisor,Mid,Edinburgh,Office,8.96,31500,30K-40K,0.1241,23,28.2,1,1.0,5,5,0,0
+EMP0167,31,Male,Finance,Accounts Assistant,Junior,Edinburgh,Hybrid,3.44,33500,30K-40K,0.1015,27,24.0,1,0.6667,4,5,0,0
+EMP0168,45,Male,Sales,Sales Development Representative,Junior,London,Office,2.4,35500,30K-40K,0.0953,18,11.5,0,0.0,4,3,0,0
+EMP0169,41,Female,Finance,Finance Manager,Manager,London,Hybrid,4.24,104500,100K+,0.0139,7,60.9,1,0.8,2,2,0,0
+EMP0170,44,Male,HR,HR Business Partner,Senior,London,Office,8.75,66000,65K-80K,0.0855,30,34.5,1,0.5,4,3,0,0
+EMP0171,47,Male,Operations,Senior Operations Specialist,Senior,Bristol,Hybrid,8.51,58500,50K-65K,0.1252,23,24.4,1,1.0,4,3,0,0
+EMP0172,23,Male,IT,Data Analyst,Mid,Manchester,Remote,5.02,37500,30K-40K,0.0257,7,8.0,1,1.0,3,4,0,0
+EMP0173,30,Male,IT,Data Analyst,Mid,London,Hybrid,6.59,41500,40K-50K,0.1638,30,41.4,1,0.75,4,3,0,0
+EMP0174,38,Female,HR,HR Assistant,Junior,Manchester,Hybrid,6.57,27500,Under 30K,0.1201,22,18.2,1,1.0,5,5,0,1
+EMP0175,34,Female,Finance,Accounts Assistant,Junior,Manchester,Hybrid,5.01,32000,30K-40K,0.1571,25,1.4,1,1.0,3,3,0,0
+EMP0176,34,Female,Customer Support,Customer Support Advisor,Junior,Bristol,Office,9.4,28500,Under 30K,0.0718,15,13.3,1,1.0,4,4,0,0
+EMP0177,31,Female,Sales,Sales Development Representative,Junior,Leeds,Remote,0.85,24500,Under 30K,0.0763,5,23.7,1,0.6667,2,1,0,0
+EMP0178,35,Female,IT,Junior Software Developer,Junior,Birmingham,Office,6.7,28000,Under 30K,0.0488,15,29.6,1,0.6667,2,1,0,0
+EMP0179,22,Female,Customer Support,Customer Support Manager,Manager,Bristol,Hybrid,7.18,59000,50K-65K,0.0369,7,41.3,1,1.0,3,2,0,0
+EMP0180,32,Female,Operations,Senior Operations Specialist,Senior,Manchester,Remote,9.48,47000,40K-50K,0.0826,15,16.5,1,0.6667,4,4,0,0
+EMP0181,30,Male,Operations,Senior Operations Specialist,Senior,Manchester,Office,5.32,57500,50K-65K,0.0599,12,25.3,1,1.0,4,5,0,0
+EMP0182,37,Male,Operations,Senior Operations Specialist,Senior,Birmingham,Hybrid,1.51,56000,50K-65K,0.0684,9,6.3,1,1.0,3,3,0,0
+EMP0183,54,Male,IT,Data Analyst,Mid,Bristol,Hybrid,2.9,52500,50K-65K,0.105,22,27.9,1,1.0,4,4,0,0
+EMP0184,46,Female,IT,Data Analyst,Mid,London,Office,9.04,41500,40K-50K,0.109,30,16.7,1,0.5,2,1,0,0
+EMP0185,50,Male,Sales,Sales Executive,Mid,Manchester,Hybrid,1.55,48500,40K-50K,0.0094,3,38.2,1,0.75,3,3,0,0
+EMP0186,47,Male,Customer Support,Customer Support Advisor,Junior,Edinburgh,Remote,1.68,23500,Under 30K,0.0939,15,1.2,1,1.0,4,4,0,0
+EMP0187,39,Male,Operations,Operations Analyst,Mid,Leeds,Remote,4.98,41000,40K-50K,0.1161,27,22.2,1,1.0,4,5,0,0
+EMP0188,23,Female,IT,Junior Software Developer,Junior,Edinburgh,Office,6.15,28500,Under 30K,0.0317,4,13.2,0,0.0,3,3,0,1
+EMP0189,36,Male,Sales,Sales Executive,Mid,Bristol,Hybrid,3.22,44000,40K-50K,0.168,60,7.1,1,1.0,3,3,0,0
+EMP0190,39,Male,Sales,Sales Development Representative,Junior,Bristol,Office,4.98,28500,Under 30K,0.187,29,6.9,0,0.0,4,4,1,1
+EMP0191,25,Male,HR,HR Assistant,Junior,Edinburgh,Remote,4.06,24000,Under 30K,0.0687,5,30.8,1,1.0,3,3,0,1
+EMP0192,22,Male,Sales,Sales Development Representative,Junior,Leeds,Office,7.77,25000,Under 30K,0.0258,6,23.8,1,0.6667,4,4,0,0
+EMP0193,45,Female,HR,HR Assistant,Junior,Manchester,Remote,3.11,23500,Under 30K,0.0791,26,6.5,1,1.0,3,4,0,0
+EMP0194,36,Male,Operations,Senior Operations Specialist,Senior,Edinburgh,Hybrid,1.56,53500,50K-65K,0.1144,29,9.7,1,0.5,4,4,1,0
+EMP0195,44,Female,Legal,Legal Advisor,Mid,Leeds,Hybrid,7.73,50000,50K-65K,0.2025,50,33.2,1,0.75,3,3,0,0
+EMP0196,43,Male,IT,Data Analyst,Mid,London,Office,0.28,47500,40K-50K,0.0568,1,33.7,1,1.0,,,0,0
+EMP0197,37,Male,Operations,Senior Operations Specialist,Senior,Manchester,Hybrid,0.52,48000,40K-50K,0.0189,3,3.0,1,1.0,,,0,0
+EMP0198,42,Female,HR,HR Assistant,Junior,Birmingham,Hybrid,5.62,24000,Under 30K,0.0428,9,15.3,1,1.0,4,5,0,0
+EMP0199,40,Male,Finance,Finance Analyst,Mid,London,Hybrid,6.88,51500,50K-65K,0.0598,17,20.3,1,0.5,5,5,0,0
+EMP0200,31,Male,IT,Senior Data Engineer,Senior,Manchester,Hybrid,2.27,54500,50K-65K,0.0671,15,45.5,1,0.75,3,3,0,1
+EMP0201,42,Female,Sales,Sales Executive,Mid,Manchester,Hybrid,5.41,46000,40K-50K,0.0215,3,12.8,1,1.0,3,4,0,0
+EMP0202,35,Female,Marketing,Marketing Assistant,Junior,London,Office,9.48,36000,30K-40K,0.0552,18,25.5,1,1.0,4,3,0,0
+EMP0203,46,Male,Sales,Sales Development Representative,Junior,Birmingham,Hybrid,3.71,27000,Under 30K,0.0821,12,5.5,1,1.0,3,2,0,0
+EMP0204,36,Male,Operations,Operations Analyst,Mid,Manchester,Remote,6.65,39500,30K-40K,0.1407,35,46.8,1,0.8,4,4,0,0
+EMP0205,40,Male,Finance,Finance Manager,Manager,Birmingham,Hybrid,4.86,73000,65K-80K,0.0644,15,15.8,1,1.0,2,2,0,0
+EMP0206,44,Female,Finance,Finance Manager,Manager,London,Hybrid,2.83,79000,65K-80K,0.0354,8,7.9,1,1.0,2,3,0,0
+EMP0207,40,Female,IT,Junior Software Developer,Junior,Manchester,Office,4.62,29000,Under 30K,0.173,38,18.7,1,1.0,4,4,0,0
+EMP0208,32,Female,HR,HR Assistant,Junior,Manchester,Remote,5.55,23500,Under 30K,0.0273,7,10.3,1,0.5,4,3,0,0
+EMP0209,32,Female,IT,Junior Software Developer,Junior,Manchester,Office,7.03,28500,Under 30K,0.0625,13,10.9,1,1.0,3,3,0,0
+EMP0210,48,Female,Customer Support,Senior Support Specialist,Senior,Edinburgh,Hybrid,1.05,51000,50K-65K,0.0854,13,28.3,0,0.3333,4,3,0,0
+EMP0211,46,Female,Customer Support,Customer Support Specialist,Mid,London,Office,2.8,47500,40K-50K,0.0398,8,46.4,1,0.75,5,5,0,0
+EMP0212,53,Male,Finance,Finance Analyst,Mid,London,Hybrid,1.0,42500,40K-50K,0.0467,11,17.7,1,0.75,3,3,0,0
+EMP0213,35,Female,Sales,Senior Account Executive,Senior,Manchester,Hybrid,3.74,52000,50K-65K,0.1852,37,36.0,1,1.0,3,3,0,0
+EMP0214,40,Male,Sales,Senior Account Executive,Senior,Birmingham,Office,2.85,63000,50K-65K,0.058,20,12.4,0,0.0,4,4,0,0
+EMP0215,26,Female,IT,IT Manager,Manager,Leeds,Remote,8.07,83000,80K-100K,0.0239,5,7.6,0,0.0,4,4,0,0
+EMP0216,38,Male,Operations,Senior Operations Specialist,Senior,Manchester,Hybrid,4.21,51500,50K-65K,0.0487,8,12.8,1,1.0,4,5,1,1
+EMP0217,30,Male,HR,HR Advisor,Mid,London,Hybrid,5.8,45500,40K-50K,0.0898,17,12.9,1,1.0,2,2,0,0
+EMP0218,37,Male,IT,Technology Director,Director,Birmingham,Remote,2.97,120000,100K+,0.1225,28,23.2,1,1.0,2,2,0,0
+EMP0219,34,Female,IT,Junior Software Developer,Junior,Bristol,Office,1.43,27500,Under 30K,0.1921,19,27.2,1,1.0,4,3,0,1
+EMP0220,41,Female,IT,Junior Software Developer,Junior,Birmingham,Office,7.8,26000,Under 30K,0.0973,16,29.2,1,1.0,4,4,0,0
+EMP0221,36,Male,Operations,Operations Assistant,Junior,London,Hybrid,3.38,33500,30K-40K,0.0046,1,27.2,0,0.0,4,4,0,0
+EMP0222,26,Female,Sales,Sales Executive,Mid,Bristol,Office,0.57,38500,30K-40K,0.1254,5,6.7,0,0.0,3,3,0,0
+EMP0223,41,Not disclosed,IT,Senior Data Engineer,Senior,Bristol,Office,1.5,59000,50K-65K,0.0485,5,40.3,1,0.75,4,3,0,0
+EMP0224,40,Male,Finance,Accounts Assistant,Junior,London,Hybrid,5.34,35000,30K-40K,0.0415,9,7.0,0,0.0,4,5,0,0
+EMP0225,38,Male,IT,Data Analyst,Mid,Leeds,Office,3.71,50000,50K-65K,0.1727,40,7.9,1,0.5,4,3,0,0
+EMP0226,50,Male,Customer Support,Customer Support Manager,Manager,London,Remote,1.66,67500,65K-80K,0.1016,11,38.1,0,0.3333,4,4,0,0
+EMP0227,42,Male,Customer Support,Customer Support Advisor,Junior,London,Hybrid,0.85,33000,30K-40K,0.0,1,17.5,1,1.0,,,0,1
+EMP0228,28,Female,Marketing,Marketing Executive,Mid,London,Hybrid,7.91,48000,40K-50K,0.0446,20,28.9,1,0.5,3,4,0,0
+EMP0229,30,Male,Sales,Senior Account Executive,Senior,Birmingham,Hybrid,7.81,63500,50K-65K,0.0508,7,10.0,0,0.0,4,4,1,0
+EMP0230,38,Male,Finance,Finance Analyst,Mid,London,Hybrid,2.26,48500,40K-50K,0.0722,18,9.8,1,1.0,3,2,0,0
+EMP0231,22,Female,Sales,Sales Development Representative,Junior,Manchester,Remote,4.12,30500,30K-40K,0.1998,58,19.1,0,0.3333,5,5,0,0
+EMP0232,41,Female,IT,Data Analyst,Mid,London,Remote,3.33,51500,50K-65K,0.1156,29,16.0,1,1.0,3,3,0,0
+EMP0233,36,Female,Finance,Senior Finance Analyst,Senior,Edinburgh,Office,3.45,50000,50K-65K,0.0385,10,20.7,1,0.5,2,2,0,0
+EMP0234,35,Male,Sales,Senior Account Executive,Senior,London,Office,1.56,80000,80K-100K,0.1215,17,34.3,1,1.0,5,5,0,0
+EMP0235,49,Female,Finance,Finance Analyst,Mid,Manchester,Office,4.0,43000,40K-50K,0.0119,7,37.5,1,1.0,4,5,0,0
+EMP0236,28,Male,Customer Support,Senior Support Specialist,Senior,Birmingham,Hybrid,4.36,55000,50K-65K,0.0766,12,29.5,1,1.0,3,4,0,0
+EMP0237,37,Female,Legal,Legal Advisor,Mid,Manchester,Office,2.72,43000,40K-50K,0.0807,20,8.4,1,1.0,4,4,0,0
+EMP0238,37,Not disclosed,Sales,Sales Executive,Mid,Bristol,Office,9.15,42500,40K-50K,0.1288,27,4.7,1,0.5,3,3,0,0
+EMP0239,39,Female,Operations,Senior Operations Specialist,Senior,Bristol,Remote,4.77,63000,50K-65K,0.0514,10,19.2,0,0.3333,4,3,0,0
+EMP0240,33,Female,Marketing,Senior Marketing Specialist,Senior,Edinburgh,Remote,6.49,62000,50K-65K,0.1121,24,23.3,1,1.0,3,3,0,0
+EMP0241,35,Male,Marketing,Marketing Executive,Mid,London,Remote,8.47,46500,40K-50K,0.027,9,19.0,1,1.0,4,4,0,0
+EMP0242,41,Female,Operations,Operations Assistant,Junior,London,Office,9.13,28500,Under 30K,0.1149,27,26.2,1,1.0,3,2,0,0
+EMP0243,41,Male,Customer Support,Customer Support Advisor,Junior,Birmingham,Office,5.13,21500,Under 30K,0.1847,40,25.9,0,0.0,4,3,0,1
+EMP0244,29,Male,Finance,Accounts Assistant,Junior,London,Office,9.06,36500,30K-40K,0.1023,13,16.7,0,0.3333,5,4,0,0
+EMP0245,51,Male,Marketing,Marketing Executive,Mid,Birmingham,Hybrid,5.42,36500,30K-40K,0.1445,29,40.1,1,1.0,3,3,0,1
+EMP0246,39,Female,IT,Data Analyst,Mid,London,Hybrid,3.78,42500,40K-50K,0.0324,4,11.8,0,0.0,2,2,0,0
+EMP0247,54,Male,Operations,Operations Assistant,Junior,London,Hybrid,0.53,29000,Under 30K,0.0905,5,22.2,1,0.5,,,0,1
+EMP0248,37,Male,IT,Data Analyst,Mid,Edinburgh,Office,4.79,51000,50K-65K,0.0593,16,40.1,1,0.5,3,4,0,0
+EMP0249,43,Female,HR,HR Assistant,Junior,Manchester,Office,6.61,31500,30K-40K,0.121,29,19.9,0,0.0,5,5,0,0
+EMP0250,38,Male,Sales,Sales Development Representative,Junior,London,Hybrid,5.42,30500,30K-40K,0.0689,17,25.7,1,1.0,3,2,0,0
+EMP0251,45,Male,Customer Support,Customer Support Specialist,Mid,London,Office,3.24,44000,40K-50K,0.1115,21,26.5,1,1.0,3,3,0,1
+EMP0252,39,Female,Operations,Senior Operations Specialist,Senior,Manchester,Remote,8.35,49500,40K-50K,0.038,9,33.0,0,0.3333,4,5,0,0
+EMP0253,45,Female,Operations,Senior Operations Specialist,Senior,London,Office,3.61,52500,50K-65K,0.0924,23,37.7,1,0.75,3,3,0,0
+EMP0254,45,Male,Marketing,Marketing Assistant,Junior,Leeds,Hybrid,7.42,28000,Under 30K,0.1973,57,22.2,1,0.6667,5,5,0,0
+EMP0255,44,Female,Legal,Legal Assistant,Junior,London,Hybrid,5.01,33500,30K-40K,0.072,24,32.2,1,1.0,3,2,0,0
+EMP0256,48,Female,Operations,Operations Assistant,Junior,London,Hybrid,6.47,34000,30K-40K,0.0794,14,26.7,1,0.75,4,5,0,0
+EMP0257,37,Male,Sales,Senior Account Executive,Senior,Birmingham,Hybrid,8.06,55500,50K-65K,0.0956,23,10.7,0,0.0,4,3,0,0
+EMP0258,28,Male,Operations,Senior Operations Specialist,Senior,London,Hybrid,7.37,57500,50K-65K,0.0171,1,13.7,0,0.0,3,3,0,0
+EMP0259,36,Female,Sales,Sales Development Representative,Junior,Birmingham,Hybrid,1.35,29500,Under 30K,0.2278,22,31.2,1,0.6667,3,2,0,0
+EMP0260,27,Female,IT,Junior Software Developer,Junior,Edinburgh,Office,0.77,29500,Under 30K,0.0273,1,10.6,0,0.0,,,0,1
+EMP0261,48,Female,Marketing,Senior Marketing Specialist,Senior,Birmingham,Hybrid,4.53,49000,40K-50K,0.0555,9,25.3,1,1.0,2,2,0,0
+EMP0262,33,Male,IT,Senior Data Engineer,Senior,Manchester,Office,9.42,73000,65K-80K,0.0933,16,11.9,1,1.0,4,5,0,0
+EMP0263,40,Female,Marketing,Marketing Assistant,Junior,Edinburgh,Office,0.35,24500,Under 30K,0.0182,0,17.5,1,1.0,,,0,0
+EMP0264,50,Female,Sales,Sales Development Representative,Junior,Edinburgh,Hybrid,6.92,29000,Under 30K,0.1441,40,31.7,1,0.6667,3,3,0,0
+EMP0265,39,Female,IT,Data Analyst,Mid,London,Remote,5.61,59000,50K-65K,0.1415,38,15.1,1,1.0,3,2,0,0
+EMP0266,25,Male,IT,Data Analyst,Mid,London,Hybrid,7.96,47000,40K-50K,0.0904,18,24.9,1,0.75,3,3,0,0
+EMP0267,41,Female,IT,Senior Data Engineer,Senior,Manchester,Hybrid,9.1,63500,50K-65K,0.1367,29,17.9,1,0.6667,2,1,0,0
+EMP0268,34,Female,Customer Support,Senior Support Specialist,Senior,Birmingham,Office,1.71,57000,50K-65K,0.0774,13,14.6,1,1.0,1,1,0,0
+EMP0269,30,Male,Marketing,Marketing Executive,Mid,Edinburgh,Remote,3.44,42000,40K-50K,0.2051,58,1.8,1,1.0,2,2,0,0
+EMP0270,38,Female,HR,HR Advisor,Mid,Birmingham,Hybrid,0.9,31000,30K-40K,0.1056,0,20.6,1,0.75,,,0,1
+EMP0271,45,Other,Marketing,Marketing Executive,Mid,Leeds,Hybrid,7.91,37000,30K-40K,0.0599,20,49.7,1,0.6,2,1,0,0
+EMP0272,58,Female,Marketing,Marketing Executive,Mid,London,Office,4.26,38000,30K-40K,0.201,54,27.3,1,0.75,3,3,0,0
+EMP0273,45,Female,Operations,Senior Operations Specialist,Senior,London,Office,8.13,58500,50K-65K,0.1341,29,44.3,1,0.5,5,5,0,1
+EMP0274,35,Female,Operations,Senior Operations Specialist,Senior,Bristol,Hybrid,7.69,58000,50K-65K,0.191,54,30.8,1,1.0,4,5,0,0
+EMP0275,43,Male,Customer Support,Customer Support Manager,Manager,Manchester,Hybrid,7.84,75000,65K-80K,0.0489,18,3.7,1,1.0,4,2,0,0
+EMP0276,29,Female,Marketing,Marketing Manager,Manager,Birmingham,Hybrid,7.24,67500,65K-80K,0.1745,46,10.5,0,0.0,5,5,0,0
+EMP0277,42,Female,Sales,Sales Executive,Mid,Birmingham,Office,0.93,39500,30K-40K,0.1846,15,28.4,1,0.5,4,4,0,0
+EMP0278,41,Female,Operations,Senior Operations Specialist,Senior,London,Office,3.01,66500,65K-80K,0.1617,30,24.8,1,0.75,4,4,0,0
+EMP0279,35,Male,Sales,Sales Manager,Manager,Leeds,Hybrid,0.64,79500,65K-80K,0.207,16,11.4,1,1.0,3,2,0,1
+EMP0280,47,Male,Customer Support,Customer Support Specialist,Mid,London,Remote,3.43,43500,40K-50K,0.1389,46,10.8,1,1.0,4,3,0,0
+EMP0281,24,Female,Sales,Sales Executive,Mid,Edinburgh,Hybrid,4.64,40000,40K-50K,0.1439,45,16.2,1,0.5,3,4,0,1
+EMP0282,41,Male,Sales,Sales Development Representative,Junior,London,Remote,6.4,30000,30K-40K,0.1961,46,17.6,1,1.0,4,3,0,0
+EMP0283,51,Male,Operations,Operations Manager,Manager,Bristol,Remote,5.36,77500,65K-80K,0.2127,53,26.0,1,1.0,5,4,0,0
+EMP0284,30,Male,Legal,Legal Advisor,Mid,Bristol,Hybrid,9.44,47000,40K-50K,0.0371,7,4.5,0,0.0,5,5,0,0
+EMP0285,39,Female,Operations,Operations Assistant,Junior,Bristol,Hybrid,8.59,28000,Under 30K,0.026,8,5.4,1,1.0,3,3,0,0
+EMP0286,55,Female,Customer Support,Customer Support Manager,Manager,Bristol,Office,6.58,72000,65K-80K,0.0583,14,18.5,1,1.0,5,5,1,0
+EMP0287,46,Female,IT,IT Manager,Manager,Manchester,Office,3.98,75500,65K-80K,0.0822,21,42.1,1,0.5,3,3,0,0
+EMP0288,48,Female,Marketing,Senior Marketing Specialist,Senior,London,Remote,6.29,71000,65K-80K,0.1264,39,8.0,1,0.6667,3,3,0,0
+EMP0289,43,Male,IT,Data Analyst,Mid,London,Remote,3.89,47000,40K-50K,0.1476,16,45.6,1,1.0,2,2,0,1
+EMP0290,31,Female,Finance,Accounts Assistant,Junior,Edinburgh,Office,7.68,33000,30K-40K,0.1736,31,5.4,0,0.0,3,4,0,0
+EMP0291,31,Male,Marketing,Marketing Executive,Mid,Leeds,Hybrid,6.75,37500,30K-40K,0.1377,31,16.5,1,0.6667,4,4,0,0
+EMP0292,34,Female,IT,Junior Software Developer,Junior,Bristol,Remote,8.96,32000,30K-40K,0.16,46,17.7,1,0.5,3,4,0,0
+EMP0293,36,Male,HR,HR Advisor,Mid,Manchester,Hybrid,3.82,42000,40K-50K,0.0566,8,52.4,1,0.75,3,4,0,0
+EMP0294,38,Male,HR,HR Advisor,Mid,Manchester,Hybrid,3.69,34500,30K-40K,0.0454,7,39.3,1,1.0,2,2,0,0
+EMP0295,35,Male,Operations,Operations Assistant,Junior,Leeds,Hybrid,8.28,24000,Under 30K,0.0991,23,5.8,1,1.0,4,3,0,0
+EMP0296,46,Male,Finance,Finance Analyst,Mid,Leeds,Hybrid,7.88,42000,40K-50K,0.1023,25,26.6,1,1.0,4,4,0,0
+EMP0297,42,Male,Sales,Sales Development Representative,Junior,Edinburgh,Remote,8.59,25000,Under 30K,0.1294,26,20.1,1,0.5,4,3,0,0
+EMP0298,33,Male,Finance,Accounts Assistant,Junior,Bristol,Remote,2.37,25500,Under 30K,0.0816,19,25.5,1,0.75,4,4,0,0
+EMP0299,41,Male,Customer Support,Customer Support Advisor,Junior,Edinburgh,Hybrid,5.05,26500,Under 30K,0.1059,10,1.5,1,1.0,3,2,0,1
+EMP0300,43,Female,Operations,Senior Operations Specialist,Senior,London,Hybrid,7.26,53500,50K-65K,0.0982,21,40.8,1,0.6,5,5,1,0
+EMP0301,43,Male,Customer Support,Customer Support Advisor,Junior,Birmingham,Office,4.37,26500,Under 30K,0.0567,6,9.4,1,1.0,5,4,1,0
+EMP0302,35,Female,Operations,Senior Operations Specialist,Senior,Birmingham,Remote,5.63,56000,50K-65K,0.1172,28,24.5,1,1.0,3,3,0,0
+EMP0303,55,Male,Operations,Operations Analyst,Mid,Leeds,Office,5.67,40000,40K-50K,0.0156,2,9.2,0,0.3333,3,3,0,0
+EMP0304,35,Female,Sales,Senior Account Executive,Senior,Birmingham,Office,5.08,52500,50K-65K,0.0216,9,30.4,1,1.0,3,3,0,0
+EMP0305,42,Not disclosed,Customer Support,Customer Support Advisor,Junior,London,Office,4.7,29000,Under 30K,0.2032,51,38.7,1,0.6,3,2,0,0
+EMP0306,22,Female,IT,Data Analyst,Mid,London,Office,3.83,44500,40K-50K,0.1213,23,2.7,0,0.0,4,4,0,0
+EMP0307,36,Male,Finance,Finance Manager,Manager,Birmingham,Hybrid,2.25,69000,65K-80K,0.0821,24,14.4,1,1.0,5,4,0,0
+EMP0308,39,Male,Sales,Sales Development Representative,Junior,Edinburgh,Office,7.03,30000,30K-40K,0.0909,21,17.5,1,1.0,3,3,0,0
+EMP0309,41,Male,Operations,Operations Manager,Manager,London,Remote,7.17,78000,65K-80K,0.0661,14,42.6,1,0.75,3,3,0,0
+EMP0310,45,Female,HR,HR Business Partner,Senior,Manchester,Hybrid,5.22,46500,40K-50K,0.0689,14,28.1,1,1.0,3,3,0,0
+EMP0311,39,Male,Sales,Senior Account Executive,Senior,London,Hybrid,9.06,69000,65K-80K,0.168,35,20.5,1,1.0,1,1,0,0
+EMP0312,47,Female,Operations,Operations Analyst,Mid,London,Hybrid,8.48,47000,40K-50K,0.0645,20,24.6,1,1.0,2,1,0,0
+EMP0313,42,Male,Finance,Accounts Assistant,Junior,Manchester,Hybrid,1.37,32500,30K-40K,0.1244,27,18.2,1,0.6667,5,5,0,1
+EMP0314,55,Male,Finance,Finance Manager,Manager,Bristol,Remote,0.88,72000,65K-80K,0.2071,18,13.4,1,1.0,5,5,1,0
+EMP0315,39,Female,HR,HR Business Partner,Senior,Edinburgh,Hybrid,6.36,49000,40K-50K,0.0466,0,9.0,1,1.0,,,0,1
+EMP0316,62,Male,IT,Data Analyst,Mid,London,Hybrid,4.95,45500,40K-50K,0.0628,15,23.1,1,0.6667,3,3,0,0
+EMP0317,24,Female,Customer Support,Customer Support Advisor,Junior,London,Hybrid,2.03,28500,Under 30K,0.0111,2,35.8,1,0.75,5,5,1,0
+EMP0318,49,Male,IT,Junior Software Developer,Junior,Birmingham,Office,5.49,35000,30K-40K,0.0658,18,6.7,0,0.0,5,5,0,0
+EMP0319,33,Female,Finance,Finance Manager,Manager,London,Office,4.83,79000,65K-80K,0.1501,16,37.9,1,0.6667,5,5,1,1
+EMP0320,52,Male,Sales,Sales Development Representative,Junior,Manchester,Office,3.52,31000,30K-40K,0.083,19,23.0,1,1.0,4,4,0,0
+EMP0321,47,Female,Marketing,Marketing Assistant,Junior,London,Remote,6.31,32000,30K-40K,0.098,8,23.8,0,0.0,4,4,0,0
+EMP0322,32,Not disclosed,Operations,Operations Analyst,Mid,Manchester,Hybrid,1.92,41500,40K-50K,0.1548,23,19.4,0,0.3333,2,3,0,0
+EMP0323,37,Female,Marketing,Senior Marketing Specialist,Senior,London,Hybrid,4.85,65000,65K-80K,0.0573,24,27.4,1,0.6667,4,4,0,0
+EMP0324,29,Male,Sales,Sales Development Representative,Junior,Birmingham,Hybrid,3.59,26000,Under 30K,0.1692,11,3.1,1,1.0,,,0,1
+EMP0325,54,Male,Sales,Sales Executive,Mid,London,Hybrid,4.21,50000,50K-65K,0.0308,13,24.4,1,0.6667,2,2,0,0
+EMP0326,60,Female,Marketing,Marketing Executive,Mid,Edinburgh,Remote,5.0,35000,30K-40K,0.1163,18,14.3,1,1.0,4,4,0,0
+EMP0327,45,Female,Sales,Sales Executive,Mid,London,Office,3.37,52000,50K-65K,0.0694,17,20.1,1,1.0,3,3,0,0
+EMP0328,46,Male,Operations,Operations Manager,Manager,Edinburgh,Remote,1.76,76500,65K-80K,0.004,2,36.2,0,0.3333,3,3,0,1
+EMP0329,33,Female,Customer Support,Customer Support Manager,Manager,London,Hybrid,2.9,78000,65K-80K,0.0063,3,37.1,1,0.5,4,4,0,0
+EMP0330,38,Female,Marketing,Marketing Manager,Manager,Birmingham,Hybrid,5.51,69000,65K-80K,0.1587,36,16.0,1,1.0,3,3,0,0
+EMP0331,42,Male,Operations,Senior Operations Specialist,Senior,Edinburgh,Hybrid,4.83,51500,50K-65K,0.1067,23,23.6,1,0.6667,3,3,0,0
+EMP0332,46,Female,IT,Senior Data Engineer,Senior,Bristol,Office,5.56,57000,50K-65K,0.077,10,32.9,1,0.6667,3,2,0,1
+EMP0333,45,Female,Finance,Finance Director,Director,London,Office,8.25,139000,100K+,0.0881,33,30.8,1,0.5,3,4,0,0
+EMP0334,35,Male,Legal,Legal Assistant,Junior,Birmingham,Office,5.45,36000,30K-40K,0.1266,29,47.3,0,0.0,3,3,0,0
+EMP0335,36,Female,HR,HR Assistant,Junior,Manchester,Hybrid,5.37,23500,Under 30K,0.2102,43,18.3,0,0.0,3,2,0,0
+EMP0336,33,Female,Operations,Operations Analyst,Mid,Leeds,Hybrid,4.91,34000,30K-40K,0.0476,9,20.3,1,0.6667,2,1,0,0
+EMP0337,34,Male,Customer Support,Customer Support Advisor,Junior,Leeds,Remote,3.83,28000,Under 30K,0.1734,31,45.0,1,0.75,3,3,0,0
+EMP0338,61,Male,Legal,Legal Manager,Manager,London,Hybrid,7.06,105000,100K+,0.0926,29,11.4,1,1.0,4,4,0,0
+EMP0339,29,Male,Customer Support,Senior Support Specialist,Senior,London,Remote,4.13,64000,50K-65K,0.1158,32,2.1,1,1.0,3,3,0,0
+EMP0340,35,Female,HR,HR Assistant,Junior,Manchester,Remote,4.71,23500,Under 30K,0.1859,51,26.9,1,0.8,3,3,0,0
+EMP0341,29,Male,Sales,Sales Manager,Manager,Birmingham,Office,4.27,83500,80K-100K,0.1717,47,42.9,1,0.8,3,3,0,0
+EMP0342,47,Female,Marketing,Marketing Executive,Mid,London,Remote,4.13,44500,40K-50K,0.0916,15,25.0,0,0.0,3,4,0,0
+EMP0343,37,Male,Customer Support,Senior Support Specialist,Senior,Leeds,Office,9.46,57500,50K-65K,0.0808,10,18.8,1,0.5,1,1,0,0
+EMP0344,45,Female,Finance,Finance Analyst,Mid,London,Hybrid,7.43,41000,40K-50K,0.1705,42,38.9,1,0.6667,3,1,0,0
+EMP0345,40,Female,Operations,Operations Analyst,Mid,London,Hybrid,3.51,45500,40K-50K,0.135,27,5.5,1,0.5,5,5,0,0
+EMP0346,37,Male,Marketing,Marketing Assistant,Junior,Bristol,Office,8.56,23500,Under 30K,0.0639,20,24.7,0,0.3333,3,2,0,0
+EMP0347,22,Male,Operations,Operations Analyst,Mid,Manchester,Remote,7.11,42500,40K-50K,0.1898,48,33.0,1,1.0,4,4,0,0
+EMP0348,22,Female,Customer Support,Customer Support Advisor,Junior,Manchester,Hybrid,1.8,23500,Under 30K,0.0796,15,24.0,1,0.75,2,2,0,0
+EMP0349,52,Female,Sales,Sales Development Representative,Junior,Leeds,Hybrid,0.36,25000,Under 30K,0.0191,1,4.0,1,1.0,,,0,0
+EMP0350,35,Male,Customer Support,Senior Support Specialist,Senior,Bristol,Hybrid,5.96,49500,40K-50K,0.1485,36,24.9,0,0.3333,3,3,0,0
+EMP0351,49,Male,Finance,Finance Director,Director,London,Hybrid,3.91,126000,100K+,0.1158,35,3.1,1,1.0,3,1,0,0
+EMP0352,41,Male,Customer Support,Customer Support Specialist,Mid,London,Hybrid,7.22,34000,30K-40K,0.0501,6,11.9,0,0.0,4,4,0,0
+EMP0353,32,Male,IT,Technology Director,Director,Birmingham,Hybrid,6.18,131500,100K+,0.0802,23,11.2,1,1.0,3,4,0,0
+EMP0354,35,Female,Sales,Senior Account Executive,Senior,Birmingham,Hybrid,5.43,59500,50K-65K,0.0766,2,13.6,1,1.0,,,0,1
+EMP0355,30,Male,Finance,Finance Analyst,Mid,Manchester,Office,1.43,38000,30K-40K,0.1888,5,39.4,1,0.6667,,,0,1
+EMP0356,35,Male,Operations,Operations Analyst,Mid,Birmingham,Office,5.85,31500,30K-40K,0.0468,3,7.0,1,0.5,,,0,1
+EMP0357,34,Female,Sales,Sales Manager,Manager,Edinburgh,Hybrid,8.19,75000,65K-80K,0.0219,7,39.2,1,0.5,5,5,0,0
+EMP0358,26,Male,HR,HR Business Partner,Senior,Birmingham,Hybrid,6.23,48000,40K-50K,0.0632,9,32.2,0,0.0,3,3,0,0
+EMP0359,48,Male,Marketing,Marketing Executive,Mid,Birmingham,Hybrid,8.24,34000,30K-40K,0.0889,20,10.9,1,0.6667,3,4,0,1
+EMP0360,30,Male,Operations,Operations Director,Director,Manchester,Hybrid,2.59,120000,100K+,0.1433,30,7.3,1,1.0,4,4,0,0
+EMP0361,51,Female,Sales,Sales Manager,Manager,Manchester,Remote,4.14,86500,80K-100K,0.2029,61,14.7,1,1.0,4,5,0,0
+EMP0362,26,Female,Operations,Senior Operations Specialist,Senior,Leeds,Hybrid,0.47,46500,40K-50K,0.0231,2,17.0,1,0.5,,,0,0
+EMP0363,34,Female,Finance,Finance Analyst,Mid,Birmingham,Office,2.28,39000,30K-40K,0.0529,14,20.8,1,1.0,4,4,0,0
+EMP0364,38,Female,Operations,Operations Analyst,Mid,Birmingham,Hybrid,8.96,32500,30K-40K,0.0725,20,19.2,1,1.0,3,1,0,0
+EMP0365,41,Male,IT,Data Analyst,Mid,Bristol,Hybrid,9.48,45000,40K-50K,0.138,30,19.1,1,1.0,3,3,0,0
+EMP0366,54,Not disclosed,Legal,Legal Advisor,Mid,Manchester,Office,7.15,48500,40K-50K,0.0608,22,25.3,1,1.0,4,4,0,0
+EMP0367,47,Male,Operations,Operations Assistant,Junior,London,Office,5.93,29500,Under 30K,0.0682,18,13.2,1,1.0,3,3,0,0
+EMP0368,37,Male,Marketing,Marketing Assistant,Junior,London,Office,1.94,33500,30K-40K,0.0219,7,21.0,1,1.0,3,4,0,0
+EMP0369,38,Female,Legal,Senior Legal Counsel,Senior,Bristol,Hybrid,2.43,71000,65K-80K,0.0189,5,29.9,1,0.6667,4,4,0,0
+EMP0370,25,Female,Sales,Sales Development Representative,Junior,Manchester,Office,6.97,25500,Under 30K,0.0274,6,22.4,1,1.0,4,3,0,0
+EMP0371,48,Female,Operations,Operations Assistant,Junior,Birmingham,Hybrid,1.39,25000,Under 30K,0.0977,11,28.8,1,0.75,4,4,0,0
+EMP0372,51,Male,Finance,Accounts Assistant,Junior,Leeds,Office,2.35,25000,Under 30K,0.1672,61,13.6,1,1.0,3,3,0,0
+EMP0373,41,Male,Legal,Legal Assistant,Junior,London,Hybrid,2.05,41500,40K-50K,0.0374,6,19.3,0,0.0,3,3,0,0
+EMP0374,31,Female,Finance,Finance Director,Director,Edinburgh,Office,3.06,109000,100K+,0.1005,16,21.1,0,0.25,2,3,0,0
+EMP0375,44,Male,Legal,Legal Assistant,Junior,Bristol,Hybrid,9.44,37000,30K-40K,0.0763,19,6.8,1,1.0,5,5,0,0
+EMP0376,22,Male,HR,HR Business Partner,Senior,Leeds,Office,6.1,53000,50K-65K,0.126,14,27.3,1,0.6667,,,0,1
+EMP0377,31,Female,IT,Senior Data Engineer,Senior,Manchester,Hybrid,4.19,60500,50K-65K,0.1744,45,10.5,1,0.5,4,5,0,0
+EMP0378,49,Male,IT,Data Analyst,Mid,London,Hybrid,6.68,58000,50K-65K,0.2733,2,30.3,1,1.0,,,0,1
+EMP0379,41,Male,HR,HR Assistant,Junior,Leeds,Hybrid,3.78,27500,Under 30K,0.1688,33,22.6,0,0.0,4,4,0,0
+EMP0380,34,Female,Sales,Senior Account Executive,Senior,London,Hybrid,8.76,78000,65K-80K,0.009,6,13.6,1,1.0,4,5,1,0
+EMP0381,32,Female,Marketing,Marketing Executive,Mid,Manchester,Hybrid,1.1,46500,40K-50K,0.1084,20,17.3,1,0.5,1,1,0,1
+EMP0382,39,Female,Marketing,Marketing Assistant,Junior,Bristol,Hybrid,1.08,28500,Under 30K,0.0627,17,20.6,1,0.5,2,2,0,0
+EMP0383,50,Female,Sales,Sales Development Representative,Junior,London,Office,4.93,32500,30K-40K,0.0791,13,10.5,1,1.0,4,4,0,0
+EMP0384,31,Female,Operations,Operations Manager,Manager,Edinburgh,Office,1.82,74000,65K-80K,0.0396,9,7.2,1,1.0,3,2,0,0
+EMP0385,34,Male,IT,Junior Software Developer,Junior,London,Office,7.48,38500,30K-40K,0.0473,11,11.6,1,1.0,1,1,0,0
+EMP0386,27,Male,IT,Data Analyst,Mid,London,Hybrid,3.94,54000,50K-65K,0.1616,38,14.8,1,0.5,4,5,0,0
+EMP0387,33,Female,Legal,Legal Assistant,Junior,Birmingham,Remote,2.82,28000,Under 30K,0.0888,18,32.8,1,0.6667,3,4,0,0
+EMP0388,54,Female,Operations,Senior Operations Specialist,Senior,Manchester,Hybrid,6.56,54500,50K-65K,0.0289,11,27.1,1,0.75,4,4,0,0
+EMP0389,51,Male,Legal,Legal Assistant,Junior,London,Office,7.84,40500,40K-50K,0.0383,7,10.0,1,1.0,5,5,0,0
+EMP0390,34,Male,Operations,Operations Analyst,Mid,Leeds,Office,8.06,43500,40K-50K,0.0543,6,9.3,1,1.0,3,2,0,1
+EMP0391,49,Female,IT,Senior Data Engineer,Senior,Edinburgh,Remote,1.93,64000,50K-65K,0.0573,1,33.3,0,0.3333,,,0,1
+EMP0392,38,Female,Finance,Accounts Assistant,Junior,London,Hybrid,7.89,29500,Under 30K,0.0747,12,39.6,1,0.5,4,4,0,0
+EMP0393,33,Female,Operations,Operations Director,Director,Birmingham,Office,8.45,84000,80K-100K,0.0446,18,39.2,1,1.0,3,3,0,0
+EMP0394,30,Male,Sales,Sales Development Representative,Junior,Manchester,Office,3.58,34000,30K-40K,0.0687,17,11.0,1,0.6667,5,5,1,0
+EMP0395,38,Female,Sales,Senior Account Executive,Senior,London,Hybrid,8.13,80000,80K-100K,0.0434,6,7.1,1,1.0,3,3,0,0
+EMP0396,35,Female,IT,Technology Director,Director,Edinburgh,Hybrid,0.3,136000,100K+,0.1618,2,36.1,1,0.75,,,0,0
+EMP0397,39,Male,Operations,Senior Operations Specialist,Senior,Manchester,Hybrid,5.6,47500,40K-50K,0.087,18,10.4,1,0.5,2,1,0,0
+EMP0398,51,Male,Customer Support,Customer Support Specialist,Mid,Manchester,Office,2.92,39000,30K-40K,0.1118,26,21.9,1,1.0,3,2,0,0
+EMP0399,43,Male,Operations,Operations Assistant,Junior,Birmingham,Hybrid,0.58,23500,Under 30K,0.0395,4,11.3,0,0.0,1,1,0,1
+EMP0400,28,Male,Sales,Sales Manager,Manager,Edinburgh,Remote,5.28,88000,80K-100K,0.0353,8,21.2,1,0.5,3,4,0,0
+EMP0401,40,Female,IT,Data Analyst,Mid,Bristol,Office,4.57,45500,40K-50K,0.1174,32,13.4,1,1.0,2,1,0,0
+EMP0402,32,Female,Sales,Sales Development Representative,Junior,Birmingham,Remote,7.66,32000,30K-40K,0.1153,30,38.6,1,0.75,5,4,0,0
+EMP0403,40,Female,Sales,Senior Account Executive,Senior,Manchester,Hybrid,5.39,61000,50K-65K,0.1814,30,38.8,1,0.75,4,5,0,0
+EMP0404,42,Female,Customer Support,Senior Support Specialist,Senior,Manchester,Remote,6.25,53500,50K-65K,0.1212,22,45.9,0,0.25,3,3,0,0
+EMP0405,27,Female,Finance,Accounts Assistant,Junior,Edinburgh,Hybrid,1.34,26500,Under 30K,0.0958,9,43.4,1,0.75,5,3,0,0
+EMP0406,27,Female,Operations,Operations Analyst,Mid,London,Hybrid,7.23,50000,50K-65K,0.0553,16,27.0,1,1.0,3,4,0,0
+EMP0407,40,Male,HR,HR Assistant,Junior,Birmingham,Hybrid,6.52,26500,Under 30K,0.1585,56,28.6,0,0.3333,3,3,0,0
+EMP0408,49,Female,Operations,Operations Assistant,Junior,Edinburgh,Hybrid,3.86,25500,Under 30K,0.0142,5,7.1,1,1.0,4,4,0,0
+EMP0409,33,Male,Sales,Sales Development Representative,Junior,Leeds,Hybrid,4.98,26500,Under 30K,0.1361,32,52.7,1,1.0,3,4,0,0
+EMP0410,42,Female,HR,HR Assistant,Junior,Birmingham,Hybrid,7.06,22500,Under 30K,0.0195,5,18.4,1,0.6667,2,1,0,0
+EMP0411,33,Female,Sales,Sales Executive,Mid,London,Hybrid,1.0,40500,40K-50K,0.0347,3,29.3,1,1.0,3,2,0,0
+EMP0412,25,Male,Legal,Legal Assistant,Junior,Birmingham,Remote,0.31,28000,Under 30K,0.1721,5,23.8,1,1.0,,,0,0
+EMP0413,32,Male,Sales,Sales Development Representative,Junior,Manchester,Office,4.3,26000,Under 30K,0.0108,3,24.7,1,1.0,3,4,0,0
+EMP0414,40,Male,IT,Data Analyst,Mid,Edinburgh,Hybrid,3.38,46000,40K-50K,0.0399,13,30.6,1,1.0,5,4,0,0
+EMP0415,60,Male,Operations,Operations Assistant,Junior,Bristol,Hybrid,9.1,28500,Under 30K,0.1097,17,16.0,1,0.6667,4,4,0,0
+EMP0416,27,Male,Customer Support,Customer Experience Director,Director,Leeds,Office,3.07,110000,100K+,0.0739,10,26.9,1,1.0,5,5,1,1
+EMP0417,29,Male,Customer Support,Customer Support Specialist,Mid,London,Hybrid,1.71,46000,40K-50K,0.1419,25,12.7,1,1.0,1,1,0,1
+EMP0418,57,Male,Sales,Sales Executive,Mid,Edinburgh,Hybrid,5.29,45000,40K-50K,0.0321,5,21.4,1,1.0,5,5,1,1
+EMP0419,43,Female,Customer Support,Customer Support Advisor,Junior,Manchester,Remote,6.09,27500,Under 30K,0.0949,10,15.8,1,1.0,2,2,0,1
+EMP0420,37,Female,Operations,Operations Manager,Manager,Birmingham,Office,0.73,64000,50K-65K,0.0453,0,13.5,1,1.0,4,4,0,0
+EMP0421,25,Female,Sales,Sales Director,Director,Edinburgh,Office,3.87,97500,80K-100K,0.0528,10,6.6,1,1.0,3,4,0,1
+EMP0422,25,Male,HR,HR Advisor,Mid,Manchester,Remote,2.51,41500,40K-50K,0.1261,22,14.4,1,0.5,4,5,0,0
+EMP0423,38,Female,Customer Support,Customer Support Specialist,Mid,Manchester,Hybrid,4.1,39500,30K-40K,0.0561,19,32.3,1,0.8,4,4,0,0
+EMP0424,24,Male,Sales,Sales Executive,Mid,Birmingham,Office,6.86,37000,30K-40K,0.1284,31,29.4,0,0.3333,3,2,0,0
+EMP0425,50,Male,Customer Support,Senior Support Specialist,Senior,Edinburgh,Remote,6.28,48500,40K-50K,0.0489,10,36.3,0,0.0,4,4,0,0
+EMP0426,30,Male,IT,Data Analyst,Mid,London,Remote,4.46,49000,40K-50K,0.0815,24,21.8,1,0.5,4,4,1,0
+EMP0427,49,Male,Customer Support,Customer Support Advisor,Junior,Edinburgh,Remote,5.31,22500,Under 30K,0.0139,7,40.7,1,1.0,3,2,0,0
+EMP0428,51,Female,Legal,Senior Legal Counsel,Senior,Birmingham,Office,4.14,62000,50K-65K,0.0322,6,18.3,1,1.0,2,2,0,0
+EMP0429,52,Male,Sales,Sales Development Representative,Junior,Edinburgh,Hybrid,0.57,29000,Under 30K,0.0174,0,6.2,1,1.0,4,4,0,1
+EMP0430,51,Female,HR,HR Advisor,Mid,London,Hybrid,6.39,47500,40K-50K,0.1766,24,44.7,1,1.0,2,2,0,1
+EMP0431,50,Female,IT,Junior Software Developer,Junior,Edinburgh,Hybrid,3.19,33500,30K-40K,0.089,1,28.9,1,0.6667,,,0,1
+EMP0432,26,Female,Sales,Senior Account Executive,Senior,Edinburgh,Hybrid,5.62,62500,50K-65K,0.0693,16,12.5,1,0.5,3,4,0,0
+EMP0433,30,Male,Marketing,Marketing Director,Director,Bristol,Office,7.58,110000,100K+,0.04,4,36.3,1,1.0,4,3,0,0
+EMP0434,26,Male,IT,Senior Data Engineer,Senior,Manchester,Office,4.04,58500,50K-65K,0.0411,10,5.4,1,1.0,4,5,0,0
+EMP0435,36,Male,IT,Junior Software Developer,Junior,London,Office,0.71,32500,30K-40K,0.0658,4,36.2,1,0.6667,4,3,0,1
+EMP0436,34,Male,Legal,Legal Assistant,Junior,Leeds,Office,4.38,28000,Under 30K,0.0921,29,10.7,0,0.0,3,3,0,0
+EMP0437,43,Female,Finance,Finance Analyst,Mid,Edinburgh,Hybrid,3.25,40500,40K-50K,0.1073,24,36.3,1,1.0,4,4,1,0
+EMP0438,38,Male,Customer Support,Customer Support Manager,Manager,Bristol,Office,3.14,72500,65K-80K,0.1007,18,38.6,1,1.0,3,3,0,0
+EMP0439,43,Male,Operations,Operations Manager,Manager,Manchester,Hybrid,0.5,77500,65K-80K,0.139,7,13.6,1,0.6667,,,0,0
+EMP0440,34,Male,Sales,Sales Executive,Mid,Manchester,Remote,3.15,36500,30K-40K,0.0215,5,31.8,1,1.0,4,3,0,0
+EMP0441,37,Male,Customer Support,Senior Support Specialist,Senior,Birmingham,Remote,5.86,50000,50K-65K,0.2132,42,5.9,0,0.0,3,3,0,0
+EMP0442,36,Female,Operations,Operations Assistant,Junior,London,Remote,1.51,35500,30K-40K,0.1154,22,29.4,1,0.5,4,3,0,1
+EMP0443,48,Male,IT,Junior Software Developer,Junior,London,Hybrid,3.14,33500,30K-40K,0.0354,3,28.2,1,0.8,3,3,0,0
+EMP0444,42,Male,Finance,Finance Analyst,Mid,London,Hybrid,5.62,41500,40K-50K,0.1343,24,26.6,0,0.3333,1,1,0,0
+EMP0445,24,Female,Customer Support,Customer Support Advisor,Junior,London,Office,0.41,27500,Under 30K,0.0091,1,8.5,1,1.0,,,0,0
+EMP0446,22,Female,Operations,Senior Operations Specialist,Senior,London,Remote,1.4,57500,50K-65K,0.0431,3,14.8,1,0.5,3,4,0,0
+EMP0447,46,Male,IT,Junior Software Developer,Junior,London,Hybrid,6.12,36000,30K-40K,0.2022,55,21.0,1,1.0,4,4,1,0
+EMP0448,42,Female,HR,HR Business Partner,Senior,Birmingham,Hybrid,4.49,44500,40K-50K,0.0324,11,7.3,1,1.0,5,4,0,0
+EMP0449,29,Female,Finance,Senior Finance Analyst,Senior,Birmingham,Hybrid,0.76,61000,50K-65K,0.0778,7,25.6,1,0.6667,4,3,0,0
+EMP0450,31,Female,IT,Junior Software Developer,Junior,Manchester,Office,9.36,29500,Under 30K,0.1068,24,32.4,1,0.6667,4,3,0,0
+EMP0451,33,Male,Legal,Legal Assistant,Junior,Manchester,Office,4.24,32000,30K-40K,0.1134,28,33.8,1,0.75,4,5,0,0
+EMP0452,41,Female,Sales,Sales Director,Director,London,Office,3.22,147000,100K+,0.1144,30,25.0,1,1.0,4,5,0,0
+EMP0453,22,Male,IT,Data Analyst,Mid,London,Office,8.1,48000,40K-50K,0.1463,27,37.7,1,1.0,3,3,0,0
+EMP0454,37,Female,Sales,Senior Account Executive,Senior,London,Hybrid,9.24,61000,50K-65K,0.0661,16,6.0,1,1.0,4,3,0,0
+EMP0455,60,Female,Finance,Finance Analyst,Mid,London,Hybrid,2.37,44000,40K-50K,0.1168,20,28.5,0,0.3333,4,3,0,0
+EMP0456,33,Male,Customer Support,Senior Support Specialist,Senior,Birmingham,Hybrid,1.76,44000,40K-50K,0.0924,21,17.2,1,1.0,5,5,0,0
+EMP0457,29,Female,Operations,Operations Director,Director,Birmingham,Office,3.16,115500,100K+,0.0383,7,4.3,1,1.0,3,4,0,0
+EMP0458,36,Male,Sales,Senior Account Executive,Senior,Birmingham,Office,1.52,55000,50K-65K,0.1722,32,27.1,1,0.6667,3,3,0,0
+EMP0459,37,Female,Operations,Operations Analyst,Mid,London,Hybrid,1.75,52000,50K-65K,0.0339,3,22.1,1,0.75,5,5,0,1
+EMP0460,36,Male,Operations,Operations Manager,Manager,Bristol,Hybrid,0.63,63500,50K-65K,0.0688,2,2.2,0,0.0,4,4,0,0
+EMP0461,53,Female,Finance,Finance Analyst,Mid,Leeds,Hybrid,2.06,48000,40K-50K,0.0469,11,12.5,1,1.0,4,4,0,0
+EMP0462,34,Female,Marketing,Marketing Manager,Manager,Birmingham,Office,4.77,70500,65K-80K,0.1328,22,17.8,1,1.0,4,5,0,1
+EMP0463,43,Male,Operations,Operations Manager,Manager,Birmingham,Office,9.05,74500,65K-80K,0.0869,20,15.9,1,1.0,4,4,0,0
+EMP0464,43,Female,Finance,Accounts Assistant,Junior,Edinburgh,Hybrid,7.26,28500,Under 30K,0.0334,7,29.9,1,0.6,3,3,0,0
+EMP0465,31,Female,Customer Support,Senior Support Specialist,Senior,Manchester,Hybrid,5.39,51500,50K-65K,0.2016,48,12.4,1,1.0,4,5,1,0
+EMP0466,40,Female,HR,HR Advisor,Mid,Edinburgh,Office,2.36,41500,40K-50K,0.1628,35,37.8,1,1.0,3,3,0,0
+EMP0467,37,Female,Operations,Senior Operations Specialist,Senior,London,Hybrid,2.9,64500,50K-65K,0.0305,11,26.1,1,1.0,5,4,1,0
+EMP0468,34,Female,HR,HR Assistant,Junior,Edinburgh,Hybrid,4.18,27500,Under 30K,0.0137,2,8.6,1,1.0,2,2,0,0
+EMP0469,34,Female,Marketing,Marketing Manager,Manager,Bristol,Hybrid,1.34,68500,65K-80K,0.0982,8,45.2,1,1.0,4,5,0,0
+EMP0470,41,Male,Sales,Sales Director,Director,Bristol,Hybrid,1.88,106500,100K+,0.0679,13,18.8,1,1.0,5,4,0,0
+EMP0471,44,Male,Marketing,Marketing Manager,Manager,Manchester,Office,6.13,65000,65K-80K,0.057,18,13.4,1,0.5,2,2,0,0
+EMP0472,36,Female,IT,IT Manager,Manager,Leeds,Remote,0.21,70000,65K-80K,0.1833,7,13.2,1,1.0,,,0,0
+EMP0473,37,Female,Sales,Sales Executive,Mid,Birmingham,Hybrid,1.86,43500,40K-50K,0.0438,6,29.7,1,0.6667,3,4,0,0
+EMP0474,52,Male,Marketing,Senior Marketing Specialist,Senior,Birmingham,Office,3.9,54000,50K-65K,0.0664,17,30.1,1,0.6667,4,4,0,0
+EMP0475,25,Female,Operations,Operations Analyst,Mid,Edinburgh,Hybrid,5.45,43000,40K-50K,0.1702,34,40.3,1,0.5,4,4,0,0
+EMP0476,43,Female,IT,Data Analyst,Mid,Birmingham,Office,4.02,36000,30K-40K,0.1722,27,27.7,1,1.0,2,2,0,0
+EMP0477,22,Male,Sales,Sales Executive,Mid,Manchester,Office,4.62,50000,50K-65K,0.0579,17,14.0,1,1.0,4,4,0,0
+EMP0478,36,Male,Marketing,Senior Marketing Specialist,Senior,London,Office,3.18,53000,50K-65K,0.0767,16,47.2,1,0.5,4,4,1,0
+EMP0479,39,Not disclosed,Operations,Operations Director,Director,Leeds,Hybrid,5.16,95000,80K-100K,0.0945,16,23.6,1,1.0,3,4,0,0
+EMP0480,23,Female,Sales,Sales Development Representative,Junior,Bristol,Hybrid,2.54,33500,30K-40K,0.0881,23,26.4,1,0.75,4,2,0,0
+EMP0481,36,Female,Sales,Senior Account Executive,Senior,London,Remote,2.2,65500,65K-80K,0.0459,9,15.8,1,1.0,3,3,0,0
+EMP0482,48,Female,IT,Junior Software Developer,Junior,London,Hybrid,6.09,37000,30K-40K,0.1938,47,36.5,1,1.0,2,2,0,0
+EMP0483,29,Female,Legal,Legal Assistant,Junior,Leeds,Remote,5.11,34500,30K-40K,0.1896,45,20.1,1,1.0,3,4,0,0
+EMP0484,22,Female,Customer Support,Customer Support Manager,Manager,Edinburgh,Hybrid,8.54,76000,65K-80K,0.0565,19,3.5,1,1.0,2,1,0,0
+EMP0485,27,Male,Operations,Operations Assistant,Junior,Leeds,Hybrid,9.37,26000,Under 30K,0.0601,11,16.1,0,0.3333,2,3,0,0
+EMP0486,36,Male,Sales,Senior Account Executive,Senior,London,Hybrid,3.17,67500,65K-80K,0.0806,15,3.9,1,1.0,3,2,0,0
+EMP0487,43,Female,IT,Data Analyst,Mid,Manchester,Office,7.62,47500,40K-50K,0.0876,20,10.2,1,1.0,3,5,0,0
+EMP0488,29,Female,Legal,Senior Legal Counsel,Senior,Birmingham,Office,3.61,64500,50K-65K,0.0769,7,15.5,0,0.3333,3,3,0,0
+EMP0489,30,Male,Sales,Sales Director,Director,London,Office,5.59,132000,100K+,0.021,6,28.7,1,1.0,4,4,0,0
+EMP0490,29,Female,Operations,Senior Operations Specialist,Senior,Birmingham,Remote,3.29,57000,50K-65K,0.2227,59,26.7,1,0.6667,2,2,0,0
+EMP0491,35,Female,Legal,Legal Manager,Manager,Birmingham,Hybrid,0.39,73500,65K-80K,0.0841,2,42.1,0,0.25,,,0,0
+EMP0492,37,Female,IT,Data Analyst,Mid,Leeds,Hybrid,4.67,38000,30K-40K,0.043,15,30.7,0,0.25,3,2,0,0
+EMP0493,31,Male,Sales,Senior Account Executive,Senior,Birmingham,Hybrid,7.82,60000,50K-65K,0.0913,25,17.3,1,0.5,4,3,0,0
+EMP0494,31,Female,Operations,Operations Assistant,Junior,London,Office,4.39,33500,30K-40K,0.0168,9,37.0,1,1.0,4,5,0,0
+EMP0495,26,Female,Customer Support,Customer Support Manager,Manager,Birmingham,Office,8.49,77500,65K-80K,0.1963,44,31.0,1,0.8,2,2,0,0
+EMP0496,43,Female,IT,Data Analyst,Mid,London,Remote,1.24,48000,40K-50K,0.1045,15,46.5,1,0.6,3,3,0,0
+EMP0497,43,Male,Sales,Sales Executive,Mid,Birmingham,Remote,4.82,46000,40K-50K,0.0161,2,40.5,1,1.0,2,2,0,1
+EMP0498,30,Male,IT,Junior Software Developer,Junior,Edinburgh,Office,8.13,26500,Under 30K,0.1188,26,26.3,1,0.5,3,2,0,0
+EMP0499,35,Female,Operations,Operations Assistant,Junior,Birmingham,Office,2.51,23000,Under 30K,0.0322,6,31.1,1,1.0,2,2,0,1
+EMP0500,41,Male,Sales,Sales Executive,Mid,Leeds,Office,0.97,42500,40K-50K,0.0948,9,33.0,0,0.3333,4,4,0,0
+EMP0501,30,Male,IT,Data Analyst,Mid,Edinburgh,Hybrid,3.59,39500,30K-40K,0.0345,12,15.5,1,1.0,3,3,0,0
+EMP0502,32,Male,Operations,Operations Assistant,Junior,Manchester,Remote,0.46,25500,Under 30K,0.0704,3,4.1,1,1.0,,,0,0
+EMP0503,29,Male,Marketing,Marketing Executive,Mid,London,Hybrid,7.97,47500,40K-50K,0.0427,10,19.6,1,0.5,2,2,0,0
+EMP0504,32,Female,Operations,Operations Manager,Manager,Edinburgh,Remote,0.48,83000,80K-100K,0.1015,5,46.2,1,1.0,,,0,0
+EMP0505,36,Female,Finance,Accounts Assistant,Junior,Bristol,Remote,5.31,26500,Under 30K,0.1149,28,12.5,1,1.0,2,1,0,0
+EMP0506,42,Other,Sales,Sales Executive,Mid,London,Hybrid,3.78,53000,50K-65K,0.0357,7,41.8,1,0.5,4,5,1,0
+EMP0507,37,Not disclosed,IT,Data Analyst,Mid,Birmingham,Remote,3.83,50500,50K-65K,0.0953,22,23.3,1,1.0,4,3,0,0
+EMP0508,43,Male,Marketing,Marketing Executive,Mid,Birmingham,Remote,1.15,43000,40K-50K,0.1012,8,37.4,1,0.75,3,3,0,0
+EMP0509,38,Male,HR,HR Business Partner,Senior,London,Hybrid,3.41,66000,65K-80K,0.1717,37,17.4,1,1.0,4,5,0,0
+EMP0510,36,Male,Sales,Sales Executive,Mid,Birmingham,Office,6.28,39000,30K-40K,0.0615,12,17.1,1,1.0,3,4,0,1
+EMP0511,28,Female,Marketing,Marketing Assistant,Junior,Birmingham,Hybrid,1.08,28500,Under 30K,0.0863,11,14.0,1,1.0,2,3,0,1
+EMP0512,22,Female,Marketing,Marketing Manager,Manager,Bristol,Remote,5.89,63500,50K-65K,0.0825,18,21.1,1,0.5,4,5,0,0
+EMP0513,25,Male,Legal,Legal Advisor,Mid,London,Office,4.33,58500,50K-65K,0.0834,25,11.7,0,0.0,4,5,0,0
+EMP0514,33,Male,IT,Data Analyst,Mid,London,Hybrid,8.95,49500,40K-50K,0.08,15,27.1,1,0.75,4,5,0,0
+EMP0515,44,Male,Finance,Finance Analyst,Mid,London,Office,7.39,54500,50K-65K,0.0613,18,14.6,1,1.0,2,1,0,0
+EMP0516,22,Male,Operations,Senior Operations Specialist,Senior,Edinburgh,Office,4.82,56500,50K-65K,0.04,8,32.4,1,1.0,4,4,0,0
+EMP0517,43,Female,IT,Data Analyst,Mid,London,Remote,3.95,42000,40K-50K,0.0601,14,14.4,1,1.0,5,5,0,0
+EMP0518,34,Male,Sales,Sales Executive,Mid,London,Hybrid,7.35,52500,50K-65K,0.0598,13,32.4,1,1.0,2,1,0,0
+EMP0519,26,Male,Operations,Operations Analyst,Mid,Leeds,Office,5.2,36500,30K-40K,0.0326,7,28.2,1,1.0,4,4,0,0
+EMP0520,30,Not disclosed,Sales,Senior Account Executive,Senior,London,Hybrid,8.32,63000,50K-65K,0.2043,37,34.5,1,0.75,4,4,0,0
+EMP0521,35,Female,Marketing,Marketing Assistant,Junior,Manchester,Hybrid,6.01,28000,Under 30K,0.1736,40,35.2,1,0.75,2,2,0,0
+EMP0522,39,Male,IT,Junior Software Developer,Junior,London,Remote,2.1,33000,30K-40K,0.0868,23,14.0,1,0.5,4,4,0,0
+EMP0523,46,Male,IT,Senior Data Engineer,Senior,Leeds,Office,1.08,64500,50K-65K,0.2045,21,23.1,1,0.6667,4,4,0,1
+EMP0524,30,Male,HR,HR Assistant,Junior,Leeds,Hybrid,9.36,25000,Under 30K,0.0407,7,40.5,1,0.5,5,4,0,0
+EMP0525,35,Female,Finance,Finance Analyst,Mid,Edinburgh,Office,2.54,42500,40K-50K,0.1267,39,15.1,1,1.0,3,4,0,0
+EMP0526,39,Male,Finance,Finance Analyst,Mid,Birmingham,Office,1.39,43500,40K-50K,0.2203,31,16.7,1,0.5,4,3,0,0
+EMP0527,51,Female,Customer Support,Customer Support Manager,Manager,Manchester,Hybrid,1.46,58500,50K-65K,0.1015,15,52.7,1,0.5,3,2,0,0
+EMP0528,51,Female,HR,HR Manager,Manager,London,Hybrid,4.98,91500,80K-100K,0.1874,36,37.1,1,1.0,3,2,0,0
+EMP0529,40,Male,HR,HR Assistant,Junior,Manchester,Hybrid,9.08,25500,Under 30K,0.2134,55,30.7,1,0.75,5,5,0,0
+EMP0530,37,Female,Legal,Legal Manager,Manager,Bristol,Remote,4.55,98500,80K-100K,0.1426,7,2.7,0,0.0,,,0,1
+EMP0531,53,Female,HR,HR Assistant,Junior,Birmingham,Office,0.65,23000,Under 30K,0.0179,0,12.1,1,1.0,3,3,0,0
+EMP0532,36,Female,IT,Senior Data Engineer,Senior,Birmingham,Hybrid,6.15,52000,50K-65K,0.1061,24,12.4,1,0.6667,2,2,0,0
+EMP0533,44,Male,Operations,Senior Operations Specialist,Senior,Leeds,Hybrid,8.9,51000,50K-65K,0.0949,36,13.8,1,1.0,5,5,0,0
+EMP0534,41,Female,Sales,Sales Executive,Mid,Leeds,Office,0.67,44500,40K-50K,0.1232,14,15.0,1,1.0,4,4,1,1
+EMP0535,43,Other,HR,HR Assistant,Junior,Manchester,Hybrid,1.55,24500,Under 30K,0.0185,7,4.9,1,1.0,2,4,0,1
+EMP0536,37,Male,Customer Support,Customer Support Specialist,Mid,Edinburgh,Office,0.62,35500,30K-40K,0.1605,18,24.3,1,1.0,,,0,1
+EMP0537,39,Female,IT,Senior Data Engineer,Senior,Birmingham,Remote,7.23,66500,65K-80K,0.1185,15,18.2,1,1.0,3,3,0,1
+EMP0538,37,Female,Operations,Operations Analyst,Mid,London,Hybrid,7.29,39000,30K-40K,0.0953,27,12.1,0,0.3333,2,3,0,0
+EMP0539,39,Female,Operations,Senior Operations Specialist,Senior,Edinburgh,Office,1.68,55500,50K-65K,0.2029,48,11.6,1,0.5,3,3,0,0
+EMP0540,45,Male,Operations,Senior Operations Specialist,Senior,Bristol,Hybrid,8.77,50000,50K-65K,0.0948,30,11.0,1,1.0,2,2,0,0
+EMP0541,39,Male,Sales,Sales Executive,Mid,London,Hybrid,1.87,52500,50K-65K,0.0684,17,19.3,1,0.6667,3,3,0,0
+EMP0542,31,Female,HR,HR Advisor,Mid,Edinburgh,Remote,4.77,38500,30K-40K,0.0293,7,17.3,1,0.6667,4,4,0,0
+EMP0543,33,Female,Finance,Accounts Assistant,Junior,Leeds,Office,7.03,30000,30K-40K,0.0296,5,34.8,1,1.0,4,4,0,0
+EMP0544,36,Not disclosed,Sales,Sales Manager,Manager,Edinburgh,Hybrid,0.27,82000,80K-100K,0.0341,0,3.5,1,1.0,,,0,0
+EMP0545,22,Female,Operations,Operations Analyst,Mid,London,Hybrid,3.32,36000,30K-40K,0.104,17,48.4,1,0.75,5,3,0,0
+EMP0546,39,Male,Marketing,Marketing Assistant,Junior,Manchester,Hybrid,0.41,24000,Under 30K,0.0554,6,14.9,1,0.5,,,0,0
+EMP0547,41,Male,Marketing,Marketing Manager,Manager,Bristol,Office,2.3,71000,65K-80K,0.0448,9,16.7,0,0.0,4,4,0,0
+EMP0548,35,Male,Finance,Finance Analyst,Mid,Edinburgh,Office,3.95,48500,40K-50K,0.0726,19,20.4,0,0.0,2,1,0,0
+EMP0549,43,Male,Finance,Finance Analyst,Mid,Leeds,Hybrid,0.86,40500,40K-50K,0.0842,12,9.2,1,0.5,3,3,0,0
+EMP0550,28,Male,HR,HR Business Partner,Senior,Edinburgh,Hybrid,1.63,50500,50K-65K,0.1295,20,12.4,0,0.0,3,3,0,0
+EMP0551,45,Male,Marketing,Marketing Executive,Mid,Bristol,Hybrid,7.06,33000,30K-40K,0.1615,33,39.2,1,0.75,3,3,0,0
+EMP0552,22,Female,Operations,Senior Operations Specialist,Senior,Manchester,Remote,5.09,48000,40K-50K,0.2054,41,10.9,1,0.6667,3,3,0,0
+EMP0553,32,Female,IT,Data Analyst,Mid,Manchester,Hybrid,4.96,44500,40K-50K,0.0434,13,29.6,1,0.5,5,5,0,0
+EMP0554,43,Not disclosed,IT,Senior Data Engineer,Senior,London,Remote,6.61,77500,65K-80K,0.0956,23,8.8,1,0.6667,3,3,0,0
+EMP0555,39,Female,Operations,Operations Assistant,Junior,Manchester,Office,4.91,27500,Under 30K,0.041,8,1.1,0,0.0,3,3,0,1
+EMP0556,47,Female,Operations,Operations Manager,Manager,Birmingham,Hybrid,5.5,72000,65K-80K,0.0731,11,19.2,1,0.75,3,3,0,0
+EMP0557,35,Female,IT,Senior Data Engineer,Senior,Bristol,Remote,8.17,67500,65K-80K,0.0868,21,14.0,0,0.0,4,5,0,0
+EMP0558,48,Male,Sales,Sales Executive,Mid,Leeds,Office,6.89,33500,30K-40K,0.0578,9,25.7,0,0.3333,3,2,0,0
+EMP0559,36,Female,Marketing,Marketing Executive,Mid,Leeds,Hybrid,9.23,42000,40K-50K,0.1096,36,9.8,1,1.0,3,1,0,0
+EMP0560,42,Male,IT,Senior Data Engineer,Senior,Manchester,Remote,2.4,58500,50K-65K,0.1167,17,32.1,1,1.0,2,1,0,1
+EMP0561,34,Male,Finance,Finance Analyst,Mid,Bristol,Hybrid,5.16,44000,40K-50K,0.2075,41,27.4,1,0.6667,3,3,0,0
+EMP0562,29,Female,IT,Junior Software Developer,Junior,Manchester,Remote,7.16,33000,30K-40K,0.1054,27,37.2,1,0.75,4,4,0,0
+EMP0563,53,Male,Finance,Accounts Assistant,Junior,Leeds,Hybrid,0.56,25000,Under 30K,0.0595,5,10.6,1,1.0,4,4,0,0
+EMP0564,30,Female,Operations,Operations Analyst,Mid,London,Office,2.74,48500,40K-50K,0.0198,5,1.3,1,1.0,4,4,1,0
+EMP0565,45,Female,IT,Senior Data Engineer,Senior,Bristol,Office,3.2,63500,50K-65K,0.1034,42,21.9,0,0.3333,3,3,0,0
+EMP0566,24,Female,Finance,Senior Finance Analyst,Senior,London,Remote,4.87,65000,65K-80K,0.0214,5,8.0,0,0.0,4,3,0,0
+EMP0567,49,Female,Sales,Sales Development Representative,Junior,Bristol,Hybrid,6.7,31500,30K-40K,0.2298,46,21.4,0,0.0,3,4,0,0
+EMP0568,40,Male,Customer Support,Senior Support Specialist,Senior,Birmingham,Hybrid,0.5,49000,40K-50K,0.0456,7,31.7,1,0.8,,,0,0
+EMP0569,37,Male,Customer Support,Customer Support Specialist,Mid,London,Hybrid,5.86,35000,30K-40K,0.1996,57,11.4,1,1.0,3,3,0,0
+EMP0570,42,Other,Operations,Operations Analyst,Mid,London,Hybrid,2.43,51000,50K-65K,0.0777,15,9.2,1,1.0,5,5,0,0
+EMP0571,39,Female,IT,IT Manager,Manager,Birmingham,Hybrid,0.98,80500,80K-100K,0.1241,9,13.2,0,0.0,3,2,0,0
+EMP0572,58,Male,Sales,Sales Development Representative,Junior,Edinburgh,Office,2.82,29500,Under 30K,0.0227,7,38.4,1,0.75,3,4,0,0
+EMP0573,37,Other,Operations,Operations Assistant,Junior,Bristol,Hybrid,4.22,30000,30K-40K,0.1543,36,10.8,1,0.5,4,4,0,0
+EMP0574,44,Other,Operations,Operations Assistant,Junior,Leeds,Office,0.76,25000,Under 30K,0.1788,15,15.3,1,0.5,4,4,0,0
+EMP0575,44,Female,Operations,Operations Analyst,Mid,Birmingham,Remote,6.05,34500,30K-40K,0.2238,42,17.8,1,0.5,3,4,0,0
+EMP0576,39,Female,IT,Junior Software Developer,Junior,London,Office,5.47,35000,30K-40K,0.2291,45,23.2,1,0.6667,3,4,0,0
+EMP0577,50,Male,Operations,Senior Operations Specialist,Senior,London,Hybrid,2.67,65000,65K-80K,0.0777,18,6.9,0,0.0,2,2,0,0
+EMP0578,40,Female,Customer Support,Customer Support Advisor,Junior,Birmingham,Hybrid,2.03,24000,Under 30K,0.2233,35,7.9,1,1.0,4,3,0,0
+EMP0579,44,Male,Customer Support,Customer Support Specialist,Mid,Birmingham,Office,5.17,31500,30K-40K,0.0645,11,28.4,1,0.6667,2,2,0,1
+EMP0580,35,Female,Finance,Finance Analyst,Mid,London,Hybrid,3.12,41500,40K-50K,0.1653,56,25.9,1,0.5,4,4,0,0
+EMP0581,44,Male,Sales,Sales Executive,Mid,London,Hybrid,1.77,49000,40K-50K,0.0807,10,33.7,1,0.5,3,4,0,0
+EMP0582,29,Female,Operations,Operations Manager,Manager,Birmingham,Office,1.43,62000,50K-65K,0.0394,8,4.0,1,1.0,4,4,0,0
+EMP0583,35,Female,Finance,Accounts Assistant,Junior,London,Hybrid,7.83,30000,30K-40K,0.1406,24,9.6,1,1.0,4,3,0,0
+EMP0584,36,Female,Customer Support,Customer Support Specialist,Mid,Birmingham,Hybrid,8.78,34500,30K-40K,0.1382,31,42.5,1,1.0,5,4,0,0
+EMP0585,43,Male,IT,Data Analyst,Mid,Leeds,Hybrid,8.71,43000,40K-50K,0.0325,3,19.9,1,1.0,4,4,0,1
+EMP0586,35,Female,IT,Junior Software Developer,Junior,London,Hybrid,2.36,40000,40K-50K,0.1314,10,3.2,1,1.0,,,0,1
+EMP0587,36,Male,Sales,Sales Development Representative,Junior,Manchester,Office,6.64,26000,Under 30K,0.0424,16,6.7,1,1.0,4,4,0,0
+EMP0588,38,Female,Finance,Finance Analyst,Mid,Manchester,Remote,2.64,45000,40K-50K,0.0291,10,44.7,1,0.5,3,2,0,0
+EMP0589,53,Female,IT,Data Analyst,Mid,London,Office,9.36,54500,50K-65K,0.1266,29,9.0,1,1.0,3,2,0,0
+EMP0590,40,Other,IT,IT Manager,Manager,Manchester,Hybrid,7.21,86000,80K-100K,0.102,30,42.0,1,1.0,3,3,0,0
+EMP0591,23,Female,Legal,Legal Assistant,Junior,Manchester,Office,8.02,33000,30K-40K,0.1166,31,10.4,1,1.0,3,2,0,0
+EMP0592,30,Male,IT,Senior Data Engineer,Senior,London,Hybrid,8.91,62000,50K-65K,0.1351,20,1.9,1,1.0,4,4,0,0
+EMP0593,24,Female,Operations,Operations Assistant,Junior,London,Office,3.32,34500,30K-40K,0.2032,10,35.9,1,0.75,,,0,1
+EMP0594,29,Female,Operations,Operations Analyst,Mid,Birmingham,Office,1.85,38500,30K-40K,0.0178,5,20.7,1,0.5,3,3,0,0
+EMP0595,35,Male,Customer Support,Customer Support Advisor,Junior,London,Remote,2.77,32000,30K-40K,0.1515,36,35.4,1,0.75,4,5,0,0
+EMP0596,31,Female,HR,HR Business Partner,Senior,London,Hybrid,0.53,59000,50K-65K,0.0456,0,33.9,1,0.6667,,,0,1
+EMP0597,40,Male,Operations,Operations Analyst,Mid,Manchester,Remote,5.82,32500,30K-40K,0.1421,27,15.9,1,0.5,5,5,0,1
+EMP0598,57,Male,Sales,Sales Executive,Mid,Edinburgh,Remote,8.52,34000,30K-40K,0.1404,32,19.9,1,0.6667,3,3,0,0
+EMP0599,35,Female,IT,IT Manager,Manager,Manchester,Hybrid,6.96,100500,100K+,0.046,7,29.4,1,0.5,3,3,0,0
+EMP0600,40,Male,HR,HR Manager,Manager,Leeds,Office,3.87,71500,65K-80K,0.1869,49,11.5,1,1.0,5,4,0,0
