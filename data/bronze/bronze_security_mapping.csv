@@ -1,0 +1,18 @@
+user_email,user_name,access_type,department,location,role_description,ingestion_timestamp,source_file_name,source_system,pipeline_run_id
+hr.director@abcglobal.com,HR Director,ALL,ALL,ALL,HR Director,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+hr.businesspartner@abcglobal.com,HR Business Partner,ALL,ALL,ALL,HR Business Partner,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.hr@abcglobal.com,HR Manager,DEPARTMENT,HR,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.finance@abcglobal.com,Finance Manager,DEPARTMENT,Finance,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.sales@abcglobal.com,Sales Manager,DEPARTMENT,Sales,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.marketing@abcglobal.com,Marketing Manager,DEPARTMENT,Marketing,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.it@abcglobal.com,IT Manager,DEPARTMENT,IT,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.operations@abcglobal.com,Operations Manager,DEPARTMENT,Operations,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.customersupport@abcglobal.com,Customer Support Manager,DEPARTMENT,Customer Support,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.legal@abcglobal.com,Legal Manager,DEPARTMENT,Legal,ALL,Department Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.london@abcglobal.com,London Location Manager,LOCATION,ALL,London,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.manchester@abcglobal.com,Manchester Location Manager,LOCATION,ALL,Manchester,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.birmingham@abcglobal.com,Birmingham Location Manager,LOCATION,ALL,Birmingham,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.leeds@abcglobal.com,Leeds Location Manager,LOCATION,ALL,Leeds,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.bristol@abcglobal.com,Bristol Location Manager,LOCATION,ALL,Bristol,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+manager.edinburgh@abcglobal.com,Edinburgh Location Manager,LOCATION,ALL,Edinburgh,Location Manager,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+viewer.sales.london@abcglobal.com,Sales London Viewer,RESTRICTED,Sales,London,Restricted Viewer,2026-07-09 14:28:10 UTC,security_mapping.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58

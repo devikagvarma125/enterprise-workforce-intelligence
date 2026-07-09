@@ -1,0 +1,84 @@
+attrition_id,employee_id,exit_date,exit_reason,attrition_type,regrettable_attrition_flag,notice_period_days,ingestion_timestamp,source_file_name,source_system,pipeline_run_id
+EXT000001,EMP0009,2024-02-10,Personal Reasons,Voluntary,0,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000002,EMP0018,2024-04-25,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000003,EMP0029,2026-02-18,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000004,EMP0048,2025-12-26,Better Opportunity,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000005,EMP0050,2024-07-22,Resignation,Voluntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000006,EMP0052,2025-07-09,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000007,EMP0056,2024-06-14,Relocation,Voluntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000008,EMP0067,2024-02-14,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000009,EMP0069,2024-11-05,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000010,EMP0071,2025-06-30,Retirement,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000011,EMP0072,2026-05-23,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000012,EMP0076,2024-11-08,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000013,EMP0102,2026-06-24,Better Opportunity,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000014,EMP0124,2024-11-14,Resignation,Voluntary,1,90,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000015,EMP0130,2025-02-07,Personal Reasons,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000016,EMP0153,2026-06-23,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000017,EMP0155,2026-06-13,Better Opportunity,Voluntary,1,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000018,EMP0164,2025-10-24,Better Opportunity,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000019,EMP0174,2026-04-17,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000020,EMP0188,2025-01-04,Better Opportunity,Voluntary,1,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000021,EMP0190,2025-04-01,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000022,EMP0191,2024-12-22,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000023,EMP0200,2025-08-30,Termination,Involuntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000024,EMP0216,2025-08-21,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000025,EMP0219,2025-12-15,Resignation,Voluntary,1,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000026,EMP0227,2024-04-20,Resignation,Voluntary,1,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000027,EMP0243,2026-05-18,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000028,EMP0245,2025-08-14,Retirement,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000029,EMP0247,2024-10-19,Better Opportunity,Voluntary,1,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000030,EMP0251,2025-05-22,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000031,EMP0260,2024-05-03,Relocation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000032,EMP0270,2024-03-07,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000033,EMP0273,2026-06-05,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000034,EMP0279,2026-04-21,Retirement,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000035,EMP0281,2025-12-20,Better Opportunity,Voluntary,0,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000036,EMP0289,2025-02-18,Resignation,Voluntary,0,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000037,EMP0299,2025-08-07,Better Opportunity,Voluntary,1,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000038,EMP0313,2026-05-14,Termination,Involuntary,0,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000039,EMP0315,2024-04-05,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000040,EMP0319,2025-01-07,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000041,EMP0324,2024-09-26,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000042,EMP0328,2026-04-07,Termination,Involuntary,0,90,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000043,EMP0332,2025-03-20,Better Opportunity,Voluntary,1,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000044,EMP0354,2024-03-14,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000045,EMP0355,2024-05-08,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000046,EMP0356,2024-05-14,Other,Voluntary,0,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000047,EMP0359,2025-11-03,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000048,EMP0376,2024-12-14,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000049,EMP0378,2024-02-26,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000050,EMP0381,2026-03-16,Resignation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000051,EMP0390,2025-04-06,Personal Reasons,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000052,EMP0391,2024-07-22,Retirement,Voluntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000053,EMP0399,2026-04-22,Resignation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000054,EMP0416,2026-04-16,Resignation,Voluntary,1,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000055,EMP0417,2026-04-27,Other,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000056,EMP0418,2025-11-24,Relocation,Voluntary,0,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000057,EMP0419,2025-01-15,Better Opportunity,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000058,EMP0421,2026-04-05,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000059,EMP0429,2026-03-15,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000060,EMP0430,2025-04-07,Resignation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000061,EMP0431,2024-02-17,Termination,Involuntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000062,EMP0435,2025-03-31,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000063,EMP0442,2026-05-01,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000064,EMP0459,2026-06-07,Better Opportunity,Voluntary,1,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000065,EMP0462,2025-07-22,Resignation,Voluntary,1,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000066,EMP0497,2025-02-18,Better Opportunity,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000067,EMP0499,2026-03-19,Other,Voluntary,0,0,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000068,EMP0510,2025-04-14,Resignation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000069,EMP0511,2026-03-09,Personal Reasons,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000070,EMP0523,2026-06-13,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000071,EMP0530,2024-07-09,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000072,EMP0534,2026-05-08,Personal Reasons,Voluntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000073,EMP0535,2025-12-05,Relocation,Voluntary,0,60,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000074,EMP0536,2025-12-10,Better Opportunity,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000075,EMP0537,2025-05-20,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000076,EMP0555,2026-03-02,Resignation,Voluntary,1,14,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000077,EMP0560,2025-10-18,Resignation,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000078,EMP0579,2025-06-23,Retirement,Voluntary,0,90,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000079,EMP0585,2026-06-12,Termination,Involuntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000080,EMP0586,2024-08-03,Personal Reasons,Voluntary,0,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000081,EMP0593,2024-04-23,Resignation,Voluntary,1,30,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000082,EMP0596,2026-06-30,Termination,Involuntary,0,90,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58
+EXT000083,EMP0597,2026-01-03,Resignation,Voluntary,1,90,2026-07-09 14:28:10 UTC,attrition.csv,Synthetic HR Source,RUN_20260709_152810_8b074d58

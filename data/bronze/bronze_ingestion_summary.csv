@@ -1,0 +1,10 @@
+dataset_name,source_file,bronze_file,source_rows,bronze_rows,source_columns,bronze_columns,status
+employees,data\raw\employees.csv,data\bronze\bronze_employees.csv,600,600,16,20,Success
+payroll,data\raw\payroll.csv,data\bronze\bronze_payroll.csv,15059,15059,9,13,Success
+attendance,data\raw\attendance.csv,data\bronze\bronze_attendance.csv,15059,15059,9,13,Success
+leave,data\raw\leave.csv,data\bronze\bronze_leave.csv,2927,2927,7,11,Success
+recruitment,data\raw\recruitment.csv,data\bronze\bronze_recruitment.csv,743,743,13,17,Success
+training,data\raw\training.csv,data\bronze\bronze_training.csv,1543,1543,9,13,Success
+performance,data\raw\performance.csv,data\bronze\bronze_performance.csv,1455,1455,8,12,Success
+attrition,data\raw\attrition.csv,data\bronze\bronze_attrition.csv,83,83,7,11,Success
+security_mapping,data\raw\security_mapping.csv,data\bronze\bronze_security_mapping.csv,17,17,6,10,Success
