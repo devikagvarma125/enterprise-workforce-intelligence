@@ -1,0 +1,9 @@
+department_name,total_employees,leavers,attrition_rate_percentage
+IT,110,22,20.0
+HR,45,8,17.78
+Customer Support,74,11,14.86
+Operations,110,16,14.55
+Marketing,57,8,14.04
+Sales,109,12,11.01
+Finance,62,4,6.45
+Legal,33,2,6.06

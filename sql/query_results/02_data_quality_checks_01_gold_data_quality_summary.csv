@@ -1,0 +1,18 @@
+check_name,issue_count,status
+DQ-001 Duplicate employee_id in dim_employee,0,Pass
+DQ-002 Missing employee_id in dim_employee,0,Pass
+DQ-003 Payroll records without valid employee_key,0,Pass
+DQ-004 Attendance records without valid employee_key,0,Pass
+DQ-005 Leave records without valid employee_key,0,Pass
+DQ-006 Training records without valid employee_key,0,Pass
+DQ-007 Performance records without valid employee_key,0,Pass
+DQ-008 Attrition records without valid employee_key,0,Pass
+DQ-009 Payroll annual salary less than or equal to zero,0,Pass
+DQ-010 Attendance present plus absent greater than working days,0,Pass
+DQ-011 Performance rating outside 1 to 5,0,Pass
+DQ-012 Potential rating outside 1 to 5,0,Pass
+DQ-013 Duplicate date_key in dim_date,0,Pass
+DQ-014 Invalid RLS access type,0,Pass
+DQ-015 Missing RLS user email,0,Pass
+DQ-016 Department access value not found in dim_department,0,Pass
+DQ-017 Location access value not found in dim_location,0,Pass

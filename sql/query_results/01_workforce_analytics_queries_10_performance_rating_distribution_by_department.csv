@@ -1,0 +1,39 @@
+department_name,performance_rating,review_count,average_potential_rating,promotions
+Customer Support,1,10,1.3,0
+Customer Support,2,19,2.0,0
+Customer Support,3,50,2.96,0
+Customer Support,4,68,3.9,9
+Customer Support,5,36,4.75,10
+Finance,1,3,1.0,0
+Finance,2,25,2.0,0
+Finance,3,49,2.92,0
+Finance,4,52,3.98,6
+Finance,5,21,4.76,7
+HR,2,17,2.06,0
+HR,3,36,3.0,0
+HR,4,32,4.06,3
+HR,5,19,4.68,2
+IT,1,4,1.25,0
+IT,2,36,1.89,0
+IT,3,91,2.99,0
+IT,4,100,4.05,13
+IT,5,30,4.8,6
+Legal,2,8,2.0,0
+Legal,3,41,3.0,0
+Legal,4,26,4.04,3
+Legal,5,9,4.67,2
+Marketing,1,2,1.0,0
+Marketing,2,25,1.72,0
+Marketing,3,52,3.02,0
+Marketing,4,38,3.79,2
+Marketing,5,9,4.78,3
+Operations,1,5,1.2,0
+Operations,2,28,2.0,0
+Operations,3,101,3.02,0
+Operations,4,109,3.98,11
+Operations,5,30,4.77,3
+Sales,1,5,1.2,0
+Sales,2,30,1.83,0
+Sales,3,117,3.02,0
+Sales,4,93,3.99,14
+Sales,5,29,4.9,5

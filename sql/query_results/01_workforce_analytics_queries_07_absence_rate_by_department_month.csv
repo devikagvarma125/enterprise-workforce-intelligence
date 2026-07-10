@@ -1,0 +1,241 @@
+year,month,month_name,department_name,average_absence_rate_percentage,total_absent_days,total_working_days
+2024,1,January,HR,11.0,86,782
+2024,1,January,Marketing,10.38,105,1012
+2024,1,January,IT,9.9,214,2162
+2024,1,January,Sales,9.6,181,1886
+2024,1,January,Operations,9.47,183,1932
+2024,1,January,Finance,8.89,90,1012
+2024,1,January,Customer Support,8.78,101,1150
+2024,1,January,Legal,8.37,52,621
+2024,2,February,IT,10.74,212,1974
+2024,2,February,HR,10.2,75,735
+2024,2,February,Marketing,9.74,90,924
+2024,2,February,Customer Support,9.52,100,1050
+2024,2,February,Operations,9.24,163,1764
+2024,2,February,Sales,8.39,148,1764
+2024,2,February,Finance,8.0,79,987
+2024,2,February,Legal,5.82,33,567
+2024,3,March,Legal,10.05,57,567
+2024,3,March,IT,9.58,183,1911
+2024,3,March,Sales,9.01,157,1743
+2024,3,March,Customer Support,8.76,92,1050
+2024,3,March,Operations,8.68,155,1785
+2024,3,March,Marketing,8.46,80,945
+2024,3,March,HR,8.3,61,735
+2024,3,March,Finance,8.26,85,1029
+2024,4,April,HR,11.23,84,748
+2024,4,April,IT,10.24,205,2002
+2024,4,April,Customer Support,9.36,105,1122
+2024,4,April,Operations,9.2,174,1892
+2024,4,April,Sales,9.2,168,1826
+2024,4,April,Marketing,9.09,90,990
+2024,4,April,Finance,8.38,94,1122
+2024,4,April,Legal,7.07,42,594
+2024,5,May,Customer Support,11.39,131,1150
+2024,5,May,HR,11.13,87,782
+2024,5,May,Marketing,10.15,105,1035
+2024,5,May,Legal,9.82,61,621
+2024,5,May,Sales,9.47,183,1932
+2024,5,May,Operations,8.9,172,1932
+2024,5,May,IT,8.55,181,2116
+2024,5,May,Finance,8.01,94,1173
+2024,6,June,HR,12.65,86,680
+2024,6,June,Legal,10.36,58,560
+2024,6,June,Sales,9.41,160,1700
+2024,6,June,IT,9.35,172,1840
+2024,6,June,Customer Support,8.85,92,1040
+2024,6,June,Marketing,8.78,79,900
+2024,6,June,Operations,8.49,141,1660
+2024,6,June,Finance,8.24,84,1020
+2024,7,July,IT,10.85,232,2139
+2024,7,July,Customer Support,10.7,128,1196
+2024,7,July,Legal,10.09,65,644
+2024,7,July,HR,9.72,76,782
+2024,7,July,Marketing,9.64,102,1058
+2024,7,July,Sales,9.26,181,1955
+2024,7,July,Finance,9.21,108,1173
+2024,7,July,Operations,9.0,176,1955
+2024,8,August,Marketing,11.62,115,990
+2024,8,August,IT,10.77,218,2024
+2024,8,August,HR,9.89,74,748
+2024,8,August,Sales,9.25,179,1936
+2024,8,August,Customer Support,9.09,106,1166
+2024,8,August,Finance,9.09,102,1122
+2024,8,August,Legal,8.42,50,594
+2024,8,August,Operations,8.14,154,1892
+2024,9,September,HR,11.34,81,714
+2024,9,September,IT,10.94,209,1911
+2024,9,September,Customer Support,9.69,114,1176
+2024,9,September,Marketing,9.63,91,945
+2024,9,September,Operations,8.77,164,1869
+2024,9,September,Sales,8.68,164,1890
+2024,9,September,Finance,7.94,85,1071
+2024,9,September,Legal,7.41,42,567
+2024,10,October,IT,10.46,219,2093
+2024,10,October,HR,10.23,80,782
+2024,10,October,Finance,9.98,117,1173
+2024,10,October,Customer Support,9.37,125,1334
+2024,10,October,Sales,9.14,187,2047
+2024,10,October,Marketing,9.08,94,1035
+2024,10,October,Legal,8.86,55,621
+2024,10,October,Operations,7.98,167,2093
+2024,11,November,HR,13.74,101,735
+2024,11,November,Customer Support,10.77,138,1281
+2024,11,November,Marketing,10.58,100,945
+2024,11,November,IT,9.42,182,1932
+2024,11,November,Sales,9.36,177,1890
+2024,11,November,Legal,9.17,52,567
+2024,11,November,Operations,8.52,161,1890
+2024,11,November,Finance,8.4,90,1071
+2024,12,December,Operations,10.03,203,2024
+2024,12,December,Sales,10.02,205,2046
+2024,12,December,Customer Support,9.91,133,1342
+2024,12,December,IT,9.64,195,2024
+2024,12,December,Marketing,9.19,93,1012
+2024,12,December,Finance,8.38,94,1122
+2024,12,December,HR,8.05,62,770
+2024,12,December,Legal,6.4,38,594
+2025,1,January,HR,12.12,92,759
+2025,1,January,Marketing,10.21,108,1058
+2025,1,January,Legal,9.99,62,621
+2025,1,January,IT,9.45,200,2116
+2025,1,January,Sales,8.51,182,2139
+2025,1,January,Customer Support,8.35,119,1426
+2025,1,January,Operations,8.09,173,2139
+2025,1,January,Finance,7.42,87,1173
+2025,2,February,Finance,10.38,108,1040
+2025,2,February,Legal,10.18,57,560
+2025,2,February,Customer Support,10.08,123,1220
+2025,2,February,Marketing,9.49,93,980
+2025,2,February,IT,9.18,167,1820
+2025,2,February,Operations,8.85,170,1920
+2025,2,February,Sales,8.53,162,1900
+2025,2,February,HR,8.33,55,660
+2025,3,March,Marketing,10.79,111,1029
+2025,3,March,Customer Support,10.56,133,1260
+2025,3,March,IT,10.0,189,1890
+2025,3,March,Finance,9.98,109,1092
+2025,3,March,Sales,9.83,194,1974
+2025,3,March,HR,9.11,67,735
+2025,3,March,Legal,9.01,53,588
+2025,3,March,Operations,8.78,177,2016
+2025,4,April,Marketing,11.32,122,1078
+2025,4,April,Sales,10.16,210,2068
+2025,4,April,Finance,9.62,110,1144
+2025,4,April,Customer Support,9.39,128,1364
+2025,4,April,HR,9.09,70,770
+2025,4,April,IT,8.94,177,1980
+2025,4,April,Operations,8.72,186,2134
+2025,4,April,Legal,8.61,53,616
+2025,5,May,Customer Support,10.41,142,1364
+2025,5,May,Sales,10.23,207,2024
+2025,5,May,HR,9.22,71,770
+2025,5,May,Marketing,9.0,101,1122
+2025,5,May,Finance,8.74,100,1144
+2025,5,May,Legal,8.15,52,638
+2025,5,May,Operations,7.96,168,2112
+2025,5,May,IT,7.71,156,2024
+2025,6,June,Customer Support,10.14,132,1302
+2025,6,June,Sales,9.99,193,1932
+2025,6,June,Finance,9.61,107,1113
+2025,6,June,IT,9.37,181,1932
+2025,6,June,Marketing,8.87,95,1071
+2025,6,June,Operations,8.83,178,2016
+2025,6,June,HR,8.71,64,735
+2025,6,June,Legal,7.55,46,609
+2025,7,July,HR,10.56,85,805
+2025,7,July,Customer Support,10.42,151,1449
+2025,7,July,Sales,10.16,222,2185
+2025,7,July,Marketing,9.39,108,1150
+2025,7,July,Legal,9.15,61,667
+2025,7,July,IT,8.51,182,2139
+2025,7,July,Finance,8.12,99,1219
+2025,7,July,Operations,8.11,179,2208
+2025,8,August,Customer Support,9.45,125,1323
+2025,8,August,Marketing,9.33,96,1029
+2025,8,August,HR,9.12,67,735
+2025,8,August,Sales,8.75,180,2058
+2025,8,August,IT,8.7,170,1953
+2025,8,August,Finance,8.57,99,1155
+2025,8,August,Operations,7.97,159,1995
+2025,8,August,Legal,7.23,44,609
+2025,9,September,Customer Support,10.54,146,1386
+2025,9,September,Sales,10.19,222,2178
+2025,9,September,Marketing,9.93,107,1078
+2025,9,September,IT,9.73,197,2024
+2025,9,September,Legal,8.94,59,660
+2025,9,September,HR,8.84,70,792
+2025,9,September,Operations,8.62,182,2112
+2025,9,September,Finance,8.61,106,1232
+2025,10,October,HR,10.22,87,851
+2025,10,October,IT,10.16,215,2116
+2025,10,October,Legal,9.86,68,690
+2025,10,October,Sales,9.62,219,2277
+2025,10,October,Operations,9.59,214,2231
+2025,10,October,Customer Support,9.52,138,1449
+2025,10,October,Finance,8.62,111,1288
+2025,10,October,Marketing,8.61,97,1127
+2025,11,November,Sales,10.35,205,1980
+2025,11,November,Finance,10.27,115,1120
+2025,11,November,IT,9.51,175,1840
+2025,11,November,Operations,9.12,177,1940
+2025,11,November,Customer Support,8.98,115,1280
+2025,11,November,Marketing,8.88,87,980
+2025,11,November,Legal,8.83,53,600
+2025,11,November,HR,6.84,52,760
+2025,12,December,HR,10.7,96,897
+2025,12,December,Customer Support,9.9,148,1495
+2025,12,December,Operations,9.57,218,2277
+2025,12,December,Marketing,9.33,103,1104
+2025,12,December,Finance,9.23,121,1311
+2025,12,December,Legal,8.7,60,690
+2025,12,December,IT,8.51,180,2116
+2025,12,December,Sales,8.35,190,2277
+2026,1,January,IT,10.51,208,1980
+2026,1,January,HR,10.37,89,858
+2026,1,January,Legal,9.4,62,660
+2026,1,January,Finance,9.25,118,1276
+2026,1,January,Customer Support,9.23,130,1408
+2026,1,January,Marketing,8.9,94,1056
+2026,1,January,Operations,8.69,195,2244
+2026,1,January,Sales,8.4,181,2156
+2026,2,February,Legal,11.29,70,620
+2026,2,February,Finance,10.85,128,1180
+2026,2,February,IT,10.28,185,1800
+2026,2,February,HR,9.49,74,780
+2026,2,February,Customer Support,9.23,120,1300
+2026,2,February,Marketing,9.22,94,1020
+2026,2,February,Sales,8.6,172,2000
+2026,2,February,Operations,8.42,170,2020
+2026,3,March,Legal,11.44,78,682
+2026,3,March,IT,9.73,197,2024
+2026,3,March,Customer Support,9.44,137,1452
+2026,3,March,HR,8.74,75,858
+2026,3,March,Operations,8.73,194,2222
+2026,3,March,Sales,8.69,193,2222
+2026,3,March,Finance,8.63,112,1298
+2026,3,March,Marketing,8.38,94,1122
+2026,4,April,IT,9.73,199,2046
+2026,4,April,Finance,9.4,122,1298
+2026,4,April,Sales,9.32,205,2200
+2026,4,April,Customer Support,9.02,131,1452
+2026,4,April,Legal,8.21,56,682
+2026,4,April,Operations,7.99,174,2178
+2026,4,April,Marketing,7.73,85,1100
+2026,4,April,HR,7.46,64,858
+2026,5,May,Finance,9.77,121,1239
+2026,5,May,IT,9.47,185,1953
+2026,5,May,Customer Support,9.0,121,1344
+2026,5,May,Operations,8.98,183,2037
+2026,5,May,Marketing,8.95,94,1050
+2026,5,May,HR,8.77,70,798
+2026,5,May,Sales,8.6,177,2058
+2026,5,May,Legal,8.14,53,651
+2026,6,June,Customer Support,10.1,140,1386
+2026,6,June,Finance,9.88,126,1276
+2026,6,June,HR,9.57,80,836
+2026,6,June,Marketing,9.55,105,1100
+2026,6,June,IT,9.09,184,2024
+2026,6,June,Sales,8.9,190,2134
+2026,6,June,Legal,8.36,57,682
+2026,6,June,Operations,8.33,176,2112

@@ -1,0 +1,9 @@
+department_name,training_records,completed_training_records,completion_rate_percentage,total_training_hours,average_training_score
+HR,121,89,73.55,1042.7,76.85
+IT,281,201,71.53,2425.1,77.81
+Operations,278,197,70.86,2286.4,78.32
+Customer Support,199,141,70.85,1777.6,77.26
+Sales,264,185,70.08,2183.1,76.8
+Marketing,159,108,67.92,1349.7,78.02
+Finance,156,103,66.03,1303.9,76.73
+Legal,85,55,64.71,762.4,76.97

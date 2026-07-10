@@ -1,0 +1,18 @@
+user_email,role_description,access_type,security_department,security_location,visible_employee_count
+hr.businesspartner@abcglobal.com,HR Business Partner,ALL,ALL,ALL,600
+hr.director@abcglobal.com,HR Director,ALL,ALL,ALL,600
+manager.london@abcglobal.com,Location Manager,LOCATION,ALL,London,169
+manager.birmingham@abcglobal.com,Location Manager,LOCATION,ALL,Birmingham,112
+manager.it@abcglobal.com,Department Manager,DEPARTMENT,IT,ALL,110
+manager.operations@abcglobal.com,Department Manager,DEPARTMENT,Operations,ALL,110
+manager.sales@abcglobal.com,Department Manager,DEPARTMENT,Sales,ALL,109
+manager.manchester@abcglobal.com,Location Manager,LOCATION,ALL,Manchester,104
+manager.edinburgh@abcglobal.com,Location Manager,LOCATION,ALL,Edinburgh,76
+manager.customersupport@abcglobal.com,Department Manager,DEPARTMENT,Customer Support,ALL,74
+manager.leeds@abcglobal.com,Location Manager,LOCATION,ALL,Leeds,70
+manager.bristol@abcglobal.com,Location Manager,LOCATION,ALL,Bristol,69
+manager.finance@abcglobal.com,Department Manager,DEPARTMENT,Finance,ALL,62
+manager.marketing@abcglobal.com,Department Manager,DEPARTMENT,Marketing,ALL,57
+manager.hr@abcglobal.com,Department Manager,DEPARTMENT,HR,ALL,45
+manager.legal@abcglobal.com,Department Manager,DEPARTMENT,Legal,ALL,33
+viewer.sales.london@abcglobal.com,Restricted Viewer,RESTRICTED,Sales,London,28

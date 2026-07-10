@@ -1,0 +1,49 @@
+department_name,location,active_headcount
+IT,London,31
+Sales,London,28
+Operations,London,23
+Finance,London,22
+IT,Manchester,19
+Sales,Manchester,19
+Customer Support,Birmingham,17
+Operations,Birmingham,17
+Customer Support,London,16
+IT,Birmingham,15
+Marketing,London,15
+Operations,Bristol,15
+Operations,Manchester,15
+Sales,Birmingham,15
+Sales,Bristol,13
+Operations,Edinburgh,12
+Operations,Leeds,12
+Customer Support,Manchester,11
+HR,Manchester,11
+Sales,Edinburgh,11
+Sales,Leeds,11
+Finance,Leeds,10
+IT,Bristol,10
+Customer Support,Bristol,9
+Finance,Birmingham,9
+Finance,Edinburgh,9
+Legal,London,9
+HR,Birmingham,8
+Marketing,Birmingham,8
+Marketing,Manchester,8
+Customer Support,Edinburgh,7
+HR,Edinburgh,7
+IT,Edinburgh,7
+Marketing,Bristol,7
+HR,Leeds,6
+IT,Leeds,6
+Legal,Birmingham,6
+Legal,Leeds,6
+Marketing,Edinburgh,6
+Marketing,Leeds,5
+Finance,Bristol,4
+Finance,Manchester,4
+HR,London,4
+Legal,Bristol,4
+Legal,Manchester,4
+Customer Support,Leeds,3
+Legal,Edinburgh,2
+HR,Bristol,1
